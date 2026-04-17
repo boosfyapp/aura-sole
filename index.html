@@ -433,6 +433,245 @@
       opacity: 1;
       transform: translateX(-50%) translateY(0);
     }
+
+    /* ── CATEGORY FILTER ── */
+    .categories-section {
+      background: var(--white);
+      border-bottom: 1px solid #eee;
+      padding: 0.6rem 1rem;
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+    }
+
+    .categories-scroll {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      scroll-behavior: smooth;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding-bottom: 2px;
+    }
+
+    .categories-scroll::-webkit-scrollbar { display: none; }
+
+    .cat-chip {
+      flex-shrink: 0;
+      padding: 0.4rem 1rem;
+      border-radius: 50px;
+      border: 1.5px solid #ddd;
+      background: var(--white);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.78rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+      color: var(--gray);
+    }
+
+    .cat-chip:hover { border-color: var(--gold); color: var(--black); }
+
+    .cat-chip.active {
+      background: var(--black);
+      border-color: var(--black);
+      color: var(--white);
+    }
+
+    @media (min-width: 1024px) {
+      .categories-scroll { flex-wrap: wrap; overflow-x: visible; }
+    }
+
+    /* ── PRODUCT DETAIL OVERLAY ── */
+    #producto-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 200;
+      background: var(--white);
+      flex-direction: column;
+    }
+
+    #producto-overlay.open {
+      display: flex;
+      animation: slideUp 0.28s ease;
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(40px); opacity: 0; }
+      to   { transform: translateY(0);    opacity: 1; }
+    }
+
+    .producto-header {
+      flex-shrink: 0;
+      background: rgba(255,255,255,0.96);
+      backdrop-filter: blur(8px);
+      padding: 0.8rem 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .btn-back {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      padding: 0.2rem 0.5rem;
+      border-radius: 8px;
+      transition: background 0.2s;
+      line-height: 1;
+    }
+
+    .btn-back:hover { background: var(--gray-light); }
+
+    .producto-header-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .producto-scroll {
+      flex: 1;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .producto-img-wrap {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      max-height: 50vh;
+      overflow: hidden;
+      background: var(--gray-light);
+    }
+
+    .producto-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .producto-body {
+      padding: 1.25rem 1.25rem 1rem;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .producto-categoria-badge {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      color: var(--gold);
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+
+    .producto-nombre {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.45rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 0.6rem;
+    }
+
+    .producto-precio-grande {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--gold);
+      margin-bottom: 0.85rem;
+    }
+
+    .producto-desc {
+      color: var(--gray);
+      font-size: 0.88rem;
+      line-height: 1.65;
+      margin-bottom: 1.25rem;
+    }
+
+    .stock-wrap { margin-bottom: 1rem; }
+
+    .stock-label {
+      font-size: 0.82rem;
+      font-weight: 600;
+      margin-bottom: 0.45rem;
+    }
+
+    .stock-label.bueno   { color: #2f855a; }
+    .stock-label.medio   { color: #c05621; }
+    .stock-label.urgente { color: #c53030; }
+
+    @keyframes parpadeo {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.35; }
+    }
+
+    .parpadeo { animation: parpadeo 0.9s ease-in-out infinite; }
+
+    .stock-bar-bg {
+      height: 8px;
+      background: #eee;
+      border-radius: 50px;
+      overflow: hidden;
+    }
+
+    .stock-bar-fill {
+      height: 100%;
+      border-radius: 50px;
+      width: 0%;
+      transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .stock-bar-fill.bueno   { background: #38a169; }
+    .stock-bar-fill.medio   { background: #dd6b20; }
+    .stock-bar-fill.urgente { background: #e53e3e; }
+
+    .producto-cta {
+      flex-shrink: 0;
+      background: var(--white);
+      border-top: 1px solid #eee;
+      padding: 0.9rem 1rem;
+      display: flex;
+      gap: 0.75rem;
+      box-shadow: 0 -4px 16px rgba(0,0,0,0.08);
+    }
+
+    .btn-cta-main {
+      flex: 1;
+      padding: 0.9rem;
+      background: var(--black);
+      color: var(--white);
+      border: none;
+      border-radius: 10px;
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .btn-cta-main:hover { background: var(--gold); }
+
+    .btn-cta-secondary {
+      padding: 0.9rem 1.1rem;
+      background: none;
+      border: 2px solid var(--black);
+      border-radius: 10px;
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .btn-cta-secondary:hover { background: var(--black); color: var(--white); }
   </style>
 </head>
 <body>
@@ -452,6 +691,13 @@
   <p>Estilo y comodidad para cada paso</p>
   <div class="search-wrap">
     <input type="search" id="buscador" placeholder="Buscar producto..." oninput="filtrar(this.value)" />
+  </div>
+</div>
+
+<!-- CATEGORÍAS -->
+<div class="categories-section">
+  <div class="categories-scroll" id="categories-scroll">
+    <button class="cat-chip active" data-cat="todos" onclick="filtrarCategoria('todos')">👟 Todos</button>
   </div>
 </div>
 
@@ -12830,6 +13076,30 @@
   </div>
 </div>
 
+<!-- PRODUCTO DETALLE -->
+<div id="producto-overlay">
+  <div class="producto-header">
+    <button class="btn-back" onclick="cerrarProducto()" aria-label="Volver">←</button>
+    <span class="producto-header-title" id="prod-header-title"></span>
+  </div>
+  <div class="producto-scroll">
+    <div class="producto-img-wrap">
+      <img id="prod-img" src="" alt="" />
+    </div>
+    <div class="producto-body">
+      <p class="producto-categoria-badge" id="prod-categoria"></p>
+      <h1 class="producto-nombre" id="prod-nombre"></h1>
+      <p class="producto-precio-grande" id="prod-precio"></p>
+      <p class="producto-desc">Calzado de alta calidad. Consulta disponibilidad de tallas y colores por WhatsApp.</p>
+      <div id="prod-stock-wrap"></div>
+    </div>
+  </div>
+  <div class="producto-cta">
+    <button class="btn-cta-main" onclick="agregarDesdeDetalle()">🛒 Agregar al carrito</button>
+    <button class="btn-cta-secondary" onclick="comprarAhora()">Comprar ahora</button>
+  </div>
+</div>
+
 <!-- TOAST -->
 <div id="toast"></div>
 
@@ -12919,14 +13189,188 @@
     window.open(url, '_blank');
   }
 
-  /* ── BUSCADOR ── */
-  function filtrar(q) {
-    const termino = q.toLowerCase().trim();
-    document.querySelectorAll('.product-card').forEach(card => {
-      const nombre = card.dataset.nombre || '';
-      card.style.display = nombre.includes(termino) ? '' : 'none';
+  /* ── ESTADO FILTROS ── */
+  let termBusqueda = '';
+  let categoriaActiva = 'todos';
+  let productoActual = null;
+  let _closingFromButton = false;
+
+  /* ── CATEGORÍAS ── */
+  const CAT_ICONOS = {
+    'ALPARGATAS': '🌿', 'BOTA ALTA': '👢', 'BOTA/BOTIN 2025': '🥾',
+    'BOTAS Y PANTUFLA UGG': '🧸', 'COWBOY BOOTS': '🤠',
+    'MULES, FLATS Y MOCASINES': '👞', 'SANDALIAS': '👡',
+    'TACONES': '👠', 'TACONES EN OFERTA': '🏷️', 'TENIS DAMA': '👟',
+  };
+
+  function normalizarCat(txt) {
+    return (txt || '').trim().replace(/\\+$/, '').trim();
+  }
+
+  function initCategorias() {
+    const seen = new Set();
+    document.querySelectorAll('.card-categoria').forEach(el => {
+      const cat = normalizarCat(el.textContent);
+      if (cat) seen.add(cat);
+    });
+    const scroll = document.getElementById('categories-scroll');
+    [...seen].sort().forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'cat-chip';
+      btn.dataset.cat = cat;
+      btn.textContent = (CAT_ICONOS[cat] || '👠') + ' ' + cat;
+      btn.onclick = () => filtrarCategoria(cat);
+      scroll.appendChild(btn);
     });
   }
+
+  function filtrarCategoria(cat) {
+    categoriaActiva = cat;
+    document.querySelectorAll('.cat-chip').forEach(chip => {
+      chip.classList.toggle('active', chip.dataset.cat === cat);
+    });
+    const activeChip = document.querySelector('.cat-chip.active');
+    if (activeChip) activeChip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    aplicarFiltros();
+  }
+
+  /* ── BUSCADOR ── */
+  function filtrar(q) {
+    termBusqueda = q.toLowerCase().trim();
+    aplicarFiltros();
+  }
+
+  function aplicarFiltros() {
+    let visibles = 0;
+    document.querySelectorAll('.product-card').forEach(card => {
+      const nombre = card.dataset.nombre || '';
+      const cat = normalizarCat(card.querySelector('.card-categoria')?.textContent);
+      const matchSearch = !termBusqueda || nombre.includes(termBusqueda);
+      const matchCat = categoriaActiva === 'todos' || cat === categoriaActiva;
+      const visible = matchSearch && matchCat;
+      card.style.display = visible ? '' : 'none';
+      if (visible) visibles++;
+    });
+    const span = document.querySelector('.section-title span');
+    if (span) span.textContent = visibles + ' productos';
+  }
+
+  /* ── PRODUCT CARDS CLICKABLES ── */
+  function initProductCards() {
+    document.querySelectorAll('.product-card').forEach(card => {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', e => {
+        if (e.target.closest('.btn-agregar')) return;
+        const imgEl = card.querySelector('img');
+        const onclickStr = card.querySelector('.btn-agregar')?.getAttribute('onclick') || '';
+        const matchId = onclickStr.match(/agregarCarrito\((\d+)/);
+        const matchPrecio = onclickStr.match(/,\s*(\d+)\s*\)\s*$/);
+        abrirProducto({
+          id: matchId ? parseInt(matchId[1]) : 0,
+          precioNum: matchPrecio ? parseInt(matchPrecio[1]) : 0,
+          nombre: card.querySelector('.card-nombre')?.textContent.trim() || '',
+          precio: card.querySelector('.card-precio')?.textContent.trim() || '',
+          imagen: imgEl?.src || '',
+          categoria: normalizarCat(card.querySelector('.card-categoria')?.textContent),
+        });
+      });
+    });
+  }
+
+  /* ── PRODUCTO DETALLE ── */
+  function abrirProducto(prod) {
+    productoActual = prod;
+    document.getElementById('prod-img').src = prod.imagen;
+    document.getElementById('prod-img').alt = prod.nombre;
+    document.getElementById('prod-header-title').textContent = prod.nombre;
+    document.getElementById('prod-categoria').textContent = prod.categoria;
+    document.getElementById('prod-nombre').textContent = prod.nombre;
+    document.getElementById('prod-precio').textContent = prod.precio;
+    initStockBar(prod.id);
+    document.getElementById('producto-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+    history.pushState({ producto: prod.id }, '', '?producto=' + prod.id);
+  }
+
+  function cerrarProducto() {
+    if (!document.getElementById('producto-overlay').classList.contains('open')) return;
+    _closingFromButton = true;
+    document.getElementById('producto-overlay').classList.remove('open');
+    document.body.style.overflow = '';
+    productoActual = null;
+    if (history.state && history.state.producto !== undefined) history.back();
+  }
+
+  window.addEventListener('popstate', () => {
+    if (_closingFromButton) { _closingFromButton = false; return; }
+    const overlay = document.getElementById('producto-overlay');
+    if (overlay.classList.contains('open')) {
+      overlay.classList.remove('open');
+      document.body.style.overflow = '';
+      productoActual = null;
+    }
+  });
+
+  function agregarDesdeDetalle() {
+    if (!productoActual) return;
+    agregarCarrito(productoActual.id, productoActual.nombre, productoActual.precioNum);
+    cerrarProducto();
+  }
+
+  function comprarAhora() {
+    if (!productoActual) return;
+    agregarCarrito(productoActual.id, productoActual.nombre, productoActual.precioNum);
+    cerrarProducto();
+    setTimeout(abrirCarrito, 320);
+  }
+
+  /* ── COOKIES ── */
+  function getCookie(name) {
+    const m = document.cookie.match(new RegExp('(?:^|; )' + name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : null;
+  }
+
+  function setCookie(name, value, hours) {
+    const exp = new Date(Date.now() + hours * 3600000).toUTCString();
+    document.cookie = name + '=' + encodeURIComponent(value) + '; expires=' + exp + '; path=/';
+  }
+
+  /* ── STOCK BAR ── */
+  function initStockBar(prodId) {
+    const MAX = 5;
+    const key = 'aura_stock_' + prodId;
+    const existing = getCookie(key);
+    let stock;
+    if (existing === null) {
+      stock = MAX;
+      setCookie(key, MAX - 1, 24);
+    } else {
+      stock = Math.max(1, parseInt(existing));
+      setCookie(key, Math.max(1, stock - 1), 24);
+    }
+    const pct = (stock / MAX) * 100;
+    let nivel, texto, blink = false;
+    if (stock >= 4) {
+      nivel = 'bueno'; texto = '✅ ¡Solo quedan ' + stock + ' pares disponibles!';
+    } else if (stock >= 2) {
+      nivel = 'medio'; texto = '⚠️ ¡Solo quedan ' + stock + ' pares disponibles!';
+    } else {
+      nivel = 'urgente'; texto = '🔴 ¡Último par disponible!'; blink = true;
+    }
+    document.getElementById('prod-stock-wrap').innerHTML =
+      '<div class="stock-wrap">' +
+        '<div class="stock-label ' + nivel + (blink ? ' parpadeo' : '') + '">' + texto + '</div>' +
+        '<div class="stock-bar-bg"><div class="stock-bar-fill ' + nivel + '" id="stock-bar-fill" style="width:0%"></div></div>' +
+      '</div>';
+    setTimeout(() => {
+      const fill = document.getElementById('stock-bar-fill');
+      if (fill) fill.style.width = pct + '%';
+    }, 80);
+  }
+
+  /* ── INIT ── */
+  initCategorias();
+  initProductCards();
 
   /* ── PANEL CARRITO ── */
   function abrirCarrito() {
