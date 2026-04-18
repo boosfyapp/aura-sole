@@ -44,4 +44,5 @@ jobs:
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/boosfyapp/aura-sole.git
           git add productos.json index.html
           git diff --cached --quiet || git commit -m "chore: actualizar catálogo $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin master
           git push origin HEAD
