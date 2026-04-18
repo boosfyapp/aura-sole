@@ -878,41 +878,42 @@ def generar_html(productos: list, actualizado: str) -> str:
     return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }}
 
-  /* ── COOKIES ── */
-  function getCookie(name) {{
-    const m = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
-    return m ? decodeURIComponent(m[2]) : null;
-  }}
+  /* ── STOCK BAR (datos reales de tallas) ── */
+  function initStockBar(tallas) {{
+    const lista = tallas || [];
+    const total = lista.length;
+    const disponibles = lista.filter(function(t) {{ return t.disponible; }}).length;
 
-  function setCookie(name, value, days) {{
-    const exp = new Date(Date.now() + days * 864e5).toUTCString();
-    document.cookie = name + '=' + encodeURIComponent(value) + ';expires=' + exp + ';path=/;SameSite=Lax';
-  }}
-
-  /* ── STOCK BAR ── */
-  function initStockBar(productId) {{
-    const key = 'aura_stock_' + productId;
-    const stored = getCookie(key);
-    let count = stored !== null ? parseInt(stored, 10) : 5;
-    setCookie(key, Math.max(1, count - 1), 1);
-
-    const pct = (count / 5) * 100;
     const fill = document.getElementById('stock-fill');
-    const msg = document.getElementById('stock-msg');
+    const msg  = document.getElementById('stock-msg');
+    const wrap = document.getElementById('stock-bar-bg') || fill.parentElement;
+
+    if (total === 0) {{
+      wrap.style.display = 'none';
+      msg.textContent = '';
+      return;
+    }}
+    wrap.style.display = '';
+
+    const pct = Math.round((disponibles / total) * 100);
     fill.style.width = pct + '%';
 
-    if (count >= 4) {{
-      fill.style.background = '#22c55e';
-      msg.textContent = count + ' pares disponibles';
-      msg.style.color = '#16a34a';
-    }} else if (count >= 2) {{
+    if (disponibles === 0) {{
+      fill.style.background = '#ef4444';
+      msg.textContent = 'Sin tallas disponibles';
+      msg.style.color = '#dc2626';
+    }} else if (disponibles === 1) {{
+      fill.style.background = '#ef4444';
+      msg.textContent = '¡Última talla disponible!';
+      msg.style.color = '#dc2626';
+    }} else if (disponibles <= 3) {{
       fill.style.background = '#f97316';
-      msg.textContent = 'Solo ' + count + ' pares disponibles';
+      msg.textContent = 'Solo ' + disponibles + ' tallas disponibles';
       msg.style.color = '#ea580c';
     }} else {{
-      fill.style.background = '#ef4444';
-      msg.textContent = '¡Último par!';
-      msg.style.color = '#dc2626';
+      fill.style.background = '#22c55e';
+      msg.textContent = disponibles + ' tallas disponibles';
+      msg.style.color = '#16a34a';
     }}
   }}
 
@@ -966,7 +967,7 @@ def generar_html(productos: list, actualizado: str) -> str:
     const precio = p.precio || p.precio_min || 0;
     document.getElementById('modal-precio').textContent = '$' + precio.toLocaleString('es-MX');
 
-    initStockBar(p.id || p.nombre || 'prod');
+    initStockBar(p.tallas || []);
     renderTallas(p.tallas || []);
 
     const btn = document.getElementById('btn-cta');
