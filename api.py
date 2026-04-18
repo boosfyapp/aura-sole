@@ -16,9 +16,12 @@ CORS(app, origins=[
 
 
 def cargar_productos() -> list:
-    with open("productos.json", "r", encoding="utf-8") as f:
-        datos = json.load(f)
-    return datos.get("productos", [])
+    try:
+        with open("productos.json", "r", encoding="utf-8") as f:
+            datos = json.load(f)
+        return datos.get("productos", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
 
 
 @app.route("/health")
