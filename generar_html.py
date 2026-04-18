@@ -971,7 +971,7 @@ def generar_html(productos: list, actualizado: str) -> str:
     const el = document.getElementById('prod-thumbs');
     if (imgs.length <= 1) {{ el.innerHTML = ''; return; }}
     el.innerHTML = imgs.map(function(url, i) {{
-      return '<img src="' + escAttr(url) + '" class="prod-thumb' + (i===0?' active':'') + '" onclick="cambiarImgProd(\'' + escAttr(url) + '\', this)" alt="" />';
+      return '<img src="' + escAttr(url) + '" class="prod-thumb' + (i===0?' active':'') + '" onclick="cambiarImgProd(\\'' + escAttr(url) + '\\', this)" alt="" />';
     }}).join('');
   }}
 
@@ -993,7 +993,7 @@ def generar_html(productos: list, actualizado: str) -> str:
 
     el.innerHTML = tallas.map(function(t) {{
       if (t.disponible) {{
-        return '<button class="size-chip" onclick="seleccionarTalla(\'' + escAttr(t.numero) + '\', this)">' + escHtml(t.numero) + '</button>';
+        return '<button class="size-chip" onclick="seleccionarTalla(\\'' + escAttr(t.numero) + '\\', this)">' + escHtml(t.numero) + '</button>';
       }} else {{
         return '<button class="size-chip agotada" disabled>' + escHtml(t.numero) + '</button>';
       }}
