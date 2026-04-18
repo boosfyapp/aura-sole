@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import sys
 import time
 import re
 import threading
@@ -35,10 +36,24 @@ def get_session() -> requests.Session:
     return _thread_local.session
 
 
-def get_soup(url: str):
-    resp = get_session().get(url, timeout=20)
-    resp.raise_for_status()
-    return BeautifulSoup(resp.text, "html.parser")
+def get_soup(url: str, retries: int = 3):
+    for attempt in range(retries):
+        try:
+            resp = get_session().get(url, timeout=20)
+            if resp.status_code == 429:
+                wait = 10 * (2 ** attempt)
+                print(f"    Rate limited, esperando {wait}s...")
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return BeautifulSoup(resp.text, "html.parser")
+        except requests.exceptions.RequestException as e:
+            if attempt < retries - 1:
+                wait = 3 * (2 ** attempt)
+                print(f"    Error de red (intento {attempt + 1}/{retries}), reintentando en {wait}s: {e}")
+                time.sleep(wait)
+            else:
+                raise
 
 
 def limpiar_precio(texto: str) -> float:
@@ -359,7 +374,7 @@ def main():
 
     if not productos_base:
         print("No se extrajeron productos. Revisa la URL o si el sitio bloqueó el scraper.")
-        return
+        sys.exit(1)
 
     # Phase 2: parallel deep scraping
     total = len(productos_base)
