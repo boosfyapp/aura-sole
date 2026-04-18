@@ -1,0 +1,10 @@
+.git
+.github
+__pycache__
+*.pyc
+*.pyo
+scraper.py
+generar_html.py
+deploy.bat
+CNAME
+*.md

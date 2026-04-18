@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from urllib.parse import urlparse
 from config import URL_CATEGORIA, aplicar_precio
@@ -17,11 +19,24 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-DELAY = 1.5  # seconds between requests
+DELAY = 1.5        # seconds between requests for listing pages (sequential)
+DELAY_DETALLE = 0.3  # per-thread delay for deep scraping (6 workers = ~1.8 req/s effective)
+MAX_WORKERS = 6    # parallel workers for phase-2 deep scraping
+
+# Per-thread requests session for connection reuse
+_thread_local = threading.local()
+
+
+def get_session() -> requests.Session:
+    if not hasattr(_thread_local, "session"):
+        s = requests.Session()
+        s.headers.update(HEADERS)
+        _thread_local.session = s
+    return _thread_local.session
 
 
 def get_soup(url: str):
-    resp = requests.get(url, headers=HEADERS, timeout=20)
+    resp = get_session().get(url, timeout=20)
     resp.raise_for_status()
     return BeautifulSoup(resp.text, "html.parser")
 
@@ -162,6 +177,7 @@ def extraer_tallas(soup) -> list[dict]:
 
 
 def scrape_producto_detalle(url: str, base: dict) -> dict | None:
+    time.sleep(DELAY_DETALLE)
     try:
         soup = get_soup(url)
     except Exception as e:
@@ -321,8 +337,23 @@ def scrape() -> list:
     return todos
 
 
+def _fallback_producto(base: dict, idx: int) -> dict:
+    return {
+        "id": id_from_url(base.get("url", "")) or f"producto-{idx}",
+        "nombre": base["nombre"],
+        "sku": "",
+        "categoria": base["categoria"],
+        "precio": base.get("precio_min", 0),
+        "url": base.get("url", ""),
+        "imagenes": [base["imagen"]] if base.get("imagen") else [],
+        "tallas": [],
+    }
+
+
 def main():
-    # Phase 1: scrape listing pages
+    t0 = time.time()
+
+    # Phase 1: scrape listing pages (sequential)
     productos_base = scrape()
     print(f"\nTotal en listados: {len(productos_base)}")
 
@@ -330,42 +361,42 @@ def main():
         print("No se extrajeron productos. Revisa la URL o si el sitio bloqueó el scraper.")
         return
 
-    # Phase 2: deep scrape each product page
-    print("Iniciando scraping profundo por producto...\n")
-    productos = []
+    # Phase 2: parallel deep scraping
     total = len(productos_base)
+    print(f"Scraping profundo de {total} productos con {MAX_WORKERS} workers...\n")
 
-    for i, base in enumerate(productos_base, 1):
-        print(f"  [{i}/{total}] {base['nombre'][:55]}")
+    productos = [None] * total
+    completados = 0
+    lock = threading.Lock()
+
+    def scrape_con_indice(args):
+        idx, base = args
         if not base.get("url"):
-            print("    Sin URL, omitiendo detalle")
-            productos.append({
-                "id": f"producto-{i}",
-                "nombre": base["nombre"],
-                "sku": "",
-                "categoria": base["categoria"],
-                "precio": base.get("precio_min", 0),
-                "url": "",
-                "imagenes": [base["imagen"]] if base.get("imagen") else [],
-                "tallas": [],
-            })
-            continue
-
+            return idx, _fallback_producto(base, idx)
         detalle = scrape_producto_detalle(base["url"], base)
-        if detalle:
-            productos.append(detalle)
-        else:
-            productos.append({
-                "id": id_from_url(base["url"]),
-                "nombre": base["nombre"],
-                "sku": "",
-                "categoria": base["categoria"],
-                "precio": base.get("precio_min", 0),
-                "url": base["url"],
-                "imagenes": [base["imagen"]] if base.get("imagen") else [],
-                "tallas": [],
-            })
-        time.sleep(DELAY)
+        return idx, detalle or _fallback_producto(base, idx)
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {
+            executor.submit(scrape_con_indice, (i, base)): i
+            for i, base in enumerate(productos_base)
+        }
+        for future in as_completed(futures):
+            try:
+                idx, detalle = future.result()
+                productos[idx] = detalle
+            except Exception as e:
+                idx = futures[future]
+                print(f"  ERROR [{idx}]: {e}")
+                productos[idx] = _fallback_producto(productos_base[idx], idx)
+
+            with lock:
+                completados += 1
+                if completados % 50 == 0 or completados == total:
+                    elapsed = time.time() - t0
+                    print(f"  Progreso: {completados}/{total} — {elapsed:.0f}s")
+
+    productos = [p for p in productos if p is not None]
 
     datos = {
         "actualizado": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
@@ -376,7 +407,8 @@ def main():
     with open("productos.json", "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=2)
 
-    print(f"\nproductos.json guardado con {len(productos)} productos.")
+    elapsed = time.time() - t0
+    print(f"\nproductos.json guardado con {len(productos)} productos en {elapsed:.0f}s.")
     print("\n--- Muestra (primeros 3) ---")
     for p in productos[:3]:
         tallas_disp = [t["numero"] for t in p.get("tallas", []) if t["disponible"]]
