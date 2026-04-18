@@ -41,7 +41,9 @@ def generar_cards(productos: list) -> str:
         prod_id = get_product_id(p, i)
 
         imagenes = p.get("imagenes", [])
-        imagen = imagenes[0] if imagenes else p.get("imagen", "")
+        if not imagenes and p.get("imagen"):
+            imagenes = [p["imagen"]]
+        imagen = imagenes[0] if imagenes else ""
 
         precio_num = p.get("precio", p.get("precio_min", 0))
         precio_max = p.get("precio_max", precio_num)
@@ -52,6 +54,9 @@ def generar_cards(productos: list) -> str:
         )
         cat = p.get("categoria", "DAMAS")
 
+        tallas_json = json.dumps(p.get("tallas", []), ensure_ascii=False).replace('"', "&quot;")
+        imagenes_json = json.dumps(imagenes, ensure_ascii=False).replace('"', "&quot;")
+
         card = f"""
         <div class="product-card"
              data-nombre="{nombre_esc.lower()}"
@@ -59,6 +64,8 @@ def generar_cards(productos: list) -> str:
              data-id="{prod_id}"
              data-imagen="{imagen}"
              data-precio-num="{precio_num}"
+             data-tallas="{tallas_json}"
+             data-imagenes="{imagenes_json}"
              onclick="abrirProducto(this)">
           <div class="card-img-wrap">
             <img
@@ -906,67 +913,41 @@ def generar_html(productos: list, actualizado: str) -> str:
     const precioNum = parseInt(cardEl.dataset.precioNum || '0', 10);
     const categoria = (cardEl.dataset.categoria || '').trim();
 
-    productoActual  = {{ id, nombre, imagen, precio: precioTxt, precioNum, categoria, tallas: null }};
+    // Read tallas and images directly from embedded card data (no API needed)
+    let tallasData = [];
+    try {{ tallasData = JSON.parse(cardEl.dataset.tallas || '[]'); }} catch(e) {{}}
+    let imagenesData = [];
+    try {{ imagenesData = JSON.parse(cardEl.dataset.imagenes || '[]'); }} catch(e) {{}}
+    if (!imagenesData.length && imagen) imagenesData = [imagen];
+
+    productoActual = {{ id, nombre, imagen, precio: precioTxt, precioNum, categoria, tallas: tallasData, imagenes: imagenesData }};
     tallaSeleccionada = null;
 
-    // Populate overlay immediately with embedded card data
-    document.getElementById('prod-img-main').src = imagen;
+    // Populate overlay immediately
+    document.getElementById('prod-img-main').src = imagenesData[0] || imagen;
     document.getElementById('prod-img-main').alt = nombre;
-    document.getElementById('prod-thumbs').innerHTML = '';
     document.getElementById('prod-header-title').textContent = nombre;
     document.getElementById('prod-categoria').textContent = categoria;
     document.getElementById('prod-nombre').textContent = nombre;
     document.getElementById('prod-precio').textContent = precioTxt;
 
-    // Stock: cookie-based while we wait for API
-    initStockBarCookie(id || nombre);
+    // Gallery thumbnails
+    renderThumbs(imagenesData);
 
-    // Tallas: show loading spinner
+    // Stock bar with real talla data
+    if (tallasData.length > 0) {{
+      initStockBarReal(tallasData);
+    }} else {{
+      initStockBarCookie(id || nombre);
+    }}
+
+    // Tallas chips — immediate, no spinner
     document.getElementById('prod-tallas-section').style.display = '';
-    document.getElementById('prod-tallas-chips').innerHTML = '<span class="tallas-loading">Cargando tallas...</span>';
-
-    // CTA: enabled without talla requirement while loading
-    setCTA(null);
+    renderTallas(tallasData);
 
     document.getElementById('producto-overlay').classList.add('open');
     document.body.style.overflow = 'hidden';
     history.pushState({{ producto: id }}, '', '?producto=' + encodeURIComponent(id));
-
-    // Enrich with API data (tallas + full images)
-    if (id) {{
-      var _ctrl = new AbortController();
-      var _tid = setTimeout(function() {{ _ctrl.abort(); }}, 5000);
-      fetch('/api/productos/' + encodeURIComponent(id), {{ signal: _ctrl.signal }})
-        .then(function(r) {{ clearTimeout(_tid); return r.ok ? r.json() : null; }})
-        .then(function(p) {{
-          if (!p || !document.getElementById('producto-overlay').classList.contains('open')) return;
-          if (p.id !== productoActual.id && p.id !== id) return; // stale response
-
-          productoActual.tallas = p.tallas || [];
-          productoActual.imagenes = p.imagenes || [];
-
-          // Update gallery with full images
-          const imgs = p.imagenes && p.imagenes.length ? p.imagenes : [imagen];
-          document.getElementById('prod-img-main').src = imgs[0];
-          renderThumbs(imgs);
-
-          // Update stock bar with real talla data
-          if (productoActual.tallas.length > 0) {{
-            initStockBarReal(productoActual.tallas);
-          }}
-
-          // Render talla chips
-          renderTallas(productoActual.tallas);
-        }})
-        .catch(function() {{
-          // API unavailable — show "ask on WhatsApp" note
-          document.getElementById('prod-tallas-chips').innerHTML =
-            '<span class="tallas-nota">Consulta tallas disponibles por WhatsApp</span>';
-        }});
-    }} else {{
-      document.getElementById('prod-tallas-chips').innerHTML =
-        '<span class="tallas-nota">Consulta tallas disponibles por WhatsApp</span>';
-    }}
   }}
 
   function renderThumbs(imgs) {{
