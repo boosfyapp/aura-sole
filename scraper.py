@@ -173,8 +173,10 @@ def extraer_tallas(soup) -> list[dict]:
 
         disponible = not disabled and not agotado
 
+        cantidad = None
+
         # Cross-check against variations stock data when available
-        if variations and disponible:
+        if variations:
             matching = [
                 v for v in variations
                 if any(
@@ -184,9 +186,19 @@ def extraer_tallas(soup) -> list[dict]:
                 )
             ]
             if matching:
-                disponible = any(v.get("is_in_stock", False) for v in matching)
+                if disponible:
+                    disponible = any(v.get("is_in_stock", False) for v in matching)
+                # Extract stock quantity if available
+                for v in matching:
+                    qty = v.get("max_qty") or v.get("stock_quantity")
+                    if isinstance(qty, int) and qty > 0:
+                        cantidad = qty
+                        break
 
-        tallas.append({"numero": val, "disponible": disponible})
+        talla = {"numero": val, "disponible": disponible}
+        if cantidad is not None:
+            talla["cantidad"] = cantidad
+        tallas.append(talla)
 
     return tallas
 
