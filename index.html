@@ -462,6 +462,84 @@
       border-style: dashed;
     }
 
+    /* Filtro de precio */
+    .precio-filter-section {
+      background: #fafafa;
+      border-bottom: 1px solid #eee;
+      padding: 0.6rem 1rem 0.75rem;
+      position: sticky;
+      top: 180px;
+      z-index: 79;
+    }
+    .precio-filter-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.55rem;
+    }
+    .precio-filter-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gray);
+    }
+    .precio-filter-values {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--black);
+    }
+    .precio-slider-wrap {
+      position: relative;
+      height: 28px;
+      display: flex;
+      align-items: center;
+    }
+    .precio-range-track {
+      position: absolute;
+      left: 0; right: 0;
+      height: 4px;
+      background: #ddd;
+      border-radius: 2px;
+    }
+    .precio-range-fill {
+      position: absolute;
+      height: 4px;
+      background: var(--gold);
+      border-radius: 2px;
+    }
+    .precio-slider {
+      position: absolute;
+      width: 100%;
+      pointer-events: none;
+      -webkit-appearance: none;
+      appearance: none;
+      height: 0;
+      background: transparent;
+      outline: none;
+    }
+    .precio-slider::-webkit-slider-thumb {
+      pointer-events: all;
+      -webkit-appearance: none;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--gold);
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    }
+    .precio-slider::-moz-range-thumb {
+      pointer-events: all;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--gold);
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    }
+
     /* Cantidad disponible (overlay) */
     .talla-cantidad-info {
       font-size: 0.8rem;
@@ -715,6 +793,23 @@
   <div class="talla-filter-label">Mi talla</div>
   <div class="talla-filter-scroll" id="talla-filter-scroll">
     <button class="talla-chip talla-chip-limpiar active" data-talla="" onclick="filtrarTalla('')">✕ Todas</button>
+  </div>
+</div>
+
+<!-- FILTRO DE PRECIO -->
+<div class="precio-filter-section">
+  <div class="precio-filter-header">
+    <span class="precio-filter-label">Precio</span>
+    <span class="precio-filter-values">
+      <span id="precio-val-min"></span> – <span id="precio-val-max"></span>
+    </span>
+  </div>
+  <div class="precio-slider-wrap">
+    <div class="precio-range-track">
+      <div class="precio-range-fill" id="precio-range-fill"></div>
+    </div>
+    <input type="range" id="precio-slider-min" class="precio-slider">
+    <input type="range" id="precio-slider-max" class="precio-slider">
   </div>
 </div>
 
@@ -17632,6 +17727,8 @@
   let termBusqueda = '';
   let categoriaActiva = 'todos';
   let tallaFiltroActiva = '';
+  let precioFiltroMin = 0;
+  let precioFiltroMax = Infinity;
   let productoActual = null;
   let tallaSeleccionada = null;
   let _closingFromButton = false;
@@ -17702,8 +17799,10 @@
           matchTalla = tallas.some(function(t) { return t.numero === tallaFiltroActiva && t.disponible; });
         } catch(e) {}
       }
-      card.style.display = (matchSearch && matchCat && matchTalla) ? '' : 'none';
-      if (matchSearch && matchCat && matchTalla) visibles++;
+      const precio = parseInt(card.dataset.precioNum || '0', 10);
+      const matchPrecio = precio >= precioFiltroMin && precio <= precioFiltroMax;
+      card.style.display = (matchSearch && matchCat && matchTalla && matchPrecio) ? '' : 'none';
+      if (matchSearch && matchCat && matchTalla && matchPrecio) visibles++;
     });
     const span = document.getElementById('prod-count');
     if (span) span.textContent = visibles + ' productos';
@@ -17740,6 +17839,57 @@
       chip.classList.toggle('active', chip.dataset.talla === talla);
     });
     aplicarFiltros();
+  }
+
+  /* ── FILTRO DE PRECIO ── */
+  function initPrecioSlider() {
+    const precios = [];
+    document.querySelectorAll('.product-card').forEach(function(card) {
+      const p = parseInt(card.dataset.precioNum || '0', 10);
+      if (p > 0) precios.push(p);
+    });
+    if (!precios.length) return;
+
+    const minP = Math.min.apply(null, precios);
+    const maxP = Math.max.apply(null, precios);
+    precioFiltroMin = minP;
+    precioFiltroMax = maxP;
+
+    const step = Math.max(10, Math.round((maxP - minP) / 50) * 10);
+    const slMin = document.getElementById('precio-slider-min');
+    const slMax = document.getElementById('precio-slider-max');
+    const fill  = document.getElementById('precio-range-fill');
+    const vMin  = document.getElementById('precio-val-min');
+    const vMax  = document.getElementById('precio-val-max');
+
+    [slMin, slMax].forEach(function(sl) {
+      sl.min = minP; sl.max = maxP; sl.step = step;
+    });
+    slMin.value = minP;
+    slMax.value = maxP;
+
+    function fmt(n) { return '$' + parseInt(n).toLocaleString('es-MX'); }
+    function updateFill() {
+      const pct1 = (slMin.value - minP) / (maxP - minP) * 100;
+      const pct2 = (slMax.value - minP) / (maxP - minP) * 100;
+      fill.style.left  = pct1 + '%';
+      fill.style.width = (pct2 - pct1) + '%';
+      vMin.textContent = fmt(slMin.value);
+      vMax.textContent = fmt(slMax.value);
+    }
+
+    slMin.addEventListener('input', function() {
+      if (+slMin.value > +slMax.value) slMin.value = slMax.value;
+      precioFiltroMin = +slMin.value;
+      updateFill(); aplicarFiltros();
+    });
+    slMax.addEventListener('input', function() {
+      if (+slMax.value < +slMin.value) slMax.value = slMin.value;
+      precioFiltroMax = +slMax.value;
+      updateFill(); aplicarFiltros();
+    });
+
+    updateFill();
   }
 
   /* ── PRODUCT OVERLAY ── */
@@ -18076,6 +18226,7 @@
   /* ── INIT ── */
   initCategorias();
   initTallas();
+  initPrecioSlider();
 </script>
 </body>
 </html>
