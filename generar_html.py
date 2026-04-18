@@ -1,5 +1,7 @@
 import json
+import re
 from datetime import datetime
+from urllib.parse import urlparse
 from config import NOMBRE_TIENDA, WHATSAPP_NUMBER
 
 
@@ -13,38 +15,65 @@ def cargar_productos() -> tuple[list, str]:
         return [], datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
 
+def get_product_id(p: dict, i: int) -> str:
+    if p.get("id"):
+        return p["id"]
+    if p.get("url"):
+        path = urlparse(p["url"]).path.strip("/")
+        slug = path.split("/")[-1]
+        if slug:
+            return slug
+    nombre = p.get("nombre", str(i)).lower()
+    nombre = re.sub(r"[áàäâ]", "a", nombre)
+    nombre = re.sub(r"[éèëê]", "e", nombre)
+    nombre = re.sub(r"[íìïî]", "i", nombre)
+    nombre = re.sub(r"[óòöô]", "o", nombre)
+    nombre = re.sub(r"[úùüû]", "u", nombre)
+    nombre = re.sub(r"[^a-z0-9\s-]", "", nombre)
+    nombre = re.sub(r"\s+", "-", nombre.strip())
+    return nombre[:60]
+
+
 def generar_cards(productos: list) -> str:
     if not productos:
         return '<p class="empty-catalog">No hay productos disponibles en este momento.</p>'
 
     cards = []
     for i, p in enumerate(productos):
-        nombre_esc = p["nombre"].replace('"', "&quot;")
+        nombre_esc = p["nombre"].replace('"', "&quot;").replace("'", "&#39;")
+        prod_id = get_product_id(p, i)
+
+        # Support both new (imagenes list) and old (imagen string) format
+        imagenes = p.get("imagenes", [])
+        imagen = imagenes[0] if imagenes else p.get("imagen", "")
+
+        precio = p.get("precio", p.get("precio_min", 0))
+        precio_max = p.get("precio_max", precio)
         precio_display = (
-            f"${p['precio_min']:,} – ${p['precio_max']:,}"
-            if p["precio_min"] != p["precio_max"]
-            else f"${p['precio_min']:,}"
+            f"${precio:,} – ${precio_max:,}"
+            if precio != precio_max
+            else f"${precio:,}"
         )
-        precio_js = p["precio_min"]
+
+        cat = p.get("categoria", "DAMAS")
 
         card = f"""
-        <div class="product-card" data-nombre="{nombre_esc.lower()}">
+        <div class="product-card" data-nombre="{nombre_esc.lower()}" data-id="{prod_id}" onclick="abrirProducto('{prod_id}')">
           <div class="card-img-wrap">
             <img
-              src="{p['imagen']}"
+              src="{imagen}"
               alt="{nombre_esc}"
               loading="lazy"
               onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22300%22 height=%22300%22%3E%3Crect width=%22300%22 height=%22300%22 fill=%22%23f5f5f5%22/%3E%3Ctext x=%22150%22 y=%22155%22 text-anchor=%22middle%22 fill=%22%23bbb%22 font-size=%2214%22%3ESin imagen%3C/text%3E%3C/svg%3E'"
             />
           </div>
           <div class="card-body">
-            <p class="card-categoria">{p.get('categoria', 'DAMAS')}</p>
+            <p class="card-categoria">{cat}</p>
             <h3 class="card-nombre">{p['nombre']}</h3>
             <p class="card-precio">{precio_display}</p>
-            <button
-              class="btn-agregar"
-              onclick="agregarCarrito({i}, '{nombre_esc}', {precio_js})"
-            >Agregar al carrito</button>
+            <button class="btn-agregar" onclick="event.stopPropagation(); abrirProducto('{prod_id}')">
+              Ver tallas
+            </button>
           </div>
         </div>"""
         cards.append(card)
@@ -144,7 +173,7 @@ def generar_html(productos: list, actualizado: str) -> str:
       padding: 0 4px;
     }}
 
-    /* ── HERO / SEARCH BAR ── */
+    /* ── HERO ── */
     .hero {{
       background: linear-gradient(135deg, var(--black) 0%, #2c2c2c 100%);
       color: var(--white);
@@ -228,6 +257,7 @@ def generar_html(productos: list, actualizado: str) -> str:
       transition: transform 0.2s, box-shadow 0.2s;
       display: flex;
       flex-direction: column;
+      cursor: pointer;
     }}
 
     .product-card:hover {{
@@ -309,13 +339,251 @@ def generar_html(productos: list, actualizado: str) -> str:
       font-size: 1.1rem;
     }}
 
+    /* ── PRODUCT MODAL ── */
+    #product-modal {{
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.65);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }}
+
+    #product-modal.open {{ display: flex; }}
+
+    #product-panel {{
+      background: var(--white);
+      border-radius: var(--radius);
+      width: min(880px, 100%);
+      max-height: 90vh;
+      overflow-y: auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      position: relative;
+      animation: fadeUp 0.25s ease;
+    }}
+
+    @media (max-width: 640px) {{
+      #product-panel {{
+        grid-template-columns: 1fr;
+        max-height: 95vh;
+      }}
+    }}
+
+    @keyframes fadeUp {{
+      from {{ opacity: 0; transform: translateY(16px); }}
+      to   {{ opacity: 1; transform: translateY(0); }}
+    }}
+
+    .close-modal {{
+      position: absolute;
+      top: 0.85rem;
+      right: 0.85rem;
+      background: var(--white);
+      border: none;
+      border-radius: 50%;
+      width: 34px;
+      height: 34px;
+      font-size: 1.3rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+      box-shadow: var(--shadow);
+      color: var(--gray);
+      line-height: 1;
+      transition: color 0.2s;
+    }}
+
+    .close-modal:hover {{ color: var(--black); }}
+
+    .modal-gallery {{
+      background: var(--gray-light);
+      border-radius: var(--radius) 0 0 var(--radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      min-height: 320px;
+    }}
+
+    @media (max-width: 640px) {{
+      .modal-gallery {{
+        border-radius: var(--radius) var(--radius) 0 0;
+        min-height: 260px;
+      }}
+    }}
+
+    .modal-main-img-wrap {{
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }}
+
+    .modal-main-img-wrap img {{
+      max-width: 100%;
+      max-height: 360px;
+      object-fit: contain;
+      border-radius: 8px;
+    }}
+
+    .modal-thumbnails {{
+      display: flex;
+      gap: 0.45rem;
+      padding: 0.65rem 1rem;
+      overflow-x: auto;
+      flex-shrink: 0;
+    }}
+
+    .modal-thumbnails:empty {{ display: none; }}
+
+    .thumb {{
+      width: 58px;
+      height: 58px;
+      object-fit: cover;
+      border-radius: 6px;
+      cursor: pointer;
+      border: 2px solid transparent;
+      flex-shrink: 0;
+      transition: border-color 0.2s;
+    }}
+
+    .thumb.active, .thumb:hover {{ border-color: var(--gold); }}
+
+    .modal-info {{
+      padding: 1.5rem 1.5rem 1.5rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }}
+
+    .modal-cat {{
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      color: var(--gold);
+      text-transform: uppercase;
+    }}
+
+    .modal-nombre {{
+      font-family: 'Playfair Display', serif;
+      font-size: 1.35rem;
+      line-height: 1.3;
+    }}
+
+    .modal-precio {{
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--gold);
+    }}
+
+    /* ── STOCK BAR ── */
+    .stock-section {{ display: flex; flex-direction: column; gap: 0.3rem; }}
+
+    .stock-bar-bg {{
+      background: #ebebeb;
+      border-radius: 4px;
+      height: 6px;
+      overflow: hidden;
+    }}
+
+    .stock-bar-fill {{
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.5s ease;
+      width: 100%;
+    }}
+
+    .stock-msg {{
+      font-size: 0.78rem;
+      font-weight: 600;
+    }}
+
+    /* ── TALLAS ── */
+    .tallas-section {{ display: flex; flex-direction: column; gap: 0.5rem; }}
+
+    .tallas-label-txt {{
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--gray);
+    }}
+
+    .tallas-chips {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }}
+
+    .chip {{
+      min-width: 46px;
+      padding: 0.4rem 0.7rem;
+      border: 2px solid #ddd;
+      border-radius: 8px;
+      background: var(--white);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: border-color 0.15s, background 0.15s, color 0.15s;
+      text-align: center;
+    }}
+
+    .chip:hover:not(.agotada):not(.selected) {{ border-color: var(--black); }}
+
+    .chip.selected {{
+      border-color: var(--black);
+      background: var(--black);
+      color: var(--white);
+    }}
+
+    .chip.agotada {{
+      color: #c0c0c0;
+      border-color: #ebebeb;
+      background: #fafafa;
+      text-decoration: line-through;
+      cursor: not-allowed;
+    }}
+
+    .no-tallas {{ font-size: 0.85rem; color: var(--gray); font-style: italic; }}
+
+    /* ── CTA BUTTON ── */
+    .btn-cta {{
+      width: 100%;
+      padding: 0.9rem;
+      background: var(--black);
+      color: var(--white);
+      border: none;
+      border-radius: 10px;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.2s;
+      margin-top: auto;
+    }}
+
+    .btn-cta:hover:not(:disabled) {{ background: var(--gold); }}
+
+    .btn-cta:disabled {{
+      background: #e0e0e0;
+      color: #aaa;
+      cursor: not-allowed;
+    }}
+
     /* ── CART OVERLAY ── */
     #cart-overlay {{
       display: none;
       position: fixed;
       inset: 0;
       background: rgba(0,0,0,0.5);
-      z-index: 200;
+      z-index: 300;
       align-items: flex-start;
       justify-content: flex-end;
     }}
@@ -485,7 +753,7 @@ def generar_html(productos: list, actualizado: str) -> str:
       opacity: 0;
       transition: opacity 0.3s, transform 0.3s;
       pointer-events: none;
-      z-index: 300;
+      z-index: 400;
     }}
 
     #toast.show {{
@@ -525,6 +793,37 @@ def generar_html(productos: list, actualizado: str) -> str:
   </div>
 </main>
 
+<!-- PRODUCT MODAL -->
+<div id="product-modal" onclick="cerrarSiModal(event)" aria-modal="true" role="dialog">
+  <div id="product-panel">
+    <button class="close-modal" onclick="cerrarModal()" aria-label="Cerrar">×</button>
+    <div class="modal-gallery">
+      <div class="modal-main-img-wrap">
+        <img id="modal-img-main" src="" alt="" />
+      </div>
+      <div class="modal-thumbnails" id="modal-thumbs"></div>
+    </div>
+    <div class="modal-info">
+      <span class="modal-cat" id="modal-cat"></span>
+      <h2 class="modal-nombre" id="modal-nombre"></h2>
+      <p class="modal-precio" id="modal-precio"></p>
+      <div class="stock-section">
+        <div class="stock-bar-bg">
+          <div class="stock-bar-fill" id="stock-fill"></div>
+        </div>
+        <p class="stock-msg" id="stock-msg"></p>
+      </div>
+      <div class="tallas-section">
+        <p class="tallas-label-txt">Talla</p>
+        <div class="tallas-chips" id="tallas-chips"></div>
+      </div>
+      <button class="btn-cta" id="btn-cta" disabled onclick="agregarDesdeModal()">
+        Selecciona una talla
+      </button>
+    </div>
+  </div>
+</div>
+
 <!-- CARRITO OVERLAY -->
 <div id="cart-overlay" onclick="cerrarSiOverlay(event)">
   <div id="cart-panel" role="dialog" aria-modal="true" aria-label="Carrito de compras">
@@ -556,43 +855,199 @@ def generar_html(productos: list, actualizado: str) -> str:
 <!-- FOOTER -->
 <footer>
   <strong>{NOMBRE_TIENDA}</strong> &nbsp;|&nbsp; Precios actualizados: {fecha_display}
-  <br>Los precios pueden variar. Confirma disponibilidad y tallas por WhatsApp.
+  <br>Los precios pueden variar. Confirma disponibilidad por WhatsApp.
 </footer>
 
 <script>
   const WHATSAPP = '{WHATSAPP_NUMBER}';
-  let carrito = {{}};
+  const carrito = {{}};
 
-  /* ── CARRITO ── */
-  function agregarCarrito(id, nombre, precio) {{
-    if (carrito[id]) {{
-      carrito[id].qty += 1;
-    }} else {{
-      carrito[id] = {{ nombre, precio, qty: 1 }};
-    }}
-    actualizarUI();
-    mostrarToast('✓ ' + nombre.split(' ').slice(0, 3).join(' ') + ' agregado');
+  let modalProducto = null;
+  let tallaSeleccionada = null;
+
+  /* ── UTILS ── */
+  function escHtml(s) {{
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
   }}
 
-  function cambiarCantidad(id, delta) {{
-    if (!carrito[id]) return;
-    carrito[id].qty += delta;
-    if (carrito[id].qty <= 0) delete carrito[id];
+  function escAttr(s) {{
+    return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }}
+
+  /* ── COOKIES ── */
+  function getCookie(name) {{
+    const m = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
+    return m ? decodeURIComponent(m[2]) : null;
+  }}
+
+  function setCookie(name, value, days) {{
+    const exp = new Date(Date.now() + days * 864e5).toUTCString();
+    document.cookie = name + '=' + encodeURIComponent(value) + ';expires=' + exp + ';path=/;SameSite=Lax';
+  }}
+
+  /* ── STOCK BAR ── */
+  function initStockBar(productId) {{
+    const key = 'aura_stock_' + productId;
+    const stored = getCookie(key);
+    let count = stored !== null ? parseInt(stored, 10) : 5;
+    setCookie(key, Math.max(1, count - 1), 1);
+
+    const pct = (count / 5) * 100;
+    const fill = document.getElementById('stock-fill');
+    const msg = document.getElementById('stock-msg');
+    fill.style.width = pct + '%';
+
+    if (count >= 4) {{
+      fill.style.background = '#22c55e';
+      msg.textContent = count + ' pares disponibles';
+      msg.style.color = '#16a34a';
+    }} else if (count >= 2) {{
+      fill.style.background = '#f97316';
+      msg.textContent = 'Solo ' + count + ' pares disponibles';
+      msg.style.color = '#ea580c';
+    }} else {{
+      fill.style.background = '#ef4444';
+      msg.textContent = '¡Último par!';
+      msg.style.color = '#dc2626';
+    }}
+  }}
+
+  /* ── PRODUCT MODAL ── */
+  function abrirProducto(id) {{
+    fetch('/api/productos/' + id)
+      .then(function(r) {{
+        if (!r.ok) throw new Error('not found');
+        return r.json();
+      }})
+      .then(function(p) {{
+        modalProducto = p;
+        tallaSeleccionada = null;
+        renderModal(p);
+        document.getElementById('product-modal').classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }})
+      .catch(function() {{
+        mostrarToast('Error al cargar el producto');
+      }});
+  }}
+
+  function cerrarModal() {{
+    document.getElementById('product-modal').classList.remove('open');
+    document.body.style.overflow = '';
+    modalProducto = null;
+    tallaSeleccionada = null;
+  }}
+
+  function cerrarSiModal(e) {{
+    if (e.target === document.getElementById('product-modal')) cerrarModal();
+  }}
+
+  function renderModal(p) {{
+    const imgs = (p.imagenes && p.imagenes.length) ? p.imagenes : (p.imagen ? [p.imagen] : []);
+    const mainImg = document.getElementById('modal-img-main');
+    mainImg.src = imgs[0] || '';
+    mainImg.alt = p.nombre || '';
+
+    const thumbsEl = document.getElementById('modal-thumbs');
+    if (imgs.length > 1) {{
+      thumbsEl.innerHTML = imgs.map(function(url, i) {{
+        return '<img src="' + escAttr(url) + '" class="thumb' + (i === 0 ? ' active' : '') + '" onclick="cambiarImg(\'' + escAttr(url) + '\', this)" alt="" />';
+      }}).join('');
+    }} else {{
+      thumbsEl.innerHTML = '';
+    }}
+
+    document.getElementById('modal-cat').textContent = p.categoria || '';
+    document.getElementById('modal-nombre').textContent = p.nombre || '';
+    const precio = p.precio || p.precio_min || 0;
+    document.getElementById('modal-precio').textContent = '$' + precio.toLocaleString('es-MX');
+
+    initStockBar(p.id || p.nombre || 'prod');
+    renderTallas(p.tallas || []);
+
+    const btn = document.getElementById('btn-cta');
+    btn.disabled = true;
+    btn.textContent = 'Selecciona una talla';
+  }}
+
+  function cambiarImg(url, el) {{
+    document.getElementById('modal-img-main').src = url;
+    document.querySelectorAll('.thumb').forEach(function(t) {{ t.classList.remove('active'); }});
+    el.classList.add('active');
+  }}
+
+  function renderTallas(tallas) {{
+    const el = document.getElementById('tallas-chips');
+    if (!tallas || !tallas.length) {{
+      el.innerHTML = '<span class="no-tallas">Tallas no especificadas — consultar por WhatsApp</span>';
+      return;
+    }}
+    el.innerHTML = tallas.map(function(t) {{
+      if (t.disponible) {{
+        return '<button class="chip" onclick="seleccionarTalla(\'' + escAttr(t.numero) + '\', this)">' + escHtml(t.numero) + '</button>';
+      }} else {{
+        return '<button class="chip agotada" disabled>' + escHtml(t.numero) + '</button>';
+      }}
+    }}).join('');
+  }}
+
+  function seleccionarTalla(numero, el) {{
+    document.querySelectorAll('#tallas-chips .chip').forEach(function(c) {{ c.classList.remove('selected'); }});
+    el.classList.add('selected');
+    tallaSeleccionada = numero;
+    const btn = document.getElementById('btn-cta');
+    btn.disabled = false;
+    btn.textContent = 'Agregar al carrito — Talla ' + numero;
+  }}
+
+  function agregarDesdeModal() {{
+    if (!modalProducto || !tallaSeleccionada) return;
+    const p = modalProducto;
+    const cid = (p.id || p.nombre) + '_' + tallaSeleccionada;
+    const precio = p.precio || p.precio_min || 0;
+    const nombre = p.nombre + ' (T. ' + tallaSeleccionada + ')';
+    agregarCarrito(cid, nombre, precio);
+    cerrarModal();
+  }}
+
+  /* ── CARRITO ── */
+  function agregarCarrito(cid, nombre, precio) {{
+    if (carrito[cid]) {{
+      carrito[cid].qty += 1;
+    }} else {{
+      carrito[cid] = {{ nombre: nombre, precio: precio, qty: 1 }};
+    }}
+    actualizarUI();
+    mostrarToast('✓ ' + nombre.split(' ').slice(0, 4).join(' ') + ' agregado');
+  }}
+
+  function cambiarCantidadBtn(el, delta) {{
+    cambiarCantidad(el.getAttribute('data-cid'), delta);
+  }}
+
+  function cambiarCantidad(cid, delta) {{
+    if (!carrito[cid]) return;
+    carrito[cid].qty += delta;
+    if (carrito[cid].qty <= 0) delete carrito[cid];
     actualizarUI();
     renderCarrito();
   }}
 
   function actualizarUI() {{
-    const total = Object.values(carrito).reduce((s, i) => s + i.qty, 0);
+    const total = Object.values(carrito).reduce(function(s, i) {{ return s + i.qty; }}, 0);
     document.getElementById('cart-count').textContent = total;
     renderCarrito();
   }}
 
   function renderCarrito() {{
     const el = document.getElementById('cart-items');
-    const items = Object.entries(carrito);
+    const keys = Object.keys(carrito);
 
-    if (!items.length) {{
+    if (!keys.length) {{
       el.innerHTML = '<p class="cart-empty">Tu carrito está vacío</p>';
       document.getElementById('cart-total-val').textContent = '$0';
       return;
@@ -600,19 +1055,19 @@ def generar_html(productos: list, actualizado: str) -> str:
 
     let totalVal = 0;
     let html = '';
-    items.forEach(([id, item]) => {{
+    keys.forEach(function(cid) {{
+      const item = carrito[cid];
       const subtotal = item.precio * item.qty;
       totalVal += subtotal;
-      html += `
-        <div class="cart-item">
-          <div class="cart-item-name">${{item.nombre}}</div>
-          <div class="qty-ctrl">
-            <button class="qty-btn" onclick="cambiarCantidad(${{id}}, -1)">−</button>
-            <span class="qty-num">${{item.qty}}</span>
-            <button class="qty-btn" onclick="cambiarCantidad(${{id}}, 1)">+</button>
-          </div>
-          <div class="cart-item-price">$${{subtotal.toLocaleString('es-MX')}}</div>
-        </div>`;
+      html += '<div class="cart-item">'
+        + '<div class="cart-item-name">' + escHtml(item.nombre) + '</div>'
+        + '<div class="qty-ctrl">'
+        + '<button class="qty-btn" data-cid="' + escAttr(cid) + '" onclick="cambiarCantidadBtn(this, -1)">−</button>'
+        + '<span class="qty-num">' + item.qty + '</span>'
+        + '<button class="qty-btn" data-cid="' + escAttr(cid) + '" onclick="cambiarCantidadBtn(this, 1)">+</button>'
+        + '</div>'
+        + '<div class="cart-item-price">$' + subtotal.toLocaleString('es-MX') + '</div>'
+        + '</div>';
     }});
 
     el.innerHTML = html;
@@ -621,30 +1076,27 @@ def generar_html(productos: list, actualizado: str) -> str:
 
   /* ── WHATSAPP ── */
   function pedirPorWhatsApp() {{
-    const items = Object.values(carrito);
-    if (!items.length) {{
+    const keys = Object.keys(carrito);
+    if (!keys.length) {{
       mostrarToast('Agrega productos al carrito primero');
       return;
     }}
 
-    let lineas = items.map(i =>
-      `🛍️ ${{i.nombre}} x${{i.qty}} — $${{i.precio.toLocaleString('es-MX')}} c/u`
-    ).join('\\n');
+    const lineas = keys.map(function(cid) {{
+      const i = carrito[cid];
+      return '🛍️ ' + i.nombre + ' x' + i.qty + ' — $' + i.precio.toLocaleString('es-MX') + ' c/u';
+    }}).join('\\n');
 
-    const total = items.reduce((s, i) => s + i.precio * i.qty, 0);
-
-    const mensaje = `Hola! Me interesa hacer un pedido en {NOMBRE_TIENDA}:\\n\\n${{lineas}}\\n\\n💰 Total estimado: $${{total.toLocaleString('es-MX')}}\\n\\nPor favor indíquenme disponibilidad y tallas.`;
-
-    const url = `https://wa.me/${{WHATSAPP}}?text=${{encodeURIComponent(mensaje)}}`;
-    window.open(url, '_blank');
+    const total = keys.reduce(function(s, cid) {{ return s + carrito[cid].precio * carrito[cid].qty; }}, 0);
+    const msg = 'Hola! Me interesa hacer un pedido en {NOMBRE_TIENDA}:\\n\\n' + lineas + '\\n\\n💰 Total estimado: $' + total.toLocaleString('es-MX') + '\\n\\nPor favor indíquenme disponibilidad.';
+    window.open('https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(msg), '_blank');
   }}
 
   /* ── BUSCADOR ── */
   function filtrar(q) {{
-    const termino = q.toLowerCase().trim();
-    document.querySelectorAll('.product-card').forEach(card => {{
-      const nombre = card.dataset.nombre || '';
-      card.style.display = nombre.includes(termino) ? '' : 'none';
+    const t = q.toLowerCase().trim();
+    document.querySelectorAll('.product-card').forEach(function(card) {{
+      card.style.display = (card.dataset.nombre || '').includes(t) ? '' : 'none';
     }});
   }}
 
@@ -670,7 +1122,7 @@ def generar_html(productos: list, actualizado: str) -> str:
     t.textContent = msg;
     t.classList.add('show');
     clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => t.classList.remove('show'), 2200);
+    toastTimer = setTimeout(function() {{ t.classList.remove('show'); }}, 2200);
   }}
 </script>
 </body>
