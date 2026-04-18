@@ -505,6 +505,70 @@ def generar_html(productos: list, actualizado: str) -> str:
     .stock-bar-fill.medio   {{ background: #dd6b20; }}
     .stock-bar-fill.urgente {{ background: #e53e3e; }}
 
+    /* Filtro de talla (catálogo) */
+    .talla-filter-section {{
+      background: #fafafa;
+      border-bottom: 1px solid #eee;
+      padding: 0.6rem 1rem;
+      position: sticky;
+      top: 112px;
+      z-index: 80;
+    }}
+    .talla-filter-label {{
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gray);
+      margin-bottom: 0.4rem;
+    }}
+    .talla-filter-scroll {{
+      display: flex;
+      gap: 0.4rem;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      align-items: center;
+    }}
+    .talla-filter-scroll::-webkit-scrollbar {{ display: none; }}
+    .talla-chip {{
+      flex-shrink: 0;
+      min-width: 40px;
+      padding: 0.3rem 0.7rem;
+      border-radius: 6px;
+      border: 1.5px solid #ddd;
+      background: var(--white);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.18s;
+      text-align: center;
+      color: var(--gray);
+    }}
+    .talla-chip:hover {{ border-color: var(--gold); color: var(--black); }}
+    .talla-chip.active {{
+      background: var(--gold);
+      border-color: var(--gold);
+      color: var(--white);
+    }}
+    .talla-chip-limpiar {{
+      font-size: 0.75rem;
+      color: var(--gray);
+      border-style: dashed;
+    }}
+
+    /* Cantidad disponible (overlay) */
+    .talla-cantidad-info {{
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-top: 0.5rem;
+      min-height: 1.2em;
+    }}
+    .talla-cantidad-info.bueno   {{ color: #2f855a; }}
+    .talla-cantidad-info.medio   {{ color: #c05621; }}
+    .talla-cantidad-info.urgente {{ color: #c53030; }}
+
     /* Tallas */
     .tallas-section {{ margin-bottom: 1rem; }}
     .tallas-section-label {{
@@ -742,6 +806,14 @@ def generar_html(productos: list, actualizado: str) -> str:
   </div>
 </div>
 
+<!-- FILTRO DE TALLA -->
+<div class="talla-filter-section">
+  <div class="talla-filter-label">Mi talla</div>
+  <div class="talla-filter-scroll" id="talla-filter-scroll">
+    <button class="talla-chip talla-chip-limpiar active" data-talla="" onclick="filtrarTalla('')">✕ Todas</button>
+  </div>
+</div>
+
 <!-- CATÁLOGO -->
 <main>
   <h2 class="section-title">
@@ -776,6 +848,7 @@ def generar_html(productos: list, actualizado: str) -> str:
         <div class="size-chips" id="prod-tallas-chips">
           <span class="tallas-loading">Cargando tallas...</span>
         </div>
+        <div class="talla-cantidad-info" id="talla-cantidad-info"></div>
       </div>
     </div>
   </div>
@@ -834,6 +907,7 @@ def generar_html(productos: list, actualizado: str) -> str:
 
   let termBusqueda = '';
   let categoriaActiva = 'todos';
+  let tallaFiltroActiva = '';
   let productoActual = null;
   let tallaSeleccionada = null;
   let _closingFromButton = false;
@@ -897,11 +971,51 @@ def generar_html(productos: list, actualizado: str) -> str:
       const cat = (card.dataset.categoria || '').trim();
       const matchSearch = !termBusqueda || nombre.includes(termBusqueda);
       const matchCat = categoriaActiva === 'todos' || cat === categoriaActiva;
-      card.style.display = (matchSearch && matchCat) ? '' : 'none';
-      if (matchSearch && matchCat) visibles++;
+      let matchTalla = true;
+      if (tallaFiltroActiva) {{
+        try {{
+          const tallas = JSON.parse(card.dataset.tallas || '[]');
+          matchTalla = tallas.some(function(t) {{ return t.numero === tallaFiltroActiva && t.disponible; }});
+        }} catch(e) {{}}
+      }}
+      card.style.display = (matchSearch && matchCat && matchTalla) ? '' : 'none';
+      if (matchSearch && matchCat && matchTalla) visibles++;
     }});
     const span = document.getElementById('prod-count');
     if (span) span.textContent = visibles + ' productos';
+  }}
+
+  /* ── FILTRO DE TALLA ── */
+  function initTallas() {{
+    const sizes = new Set();
+    document.querySelectorAll('.product-card').forEach(function(card) {{
+      try {{
+        JSON.parse(card.dataset.tallas || '[]').forEach(function(t) {{
+          if (t.disponible) sizes.add(t.numero);
+        }});
+      }} catch(e) {{}}
+    }});
+    const sorted = Array.from(sizes).sort(function(a, b) {{
+      const na = parseFloat(a), nb = parseFloat(b);
+      return (isNaN(na) || isNaN(nb)) ? a.localeCompare(b) : na - nb;
+    }});
+    const container = document.getElementById('talla-filter-scroll');
+    sorted.forEach(function(size) {{
+      const btn = document.createElement('button');
+      btn.className = 'talla-chip';
+      btn.dataset.talla = size;
+      btn.textContent = size;
+      btn.onclick = function() {{ filtrarTalla(size); }};
+      container.appendChild(btn);
+    }});
+  }}
+
+  function filtrarTalla(talla) {{
+    tallaFiltroActiva = talla;
+    document.querySelectorAll('.talla-chip').forEach(function(chip) {{
+      chip.classList.toggle('active', chip.dataset.talla === talla);
+    }});
+    aplicarFiltros();
   }}
 
   /* ── PRODUCT OVERLAY ── */
@@ -943,6 +1057,8 @@ def generar_html(productos: list, actualizado: str) -> str:
 
     // Tallas chips — immediate, no spinner
     document.getElementById('prod-tallas-section').style.display = '';
+    document.getElementById('talla-cantidad-info').textContent = '';
+    document.getElementById('talla-cantidad-info').className = 'talla-cantidad-info';
     renderTallas(tallasData);
 
     document.getElementById('producto-overlay').classList.add('open');
@@ -991,6 +1107,29 @@ def generar_html(productos: list, actualizado: str) -> str:
     el.classList.add('selected');
     tallaSeleccionada = numero;
     setCTA('selected');
+
+    // Mostrar cantidad disponible para esta talla
+    const infoEl = document.getElementById('talla-cantidad-info');
+    if (infoEl && productoActual && productoActual.tallas) {{
+      const t = productoActual.tallas.find(function(t) {{ return t.numero === numero; }});
+      if (t) {{
+        if (t.cantidad && t.cantidad > 0) {{
+          if (t.cantidad === 1) {{
+            infoEl.textContent = '🔴 ¡Última pieza!';
+            infoEl.className = 'talla-cantidad-info urgente';
+          }} else if (t.cantidad <= 3) {{
+            infoEl.textContent = '⚠️ Solo ' + t.cantidad + ' piezas disponibles';
+            infoEl.className = 'talla-cantidad-info medio';
+          }} else {{
+            infoEl.textContent = '✅ ' + t.cantidad + ' piezas disponibles';
+            infoEl.className = 'talla-cantidad-info bueno';
+          }}
+        }} else {{
+          infoEl.textContent = '✅ Disponible';
+          infoEl.className = 'talla-cantidad-info bueno';
+        }}
+      }}
+    }}
   }}
 
   function setCTA(state) {{
@@ -1212,6 +1351,7 @@ def generar_html(productos: list, actualizado: str) -> str:
 
   /* ── INIT ── */
   initCategorias();
+  initTallas();
 </script>
 </body>
 </html>
