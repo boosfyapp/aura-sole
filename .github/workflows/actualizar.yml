@@ -20,24 +20,18 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 flask flask-cors
 
       - name: Ejecutar scraper
         run: python scraper.py
-        working-directory: aura-sole
 
       - name: Regenerar index.html
         run: python generar_html.py
-        working-directory: aura-sole
 
       - name: Publicar cambios
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add aura-sole/productos.json aura-sole/index.html
-          if git diff --cached --quiet; then
-            echo "Sin cambios en productos.json; regenerando HTML igualmente."
-            git add aura-sole/index.html
-          fi
+          git add productos.json index.html
           git diff --cached --quiet || git commit -m "chore: actualizar catálogo $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
