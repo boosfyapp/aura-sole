@@ -12,6 +12,8 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
       - name: Checkout repositorio
@@ -23,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4 flask flask-cors
+        run: pip install requests beautifulsoup4
 
       - name: Ejecutar scraper
         run: python scraper.py
@@ -37,4 +39,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add productos.json index.html
           git diff --cached --quiet || git commit -m "chore: actualizar catálogo $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git push origin HEAD
