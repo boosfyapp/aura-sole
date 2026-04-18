@@ -934,8 +934,10 @@ def generar_html(productos: list, actualizado: str) -> str:
 
     // Enrich with API data (tallas + full images)
     if (id) {{
-      fetch('/api/productos/' + encodeURIComponent(id))
-        .then(function(r) {{ return r.ok ? r.json() : null; }})
+      var _ctrl = new AbortController();
+      var _tid = setTimeout(function() {{ _ctrl.abort(); }}, 5000);
+      fetch('/api/productos/' + encodeURIComponent(id), {{ signal: _ctrl.signal }})
+        .then(function(r) {{ clearTimeout(_tid); return r.ok ? r.json() : null; }})
         .then(function(p) {{
           if (!p || !document.getElementById('producto-overlay').classList.contains('open')) return;
           if (p.id !== productoActual.id && p.id !== id) return; // stale response
