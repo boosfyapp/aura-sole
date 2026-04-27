@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-04-26 07:18 UTC",
-  "total": 60,
+  "actualizado": "2026-04-27 08:11 UTC",
+  "total": 272,
   "productos": [
     {
       "id": "p002",
@@ -29,14 +29,44 @@
     {
       "id": "p0101-plataforma-cafe-de-dos-tiras-con-diseno",
       "nombre": "P0101 PLATAFORMA CAFE DE DOS TIRAS CON DISEÑO",
-      "sku": "",
+      "sku": "P0101",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0101-plataforma-cafe-de-dos-tiras-con-diseno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.42-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.42-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5-5",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "p0102-plataforma-khaki-de-dos-tiras-con-diseno",
@@ -53,38 +83,131 @@
     {
       "id": "p0103-plataforma-blanca-de-tiras-con-brillos",
       "nombre": "P0103 PLATAFORMA BLANCA DE TIRAS CON BRILLOS",
-      "sku": "",
+      "sku": "P0103",
       "categoria": "ALPARGATAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/p0103-plataforma-blanca-de-tiras-con-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.43-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.43-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0104-plataforma-dorada-de-tiras-con-brillos",
       "nombre": "P0104 PLATAFORMA DORADA DE TIRAS CON BRILLOS",
-      "sku": "",
+      "sku": "P0104",
       "categoria": "ALPARGATAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/p0104-plataforma-dorada-de-tiras-con-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0105-plataforma-plateada-de-tiras-con-brillos",
       "nombre": "P0105 PLATAFORMA PLATEADA DE TIRAS CON BRILLOS",
-      "sku": "",
+      "sku": "P0105",
       "categoria": "ALPARGATAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/p0105-plataforma-plateada-de-tiras-con-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0106-plataforma-negra-de-tiras-con-brillos",
@@ -101,45 +224,14 @@
     {
       "id": "p0107-plataforma-negra-de-tiras-con-pedreria",
       "nombre": "P0107 PLATAFORMA NEGRA DE TIRAS CON PEDRERIA",
-      "sku": "P0107",
+      "sku": "",
       "categoria": "ALPARGATAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/p0107-plataforma-negra-de-tiras-con-pedreria/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.58-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.58-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "p0108-plataforma-cafe-de-tiras-con-pedreria",
@@ -199,166 +291,50 @@
     {
       "id": "p0110-plataforma-blanca-de-tiras-con-pedreria",
       "nombre": "P0110 PLATAFORMA BLANCA DE TIRAS CON PEDRERIA",
-      "sku": "P0110",
+      "sku": "",
       "categoria": "ALPARGATAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/p0110-plataforma-blanca-de-tiras-con-pedreria/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.39.00-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.39.00-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "p0111-plataforma-rosa-doble-hebilla",
       "nombre": "P0111 PLATAFORMA ROSA DOBLE HEBILLA",
-      "sku": "P0111",
+      "sku": "",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0111-plataforma-rosa-doble-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "p0112-plataforma-khaki-doble-hebilla",
       "nombre": "P0112 PLATAFORMA KHAKI DOBLE HEBILLA",
-      "sku": "P0112",
+      "sku": "",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0112-plataforma-khaki-doble-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM-2.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM-2-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "p0113-plataforma-negra-doble-hebilla",
       "nombre": "P0113 PLATAFORMA NEGRA DOBLE HEBILLA",
-      "sku": "P0113",
+      "sku": "",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0113-plataforma-negra-doble-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.58-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.58-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "p0114-plataforma-cafe-doble-hebilla",
@@ -639,50 +615,173 @@
     {
       "id": "p0137-plataforma-cafe-con-hebilla",
       "nombre": "P0137 PLATAFORMA CAFE CON HEBILLA",
-      "sku": "",
+      "sku": "P0137",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0137-plataforma-cafe-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0138-plataforma-beige-con-broche-de-velcro-y-diseno",
       "nombre": "P0138 PLATAFORMA BEIGE CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "",
+      "sku": "P0138",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0138-plataforma-beige-con-broche-de-velcro-y-diseno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-2-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-2.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0139-plataforma-negra-con-broche-de-velcro-y-diseno",
       "nombre": "P0139 PLATAFORMA NEGRA CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "",
+      "sku": "P0139",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0139-plataforma-negra-con-broche-de-velcro-y-diseno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.25-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.25-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
     },
     {
       "id": "p0140-plataforma-cafe-con-broche-de-velcro-y-diseno",
       "nombre": "P0140 PLATAFORMA CAFE CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "",
+      "sku": "P0140",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0140-plataforma-cafe-con-broche-de-velcro-y-diseno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.26-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.26-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "p0141-plataforma-cafe-con-diseno-de-estrellas",
@@ -711,14 +810,46 @@
     {
       "id": "p0143-plataforma-negra-con-diseno-de-estrellas",
       "nombre": "P0143 PLATAFORMA NEGRA CON DISEÑO DE ESTRELLAS",
-      "sku": "",
+      "sku": "P0143",
       "categoria": "ALPARGATAS",
       "precio": 459,
       "url": "https://cocoa-store.com/producto/p0143-plataforma-negra-con-diseno-de-estrellas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.35-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.35-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.35-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
     },
     {
       "id": "p0144-plataforma-beige-con-diseno-de-estrellas",
@@ -735,26 +866,86 @@
     {
       "id": "p0145-plataforma-gladeador-de-leopardo-con-placa-de-leon",
       "nombre": "P0145 PLATAFORMA GLADEADOR DE LEOPARDO CON PLACA DE LEON",
-      "sku": "",
+      "sku": "P0145",
       "categoria": "ALPARGATAS",
       "precio": 549,
       "url": "https://cocoa-store.com/producto/p0145-plataforma-gladeador-de-leopardo-con-placa-de-leon/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.37-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.37-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.37-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5-5",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "p0146-plataforma-gladeador-dorada-con-placa-de-leon",
       "nombre": "P0146 PLATAFORMA GLADEADOR DORADA CON PLACA DE LEON",
-      "sku": "",
+      "sku": "P0146",
       "categoria": "ALPARGATAS",
       "precio": 549,
       "url": "https://cocoa-store.com/producto/p0146-plataforma-gladeador-dorada-con-placa-de-leon/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.38-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.38-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.38-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5-5",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "p0147-plataforma-gladeador-negra-con-placa-de-leon",
@@ -897,6 +1088,3217 @@
       "url": "https://cocoa-store.com/producto/p0158-plataforma-cafe-de-dos-tiras-dobles-con-brillos/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.01-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0159-plataforma-beige-de-dos-tiras-dobles-con-brillos",
+      "nombre": "P0159 PLATAFORMA BEIGE DE DOS TIRAS DOBLES CON BRILLOS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 489,
+      "url": "https://cocoa-store.com/producto/p0159-plataforma-beige-de-dos-tiras-dobles-con-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.02-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0160-plataforma-blanca-de-dos-tiras-dobles-con-brillos",
+      "nombre": "P0160 PLATAFORMA BLANCA DE DOS TIRAS DOBLES CON BRILLOS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 489,
+      "url": "https://cocoa-store.com/producto/p0160-plataforma-blanca-de-dos-tiras-dobles-con-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.03-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0161-plataforma-negra-cristales-de-tres-tiras",
+      "nombre": "P0161 PLATAFORMA NEGRA CRISTALES DE TRES TIRAS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/p0161-plataforma-negra-cristales-de-tres-tiras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.45.44-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0162-plataforma-cafe-cristales-de-tres-tiras",
+      "nombre": "P0162 PLATAFORMA CAFE CRISTALES DE TRES TIRAS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/p0162-plataforma-cafe-cristales-de-tres-tiras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.49.49-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0163-plataforma-oro-rosado-cristales-de-tres-tiras",
+      "nombre": "P0163 PLATAFORMA ORO ROSADO CRISTALES DE TRES TIRAS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/p0163-plataforma-oro-rosado-cristales-de-tres-tiras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.50.20-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0164-plataforma-plateada-cristales-de-tres-tiras",
+      "nombre": "P0164 PLATAFORMA PLATEADA CRISTALES DE TRES TIRAS",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/p0164-plataforma-plateada-cristales-de-tres-tiras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.50.46-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0165-alpargata-cafe-suela-de-yute",
+      "nombre": "P0165 ALPARGATA CAFE SUELA DE YUTE",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p0165-alpargata-cafe-suela-de-yute/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.19-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0166-alpargata-negra-suela-de-yute",
+      "nombre": "P0166 ALPARGATA NEGRA SUELA DE YUTE",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p0166-alpargata-negra-suela-de-yute/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.19-AM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p0167-alpargata-latte-suela-de-yute",
+      "nombre": "P0167 ALPARGATA LATTE SUELA DE YUTE",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p0167-alpargata-latte-suela-de-yute/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.20-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p050",
+      "nombre": "P050 PLATAFORMA DE YUTE Y MICA",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p050/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2022/05/p050-1-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p084-plataforma-yute-hueso-mono",
+      "nombre": "P084 PLATAFORMA YUTE HUESO MOÑO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p084-plataforma-yute-hueso-mono/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/P084-1-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p087-plataforma-yute-roja-liston-rojo",
+      "nombre": "P087 PLATAFORMA YUTE ROJA LISTON ROJO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p087-plataforma-yute-roja-liston-rojo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/01/P087-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p088-plataforma-yute-negra-liston-negro",
+      "nombre": "P088 PLATAFORMA YUTE ,NEGRA  LISTON NEGRO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p088-plataforma-yute-negra-liston-negro/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/01/P088-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p089-plataforma-yute-chocolate",
+      "nombre": "P089 PLATAFORMA YUTE ,CHOCOLATE",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p089-plataforma-yute-chocolate/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/01/P089-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p090-plataforma-yute-late-liston",
+      "nombre": "P090 PLATAFORMA YUTE ,LATE LISTON",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p090-plataforma-yute-late-liston/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/01/P090-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p091-alpargata-alta-charol-negro",
+      "nombre": "P091 ALPARGATA ALTA CHAROL NEGRO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p091-alpargata-alta-charol-negro/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/alp5-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p092-alpargata-alta-oro",
+      "nombre": "P092 ALPARGATA ALTA ORO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p092-alpargata-alta-oro/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/alp4-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p093-alpargata-alta-charol-maquillaje",
+      "nombre": "P093 ALPARGATA ALTA CHAROL MAQUILLAJE",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p093-alpargata-alta-charol-maquillaje/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/alp3-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p094-alpargata-charol-negra-basica",
+      "nombre": "P094 ALPARGATA CHAROL NEGRA BASICA",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p094-alpargata-charol-negra-basica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/alp2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p095-alpargata-charol-maquillaje-basica",
+      "nombre": "P095 ALPARGATA CHAROL MAQUILLAJE BASICA",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p095-alpargata-charol-maquillaje-basica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/alp1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p096-plataforma-camel-de-tiras-con-diseno",
+      "nombre": "P096 PLATAFORMA CAMEL DE TIRAS CON DISEÑO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p096-plataforma-camel-de-tiras-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.38-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p097-plataforma-cafe-de-tiras-con-diseno",
+      "nombre": "P097 PLATAFORMA CAFE DE TIRAS CON DISEÑO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p097-plataforma-cafe-de-tiras-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.39-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p098-plataforma-blanca-de-tiras-con-diseno",
+      "nombre": "P098 PLATAFORMA BLANCA DE TIRAS CON DISEÑO",
+      "sku": "",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p098-plataforma-blanca-de-tiras-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.40-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "p099-plataforma-negra-de-tiras-con-diseno",
+      "nombre": "P099 PLATAFORMA NEGRA DE TIRAS CON DISEÑO",
+      "sku": "P099",
+      "categoria": "ALPARGATAS",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/p099-plataforma-negra-de-tiras-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.41-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.41-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "3-5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4-5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5-5",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bn214-bota-con-candado-latte",
+      "nombre": "BN214 BOTA CON CANDADO LATTE",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 899,
+      "url": "https://cocoa-store.com/producto/bn214-bota-con-candado-latte/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/1a06e193-07ab-4333-97ae-2606549cf3bc-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn215-bota-con-candado-maquillaje",
+      "nombre": "BN215 BOTA CON CANDADO MAQUILLAJE",
+      "sku": "BN215",
+      "categoria": "BOTA ALTA",
+      "precio": 899,
+      "url": "https://cocoa-store.com/producto/bn215-bota-con-candado-maquillaje/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/5eedb4b3-5c18-40e6-bec4-98947d7b8f85.jpg",
+        "https://cocoa-store.com/wp-content/uploads/2024/10/61be6fc5-304c-400a-8eec-d7d4650e8702.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "3-5",
+          "disponible": false
+        },
+        {
+          "numero": "4-5",
+          "disponible": false
+        },
+        {
+          "numero": "5-5",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn234-bota-negra-diseno-drilo",
+      "nombre": "BN234 BOTA NEGRA DISEÑO DRILO",
+      "sku": "BN234",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn234-bota-negra-diseno-drilo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/BOTA-L.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 22
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 26
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 21
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 23
+        }
+      ]
+    },
+    {
+      "id": "bn238-bota-negra-modelo-espana",
+      "nombre": "BN238 BOTA NEGRA MODELO ESPAÑA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn238-bota-negra-modelo-espana/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-16.20.17-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn239-bota-negra-charol",
+      "nombre": "BN239 BOTA NEGRA CHAROL",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn239-bota-negra-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-16.20.17-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn240-bota-latte-charol",
+      "nombre": "BN240 BOTA LATTE CHAROL",
+      "sku": "BN240",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn240-bota-latte-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-11-at-18.18.35.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn241-bota-blanca-charol",
+      "nombre": "BN241 BOTA BLANCA CHAROL",
+      "sku": "BN241",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn241-bota-blanca-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-11-at-18.18.34.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 5
+        }
+      ]
+    },
+    {
+      "id": "bn244-bota-latte-modelo-arizona",
+      "nombre": "BN244 BOTA LATTE MODELO ARIZONA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn244-bota-latte-modelo-arizona/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/7-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn245-bota-negro-modelo-arizona",
+      "nombre": "BN245 BOTA NEGRO MODELO ARIZONA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn245-bota-negro-modelo-arizona/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/6-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn246-bota-negra-modelo-arkansas",
+      "nombre": "BN246 BOTA NEGRA MODELO ARKANSAS",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn246-bota-negra-modelo-arkansas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-09-05-at-12.27.53-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn247-bota-color-arena-modelo-arkansas",
+      "nombre": "BN247 BOTA COLOR ARENA MODELO ARKANSAS",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn247-bota-color-arena-modelo-arkansas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-26-at-16.13.16-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn250-bota-vino-charol",
+      "nombre": "BN250 BOTA VINO CHAROL",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn250-bota-vino-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/19-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn252-bota-madera-vista-dorada",
+      "nombre": "BN252 BOTA MADERA VISTA DORADA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn252-bota-madera-vista-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-10-07-at-11.07.14-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn253-bota-negra-vista-dorada",
+      "nombre": "BN253 BOTA NEGRA VISTA DORADA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn253-bota-negra-vista-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-10-07-at-11.07.14-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn261-bota-negra-drilo-charol-de-aguja",
+      "nombre": "BN261 BOTA NEGRA DRILO CHAROL DE AGUJA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn261-bota-negra-drilo-charol-de-aguja/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-18.17.19-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn263-bota-latte-drilo",
+      "nombre": "BN263 BOTA LATTE DRILO",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn263-bota-latte-drilo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-28-at-5.48.30-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn269-bota-arena-cafe-de-vaca",
+      "nombre": "BN269 BOTA ARENA/CAFE DE VACA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn269-bota-arena-cafe-de-vaca/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-12-at-4.34.13-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn272-bota-negra-modelo-dakota",
+      "nombre": "BN272 BOTA NEGRA MODELO DAKOTA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn272-bota-negra-modelo-dakota/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/454afc5f-a094-48d7-acf9-f1e305989e32-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn273-cowboyboot-cafe-2",
+      "nombre": "BN273 COWBOYBOOT CAFE",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn273-cowboyboot-cafe-2/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/8-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn273-cowboyboot-cafe",
+      "nombre": "BN274 BOTA CAMEL TIPO PIEL DE DURAZNO",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn273-cowboyboot-cafe/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-11.27.53-AM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn275-bota-negra-corrugada-con-tacon-de-aguja",
+      "nombre": "BN275 BOTA NEGRA CORRUGADA CON TACON DE AGUJA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn275-bota-negra-corrugada-con-tacon-de-aguja/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/bn275-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn276-bota-negra-charol-corrugada-con-tacon-ancho",
+      "nombre": "BN276 BOTA NEGRA CHAROL CORRUGADA CON TACON ANCHO",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 899,
+      "url": "https://cocoa-store.com/producto/bn276-bota-negra-charol-corrugada-con-tacon-ancho/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/bn276-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn277-bota-gris-serpiente",
+      "nombre": "BN277 BOTA GRIS SERPIENTE",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn277-bota-gris-serpiente/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/bn277-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn278-bota-merlot-charol",
+      "nombre": "BN278 BOTA MERLOT CHAROL",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn278-bota-merlot-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/bn278-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn279-bota-negra-charol-tacon-de-aguja-corrugada",
+      "nombre": "BN279 BOTA NEGRA CHAROL TACON DE AGUJA CORRUGADA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn279-bota-negra-charol-tacon-de-aguja-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/b279--300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn280-bota-negra-lisa-tacon-de-aguja",
+      "nombre": "BN280 BOTA NEGRA LISA TACON DE AGUJA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn280-bota-negra-lisa-tacon-de-aguja/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/bn280--300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn281-bota-cafe-madera-tacon-de-aguja",
+      "nombre": "BN281 BOTA CAFE MADERA TACON DE AGUJA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn281-bota-cafe-madera-tacon-de-aguja/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/bn281-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn282-bota-negra-blanco-diseno-piton",
+      "nombre": "BN282 BOTA NEGRA/BLANCO DISEÑO PITON",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn282-bota-negra-blanco-diseno-piton/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-1.03.47-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn285-bota-cafe-modelo-dakota",
+      "nombre": "BN285 BOTA CAFE MODELO DAKOTA",
+      "sku": "",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn285-bota-cafe-modelo-dakota/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/dakota-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "ame100-botin-negro-textura",
+      "nombre": "AME100 BOTIN NEGRO TEXTURA/TALLA AMERICANA",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/ame100-botin-negro-textura/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/09/AME100-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "ame120-botin-vaquero-casual-negro-marca-dolce-vita",
+      "nombre": "AME120 BOTIN VAQUERO CASUAL NEGRO MARCA DOLCE VITA/ TALLA AMERICANA",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/ame120-botin-vaquero-casual-negro-marca-dolce-vita/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/09/7074ecc8-a8ff-4020-8368-0fd48d6a81d5-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "ame130-botin-negro-casual-picudo-marc-fisher",
+      "nombre": "AME130 BOTIN NEGRO CASUAL PICUDO MARC FISHER/ TALLA AMERICANA",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/ame130-botin-negro-casual-picudo-marc-fisher/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/09/5c4474be-748f-4356-a41b-f85424d7fc98-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "ame70-botin-negro-steve-madden",
+      "nombre": "AME70 BOTIN NEGRO STEVE MADDEN/TALLA AMERICANA",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/ame70-botin-negro-steve-madden/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/09/59d7bb54-129d-4984-a3bf-55a16e15e667-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn242-botin-guindo-de-charol",
+      "nombre": "BN242 BOTIN GUINDO DE CHAROL",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn242-botin-guindo-de-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-16-at-00.22.41-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn243-botin-negro",
+      "nombre": "BN243 BOTIN NEGRO",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn243-botin-negro/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-14-at-17.16.48-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn267-botin-cafe",
+      "nombre": "BN267 BOTIN CAFE",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn267-botin-cafe/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/23-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn268-botin-negro-charol",
+      "nombre": "BN268 BOTIN NEGRO CHAROL",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn268-botin-negro-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-11-at-6.46.29-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn270-botin-negro-liso-charol",
+      "nombre": "BN270 BOTIN NEGRO LISO CHAROL",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn270-botin-negro-liso-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/21-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn271-botin-vaca-negro-y-blanco",
+      "nombre": "BN271 BOTIN VACA NEGRO Y BLANCO",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn271-botin-vaca-negro-y-blanco/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/20-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn283-botin-negro-blanco-serpiente",
+      "nombre": "BN283 BOTIN NEGRO BLANCO SERPIENTE",
+      "sku": "",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn283-botin-negro-blanco-serpiente/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-1.08.39-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn284-botin-chocolate-sencillo",
+      "nombre": "BN284 BOTIN CHOCOLATE SENCILLO",
+      "sku": "BN284",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn284-botin-chocolate-sencillo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/bn284.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        }
+      ]
+    },
+    {
+      "id": "bu130-bota-ugg-gris-sencilla",
+      "nombre": "BU130 BOTA UGG GRIS SENCILLA",
+      "sku": "",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/bu130-bota-ugg-gris-sencilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-14.27.56-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bu240-bota-ugg-gris-sencilla-corta",
+      "nombre": "BU240 BOTA UGG GREEN SENCILLA CORTA",
+      "sku": "BU240",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 409,
+      "url": "https://cocoa-store.com/producto/bu240-bota-ugg-gris-sencilla-corta/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-14.30.54.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "8",
+          "disponible": true,
+          "cantidad": 15
+        }
+      ]
+    },
+    {
+      "id": "ame60-cowboyboot-negra-larga",
+      "nombre": "AME60 COWBOYBOOT NEGRA LARGA/TALLA AMERICANA",
+      "sku": "AME60",
+      "categoria": "COWBOY BOOTS",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/ame60-cowboyboot-negra-larga/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/09/d8c9d720-25f6-4106-81cd-7f1da860313c.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        },
+        {
+          "numero": "8",
+          "disponible": false
+        },
+        {
+          "numero": "8-5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "9",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn101-bota-vaquera-latte-bordada",
+      "nombre": "BN101 BOTA VAQUERA LATTE BORDADA",
+      "sku": "BN101",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn101-bota-vaquera-latte-bordada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2022/10/fb33f8f6-1c35-4c15-a562-d52c0e9b8635-1.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn103-bota-vaquera-negra-bordada",
+      "nombre": "BN103 BOTA VAQUERA NEGRA BORDADA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn103-bota-vaquera-negra-bordada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2022/10/0c9582a5-d932-4374-9bac-334fe4952f9d-1-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn125-botin-latte-flecos-latte",
+      "nombre": "BN125 BOTIN LATTE/ FLECOS LATTE",
+      "sku": "BN125",
+      "categoria": "COWBOY BOOTS",
+      "precio": 399,
+      "url": "https://cocoa-store.com/producto/bn125-botin-latte-flecos-latte/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2023/08/1fb3f354-1af8-4323-9e5e-aca0798a1f6e.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn169-cowboyboot-flamas-negras-con-estoperol",
+      "nombre": "BN169 COWBOYBOOT FLAMAS NEGRAS CON ESTOPEROL",
+      "sku": "BN169",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn169-cowboyboot-flamas-negras-con-estoperol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/01/7bd3346f-bcbb-4818-a5f6-fb603a106947.jpg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn200-cowboyboot-negra-new",
+      "nombre": "BN200 COWBOYBOOT NEGRA NEW",
+      "sku": "BN200",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn200-cowboyboot-negra-new/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/07/fb5e32c0-1a5a-4b3e-9e5e-640e9a07ea7c.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn201-cowboyboot-cafe-new-copia",
+      "nombre": "BN201 COWBOYBOOT CAFE NEW",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn201-cowboyboot-cafe-new-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-10-20-at-5.46.44-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn202-cowboyboot-late-new",
+      "nombre": "BN202 COWBOYBOOT LATE NEW",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn202-cowboyboot-late-new/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/07/4081d193-793a-4de5-bf90-083af45c83b4-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn225-bota-negra-vaquera-larga",
+      "nombre": "BN225 BOTA NEGRA VAQUERA LARGA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn225-bota-negra-vaquera-larga/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.31-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn226-bota-latte-vaquera-larga",
+      "nombre": "BN226 BOTA LATTE VAQUERA LARGA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn226-bota-latte-vaquera-larga/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.32-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn227-bota-cafe-vaquera-larga",
+      "nombre": "BN227 BOTA CAFE VAQUERA LARGA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn227-bota-cafe-vaquera-larga/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.31-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn228-cowboyboot-flamas-negras-negras",
+      "nombre": "BN228 COWBOYBOOT FLAMAS NEGRAS/NEGRAS",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn228-cowboyboot-flamas-negras-negras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/bota2-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn229-cowboyboot-latte-bordada",
+      "nombre": "BN229 COWBOYBOOT LATTE BORDADA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/bn229-cowboyboot-latte-bordada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.04-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn230-cowboyboot-cafe-bordada",
+      "nombre": "BN230 COWBOYBOOT CAFE BORDADA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/bn230-cowboyboot-cafe-bordada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.03-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn231-cowboybootnegra-bordada",
+      "nombre": "BN231 COWBOYBOOTNEGRA BORDADA",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/bn231-cowboybootnegra-bordada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.03-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn249-cowboyboot-negra-con-tinto",
+      "nombre": "BN249 COWBOYBOOT NEGRA CON TINTO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn249-cowboyboot-negra-con-tinto/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/12-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn254-cowboyboot-negra-con-barbitas",
+      "nombre": "BN254 COWBOYBOOT NEGRA CON BARBITAS",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn254-cowboyboot-negra-con-barbitas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/11-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn255-cowboyboot-cafe-con-barbitas",
+      "nombre": "BN255 COWBOYBOOT CAFE CON BARBITAS",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn255-cowboyboot-cafe-con-barbitas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/10-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn256-cowboyboot-tan-con-barbitas",
+      "nombre": "BN256 COWBOYBOOT TAN CON BARBITAS",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn256-cowboyboot-tan-con-barbitas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/9-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn257-cowboyboot-negra-alta-con-diseno",
+      "nombre": "BN257 COWBOYBOOT NEGRA ALTA CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn257-cowboyboot-negra-alta-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-14.41.03-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn258-cowboyboot-latte-alta-con-diseno",
+      "nombre": "BN258 COWBOYBOOT LATTE ALTA CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn258-cowboyboot-latte-alta-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-14.41.03-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn259-cowboyboot-latte-alta-con-diseno",
+      "nombre": "BN259 COWBOYBOOT CAFE ALTA CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn259-cowboyboot-latte-alta-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-18.17.19-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn262-cowboyboot-madera-alta-con-diseno",
+      "nombre": "BN262 COWBOYBOOT MADERA ALTA CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn262-cowboyboot-madera-alta-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-20-at-5.44.28-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn265-bota-negra-con-diseno",
+      "nombre": "BN265 BOTA NEGRA CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn265-bota-negra-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-04-at-3.57.50-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "bn266-bota-color-merlot-con-diseno",
+      "nombre": "BN266 BOTA COLOR MERLOT CON DISEÑO",
+      "sku": "",
+      "categoria": "COWBOY BOOTS",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn266-bota-color-merlot-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-04-at-11.30.56-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f100-flat-maquillaje-tipo-ballerina",
+      "nombre": "F100 FLAT MAQUILLAJE TIPO BALLERINA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f100-flat-maquillaje-tipo-ballerina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/CALCETA-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f101-flat-verde-de-terciopelo",
+      "nombre": "F101 FLAT VERDE DE TERCIOPELO HEBILLA CON DISEÑO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f101-flat-verde-de-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-9.32.47-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f103-flat-color-uva-de-terciopelo",
+      "nombre": "F103 FLAT COLOR UVA DE TERCIOPELO HEBILLA REDONDA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f103-flat-color-uva-de-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-23-at-9.32.46-AM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f105-flat-negro-de-terciopelo",
+      "nombre": "F105 FLAT NEGRO DE TERCIOPELO HEBILLA REDONDA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f105-flat-negro-de-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-24-at-7.09.47-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f109-flat-rojo-de-red-con-hebillas-cruzadas",
+      "nombre": "F109 FLAT ROJO DE RED CON HEBILLAS CRUZADAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f109-flat-rojo-de-red-con-hebillas-cruzadas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/REDRED-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f112-flat-negro-terciopelo-hebilla-normal",
+      "nombre": "F112 FLAT NEGRO TERCIOPELO HEBILLA NORMAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f112-flat-negro-terciopelo-hebilla-normal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/f112-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f113-flat-vino-terciopelo-hebilla-normal",
+      "nombre": "F113 FLAT VINO TERCIOPELO HEBILLA NORMAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f113-flat-vino-terciopelo-hebilla-normal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/f113-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f114-flat-camel-terciopelo-hebilla-redonda",
+      "nombre": "F114 FLAT CAMEL TERCIOPELO HEBILLA REDONDA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f114-flat-camel-terciopelo-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/f114-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f115-flat-cafe-terciopelo-hebilla-redonda",
+      "nombre": "F115 FLAT CAFE TERCIOPELO HEBILLA REDONDA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f115-flat-cafe-terciopelo-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-11.27.51-AM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f118-flar-rosa-palo-de-malla-con-flores",
+      "nombre": "F118 FLAR ROSA PALO DE MALLA CON FLORES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f118-flar-rosa-palo-de-malla-con-flores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-3.46.21-PM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f119-flat-verde-terciopelo",
+      "nombre": "F119 FLAT VERDE TERCIOPELO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f119-flat-verde-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-3.46.22-PM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f120-flat-verde-terciopelo-hebilla-normal",
+      "nombre": "F120 FLAT VERDE TERCIOPELO HEBILLA NORMAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f120-flat-verde-terciopelo-hebilla-normal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-11.27.52-AM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f121-flat-melle-terciopelo-hebilla-normal",
+      "nombre": "F121 FLAT MELLE TERCIOPELO HEBILLA NORMAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f121-flat-melle-terciopelo-hebilla-normal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-11.27.52-AM-3-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f130-flat-vaca-blanco-cafe",
+      "nombre": "F130 FLAT VACA BLANCO/CAFE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f130-flat-vaca-blanco-cafe/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-27-at-3.33.09-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f131-flat-melle-oscuro-terciopelo",
+      "nombre": "F131 FLAT MELLE OSCURO TERCIOPELO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f131-flat-melle-oscuro-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/12/dorado-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f132-flat-vibora-con-correa-cafe",
+      "nombre": "F132 FLAT VIBORA CON CORREA CAFE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f132-flat-vibora-con-correa-cafe/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.02.26-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f135-flat-malla-de-leopardo",
+      "nombre": "F135 FLAT MALLA DE LEOPARDO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f135-flat-malla-de-leopardo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/LEOPARDO-MALLA-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f136-flat-leopardo-bordes-rojos",
+      "nombre": "F136 FLAT LEOPARDO BORDES ROJOS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f136-flat-leopardo-bordes-rojos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/CHITA-ROJO-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f137-flat-camel-terciopelo-con-hebilla-tipo-espiral",
+      "nombre": "F137 FLAT CAMEL TERCIOPELO CON HEBILLA TIPO ESPIRAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f137-flat-camel-terciopelo-con-hebilla-tipo-espiral/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-10.32.14-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f138-flat-burgundi-terciopelo-con-hebilla-tipo-espiral",
+      "nombre": "F138 FLAT BURGUNDI TERCIOPELO CON HEBILLA TIPO ESPIRAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f138-flat-burgundi-terciopelo-con-hebilla-tipo-espiral/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-10.32.16-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f139-flat-chocolate-terciopelo-con-hebilla-tipo-espiral",
+      "nombre": "F139 FLAT CHOCOLATE TERCIOPELO CON HEBILLA TIPO ESPIRAL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f139-flat-chocolate-terciopelo-con-hebilla-tipo-espiral/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-10.32.16-AM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f140-flat-vino-charol-doble-correa",
+      "nombre": "F140 FLAT VINO CHAROL DOBLE CORREA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f140-flat-vino-charol-doble-correa/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.15-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f142-flat-plata-de-malla-con-correa-en-empeine",
+      "nombre": "F142 FLAT PLATA DE MALLA CON CORREA EN EMPEINE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f142-flat-plata-de-malla-con-correa-en-empeine/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.16-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f143-flat-maquillaje-charol-doble-correa",
+      "nombre": "F143 FLAT MAQUILLAJE CHAROL DOBLE CORREA",
+      "sku": "F143",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f143-flat-maquillaje-charol-doble-correa/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-14-at-2.35.56-PM-2.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f144-flat-camel-piel-de-durazon",
+      "nombre": "F144 FLAT CAMEL PIEL DE DURAZON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f144-flat-camel-piel-de-durazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-17-at-11.53.24-AM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f145-flat-latte-piel-de-durazon",
+      "nombre": "F145 FLAT LATTE PIEL DE DURAZON",
+      "sku": "F145",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f145-flat-latte-piel-de-durazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-17-at-11.53.24-AM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f146-flat-negro-piel-de-durazon",
+      "nombre": "F146 FLAT NEGRO PIEL DE DURAZON",
+      "sku": "F146",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f146-flat-negro-piel-de-durazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-17-at-11.53.24-AM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f147-flat-chocolate-piel-de-durazon",
+      "nombre": "F147 FLAT CHOCOLATE PIEL DE DURAZON",
+      "sku": "F147",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f147-flat-chocolate-piel-de-durazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-12.57.37-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f148-flat-latte-picudo-de-charol",
+      "nombre": "F148 FLAT LATTE PICUDO DE CHAROL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f148-flat-latte-picudo-de-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/charol-late-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f149-flat-negro-picudo-de-charol",
+      "nombre": "F149 FLAT NEGRO PICUDO DE CHAROL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f149-flat-negro-picudo-de-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/charol-negro-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f150-flat-vino-picudo-de-charol",
+      "nombre": "F150 FLAT VINO PICUDO DE CHAROL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f150-flat-vino-picudo-de-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/charol-vino-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f151-flat-chocolate-picudo-de-charol",
+      "nombre": "F151 FLAT CHOCOLATE PICUDO DE CHAROL",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f151-flat-chocolate-picudo-de-charol/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/charol-chocolate-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f152-flat-negro-con-estoperales",
+      "nombre": "F152 FLAT NEGRO CON ESTOPERALES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f152-flat-negro-con-estoperales/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/estoperol-negro-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f153-flat-maquillaje-con-estoperales",
+      "nombre": "F153 FLAT MAQUILLAJE CON ESTOPERALES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f153-flat-maquillaje-con-estoperales/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/estoperol-maquillaje-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f154-flat-vino-con-estoperales",
+      "nombre": "F154 FLAT VINO CON ESTOPERALES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f154-flat-vino-con-estoperales/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/estoperol-vino-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f155-flat-negro-charol-doble-correa",
+      "nombre": "F155 FLAT NEGRO CHAROL DOBLE CORREA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f155-flat-negro-charol-doble-correa/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-26-at-3.33.21-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f156-flat-negro-tipo-ballerina",
+      "nombre": "F156 FLAT NEGRO TIPO BALLERINA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f156-flat-negro-tipo-ballerina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-25-at-12.33.05-PM-e1772747153475-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f157-flat-rojo-tipo-ballerina",
+      "nombre": "F157 FLAT ROJO TIPO BALLERINA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f157-flat-rojo-tipo-ballerina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-05-at-3.51.15-PM-e1772747522456-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f158-flat-negro-sencillo-con-hebilla-ovalada",
+      "nombre": "F158 FLAT NEGRO SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f158-flat-negro-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.15.58-PM-e1772746742814-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f159-flat-cafe-sencillo-con-hebilla-ovalada",
+      "nombre": "F159 FLAT CAFE SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f159-flat-cafe-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.15.59-PM-e1772746472266-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f160-flat-maquillaje-sencillo-con-hebilla-ovalada",
+      "nombre": "F160 FLAT MAQUILLAJE SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f160-flat-maquillaje-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.15.59-PM-1-e1772746552979-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f161-flat-latte-sencillo-con-hebilla-ovalada",
+      "nombre": "F161 FLAT LATTE SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f161-flat-latte-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-5.44.13-PM-e1772746592531-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f162-flat-plata-sencillo-con-hebilla-ovalada",
+      "nombre": "F162 FLAT PLATA SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f162-flat-plata-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-5.44.14-PM-e1772746630797-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f163-flat-latte-con-estoperoles",
+      "nombre": "F163 FLAT LATTE CON ESTOPEROLES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f163-flat-latte-con-estoperoles/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.13.57-PM-e1772746676193-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f164-flat-cafe-con-estoperoles",
+      "nombre": "F164 FLAT CAFE CON ESTOPEROLES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f164-flat-cafe-con-estoperoles/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.12.55-PM-e1772746785190-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f165-flat-rosa-de-malla-con-flores",
+      "nombre": "F165 FLAT ROSA DE MALLA CON FLORES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f165-flat-rosa-de-malla-con-flores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.14.23-PM-e1772746823672-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f166-flat-maquillaje-de-malla-con-flores",
+      "nombre": "F166 FLAT MAQUILLAJE DE MALLA CON FLORES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f166-flat-maquillaje-de-malla-con-flores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.14.45-PM-e1772746858858-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f167-flat-negro-de-malla",
+      "nombre": "F167 FLAT NEGRO DE MALLA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f167-flat-negro-de-malla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.15.10-PM-e1772746894770-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f168-flat-vino-sencillo-con-hebilla-ovalada",
+      "nombre": "F168 FLAT VINO SENCILLO CON HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f168-flat-vino-sencillo-con-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-6.27.11-PM-e1772747385505-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f169-flat-vino-tipo-corrugado-hebilla-ovalada",
+      "nombre": "F169 FLAT VINO TIPO CORRUGADO HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f169-flat-vino-tipo-corrugado-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-3.45.56-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f170-flat-negro-tipo-corrugado-hebilla-ovalada",
+      "nombre": "F170 FLAT NEGRO TIPO CORRUGADO HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f170-flat-negro-tipo-corrugado-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.41.47-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f171-flat-oro-tipo-corrugado-hebilla-ovalada",
+      "nombre": "F171 FLAT ORO TIPO CORRUGADO HEBILLA OVALADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f171-flat-oro-tipo-corrugado-hebilla-ovalada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.41.47-AM-1-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f172-flat-de-malla-diseno-de-bolitas",
+      "nombre": "F172 FLAT DE MALLA DISEÑO DE BOLITAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f172-flat-de-malla-diseno-de-bolitas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.29.46-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f173-flat-negro-de-malla-diseno-de-bolitas-blancas",
+      "nombre": "F173 FLAT NEGRO DE MALLA DISEÑO DE BOLITAS BLANCAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f173-flat-negro-de-malla-diseno-de-bolitas-blancas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-5.52.20-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f174-flat-fiusha-de-malla-bolitas-flusha",
+      "nombre": "F174 FLAT FIUSHA DE MALLA BOLITAS FLUSHA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f174-flat-fiusha-de-malla-bolitas-flusha/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.19-AM-3-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f175-flat-fiusha-de-malla-bolitas-negras",
+      "nombre": "F175 FLAT FIUSHA DE MALLA BOLITAS NEGRAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 459,
+      "url": "https://cocoa-store.com/producto/f175-flat-fiusha-de-malla-bolitas-negras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.26-AM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f176-flat-leopardo-melle",
+      "nombre": "F176 FLAT LEOPARDO MELLE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f176-flat-leopardo-melle/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.16.26-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f177-flat-maquillaje-charol-de-punta-corazon",
+      "nombre": "F177 FLAT MAQUILLAJE CHAROL DE PUNTA CORAZON",
+      "sku": "F177",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f177-flat-maquillaje-charol-de-punta-corazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.16.27-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.16.27-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "f178-flat-rojo-charol-de-punta-corazon",
+      "nombre": "F178 FLAT ROJO CHAROL DE PUNTA CORAZON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f178-flat-rojo-charol-de-punta-corazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-10.27.29-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f179-flat-negro-charol-de-punta-corazon",
+      "nombre": "F179 FLAT NEGRO CHAROL DE PUNTA CORAZON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f179-flat-negro-charol-de-punta-corazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-10.27.29-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f180-flat-merlot-charol-de-punta-corazon",
+      "nombre": "F180 FLAT MERLOT CHAROL DE PUNTA CORAZON",
+      "sku": "F180",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f180-flat-merlot-charol-de-punta-corazon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-10.27.00-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "f181-flat-latte-con-elastico-corrugado",
+      "nombre": "F181 FLAT LATTE CON ELASTICO CORRUGADO",
+      "sku": "F181",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f181-flat-latte-con-elastico-corrugado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.24.38-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.24.39-PM-e1774724320368.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f182-flat-charol-maquillajes-con-mono-talon-descubierto",
+      "nombre": "F182 FLAT CHAROL MAQUILLAJES CON MOÑO TALON DESCUBIERTO",
+      "sku": "F182",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 599,
+      "url": "https://cocoa-store.com/producto/f182-flat-charol-maquillajes-con-mono-talon-descubierto/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.24.40-PM-e1774724452133.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.24.39-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f183-flat-charol-negro-con-mono-y-talon-descubierto",
+      "nombre": "F183 FLAT CHAROL NEGRO CON MOÑO Y TALON DESCUBIERTO",
+      "sku": "F183",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 599,
+      "url": "https://cocoa-store.com/producto/f183-flat-charol-negro-con-mono-y-talon-descubierto/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.24.41-PM-e1774724554195.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.26.59-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f184-flat-negro-con-cinta-cerrado",
+      "nombre": "F184 FLAT NEGRO CON CINTA CERRADO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f184-flat-negro-con-cinta-cerrado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-30-at-2.41.40-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f185-flat-maquillaje-con-cinta-cerrado",
+      "nombre": "F185 FLAT MAQUILLAJE CON CINTA CERRADO",
+      "sku": "F185",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f185-flat-maquillaje-con-cinta-cerrado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.45-PM-e1774737457934.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.45-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 24
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 26
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 9
+        }
+      ]
+    },
+    {
+      "id": "f184-flat-negro-con-cinta-cerrado-copia",
+      "nombre": "F186 FLAT CHOCOLATE CON CINTA CERRADO",
+      "sku": "F186",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f184-flat-negro-con-cinta-cerrado-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-30-at-2.41.47-PM-e1774903522970.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-30-at-2.41.49-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "id": "f187-flat-negro-medio-talon",
+      "nombre": "F187 FLAT NEGRO MEDIO TALON",
+      "sku": "F187",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f187-flat-negro-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.49-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.46-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f188-flat-negro-piel-vibora-medio-talon",
+      "nombre": "F188 FLAT NEGRO PIEL VIBORA MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f188-flat-negro-piel-vibora-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.50-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f189-flat-vino-medio-talon",
+      "nombre": "F189 FLAT VINO MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f189-flat-vino-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.14.50-PM-2-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f190-flat-latte-malla-con-correa",
+      "nombre": "F190 FLAT LATTE MALLA CON CORREA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f190-flat-latte-malla-con-correa/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-31-at-2.50.48-PM-3-e1774991000958-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f191-flat-negro-con-elastico-corrugado",
+      "nombre": "F191 FLAT NEGRO CON ELASTICO CORRUGADO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f191-flat-negro-con-elastico-corrugado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-31-at-2.50.50-PM-e1774991067642-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f192-flat-vino-con-herrajes-ovalados",
+      "nombre": "F192 FLAT VINO CON HERRAJES OVALADOS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f192-flat-vino-con-herrajes-ovalados/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-31-at-4.59.16-PM-e1775000767769-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f193-flat-maquillaje-con-herrajes-ovalados",
+      "nombre": "F193 FLAT MAQUILLAJE CON HERRAJES OVALADOS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f193-flat-maquillaje-con-herrajes-ovalados/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.26.59-PM-2-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f194-flat-cafe-con-negro-medio-talon",
+      "nombre": "F194 FLAT CAFE CON NEGRO MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f194-flat-cafe-con-negro-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.35.52-PM-1-e1775672626822-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f195-flat-rojo-negro-medio-talon",
+      "nombre": "F195 FLAT ROJO/NEGRO MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f195-flat-rojo-negro-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.18.12-PM-e1775672713963-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f196-flat-oro-medio-talon",
+      "nombre": "F196 FLAT ORO MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f196-flat-oro-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.14.40-PM-1-e1775672962184-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f197-flat-plata-medio-talon",
+      "nombre": "F197 FLAT PLATA MEDIO TALON",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f197-flat-plata-medio-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.20.26-PM-1-e1775673250873-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f198-flat-latte-c-cinta-cerrado",
+      "nombre": "F198 FLAT LATTE C/CINTA CERRADO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f198-flat-latte-c-cinta-cerrado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.15.05-PM-e1775673403374-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f199-flat-vino-c-cinta-cerrado",
+      "nombre": "F199 FLAT VINO C/CINTA CERRADO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f199-flat-vino-c-cinta-cerrado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.12.13-PM-e1775673524558-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f200-flat-animal-print-c-cinta-cerrado",
+      "nombre": "F200 FLAT ANIMAL PRINT C/CINTA CERRADO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f200-flat-animal-print-c-cinta-cerrado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.09.19-PM-e1775673591363-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f201-flat-negro-charol-c-herrajes",
+      "nombre": "F201 FLAT NEGRO CHAROL C/HERRAJES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f201-flat-negro-charol-c-herrajes/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.01.59-PM-e1775673665317-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f202-flat-negro-tercioleto-hebilla-troquelada",
+      "nombre": "F202 FLAT NEGRO TERCIOLETO HEBILLA TROQUELADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f202-flat-negro-tercioleto-hebilla-troquelada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.00.08-PM-e1775673732106-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f203-flat-camel-terciopelo-hebilla-troquelada",
+      "nombre": "F203 FLAT CAMEL TERCIOPELO HEBILLA TROQUELADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f203-flat-camel-terciopelo-hebilla-troquelada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-3.58.35-PM-e1776206020115-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f204-flat-latte-basico",
+      "nombre": "F204 FLAT LATTE BASICO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f204-flat-latte-basico/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-3.58.35-PM-1-e1776206118646-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f205-flat-rojo-terciopelo-correa-corrugada",
+      "nombre": "F205 FLAT ROJO TERCIOPELO CORREA CORRUGADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f205-flat-rojo-terciopelo-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-3.58.37-PM-e1776206222170-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f206-flat-rosa-terciopelo-correa-corrugada",
+      "nombre": "F206 FLAT ROSA TERCIOPELO CORREA CORRUGADA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f206-flat-rosa-terciopelo-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-11.22.58-AM-e1776448822964-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f207-flat-cafe-de-malla",
+      "nombre": "F207 FLAT CAFE DE MALLA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f207-flat-cafe-de-malla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-11.22.58-AM-1-e1776448895146-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f208-flat-negro-de-red",
+      "nombre": "F208 FLAT NEGRO DE RED",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f208-flat-negro-de-red/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-11.22.58-AM-2-e1776534448245-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f209-flat-negro-charol-con-mono",
+      "nombre": "F209 FLAT NEGRO CHAROL CON MOÑO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f209-flat-negro-charol-con-mono/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-25-at-2.23.28-PM-e1777148687809-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f27",
+      "nombre": "F27",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f27/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/MAQUILLAJE-MONO-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f28-flat-maquillaje-charol-sin-mono",
+      "nombre": "F28 FLAT MAQUILLAJE CHAROL SIN MOÑO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f28-flat-maquillaje-charol-sin-mono/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/MAQUILLAJE-LISO-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f31-malla-roja-flat",
+      "nombre": "F31 MALLA ROJA FLAT",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f31-malla-roja-flat/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/08/64a84801-19b7-4872-951d-3095152fab71-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f35-flat-hueso-basica",
+      "nombre": "F35 FLAT HUESO BASICA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f35-flat-hueso-basica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/09/91bcb917-6440-4669-bef6-addd1ac01d0c-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f36-flat-maquillaje-basica",
+      "nombre": "F36 FLAT MAQUILLAJE BASICA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f36-flat-maquillaje-basica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/09/f96a89d0-6813-4942-bceb-533f003d984f-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f39-flat-roja-basica",
+      "nombre": "F39 FLAT ROJA BASICA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f39-flat-roja-basica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-23-at-14.06.21-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f40-flat-charol-negro-sin-mono",
+      "nombre": "F40 FLAT CHAROL NEGRO SIN MOÑO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f40-flat-charol-negro-sin-mono/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/NEGRO-LISO-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f43-flat-charol-negro-con-mono",
+      "nombre": "F43 FLAT CHAROL NEGRO CON MOÑO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f43-flat-charol-negro-con-mono/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-11-27-at-16.19.08-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f44-flat-red-beige-copia",
+      "nombre": "F45 FLAT LEOPARDO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f44-flat-red-beige-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/LEOPARDO-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f48-flat-leopardo-abierto",
+      "nombre": "F48 FLAT LEOPARDO Abierto",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f48-flat-leopardo-abierto/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/10/0a59ce7f-8dab-4830-acf1-c11cdd71c94b-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f51-flat-moka-clasica",
+      "nombre": "F51 FLAT MOKA CLASICA",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f51-flat-moka-clasica/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/02/3cc21b1e-84a0-41bf-acb6-753c5d379f36-300x300.jpg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f53-flat-de-charol-modelo-california-maquillaje",
+      "nombre": "F53 FLAT DE CHAROL MODELO CALIFORNIA MAQUILLAJE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f53-flat-de-charol-modelo-california-maquillaje/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/03/e2f3aa33-37af-4a3a-b198-255b64ef00fd-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f54-flat-de-charol-modelo-california-tinto",
+      "nombre": "F54 FLAT DE CHAROL MODELO CALIFORNIA TINTO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f54-flat-de-charol-modelo-california-tinto/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/03/032836c0-928c-449c-9162-0a999ee28d25-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f55-flat-de-charol-modelo-valeria-herraje-de-cristal-maquillaje",
+      "nombre": "F56 FLAT DE CHAROL MODELO VALERIA, HERRAJE DE CRISTAL MAQUILLAJE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f55-flat-de-charol-modelo-valeria-herraje-de-cristal-maquillaje/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/03/5303499c-f211-4132-b226-a2e3ff46db40-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f57-flat-de-charol-modelo-valeria-herraje-de-cristal-vino",
+      "nombre": "F57 FLAT DE CHAROL MODELO VALERIA, HERRAJE DE CRISTAL VINO",
+      "sku": "F57",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f57-flat-de-charol-modelo-valeria-herraje-de-cristal-vino/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/03/15ed5142-30ac-42be-9f8e-4a7fc337fc7e.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f58-flat-de-charol-modelo-valeria-herraje-de-cristal-negro",
+      "nombre": "F58 FLAT DE CHAROL MODELO VALERIA, HERRAJE DE CRISTAL NEGRO",
+      "sku": "F58",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f58-flat-de-charol-modelo-valeria-herraje-de-cristal-negro/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/03/85305842-e6fb-4094-a839-29db846bec69.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f72-flat-latte-de-malla-con-diseno-de-flores",
+      "nombre": "F72 FLAT LATTE DE MALLA CON DISEÑO DE FLORES",
+      "sku": "F72",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f72-flat-latte-de-malla-con-diseno-de-flores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/FLORES-BEIGE.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f73-flat-negro-de-malla-con-diseno-de-flores",
+      "nombre": "F73 FLAT NEGRO DE MALLA CON DISEÑO DE FLORES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f73-flat-negro-de-malla-con-diseno-de-flores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/FLORES-NEGRAS-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f75-flat-blanco-de-malla-con-herraje",
+      "nombre": "F75 FLAT BLANCO DE MALLA CON HERRAJE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f75-flat-blanco-de-malla-con-herraje/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-18-at-17.16.04-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f79-flat-blanco-de-malla-con-herrajes",
+      "nombre": "F79 FLAT BLANCO DE MALLA CON HERRAJES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f79-flat-blanco-de-malla-con-herrajes/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-20-at-13.55.41-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f80-flat-maquillaje-con-mono-y-punta-negra",
+      "nombre": "F80 FLAT MAQUILLAJE CON MOÑO Y PUNTA NEGRA",
+      "sku": "F80",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f80-flat-maquillaje-con-mono-y-punta-negra/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-13-at-11.07.20.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f81-flat-latte-con-mono-y-punta-negra",
+      "nombre": "F81 FLAT LATTE CON MOÑO Y PUNTA NEGRA",
+      "sku": "F81",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f81-flat-latte-con-mono-y-punta-negra/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-13-at-11.07.20-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f85-flat-plateado-de-malla-con-tira-de-brillos",
+      "nombre": "F85 FLAT PLATEADO DE MALLA CON TIRA DE BRILLOS",
+      "sku": "F85",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f85-flat-plateado-de-malla-con-tira-de-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/CRISTALES-PLATEADOS.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f86-flat-oro-de-malla-con-2-herrajes",
+      "nombre": "F86 FLAT ORO DE MALLA CON 2 HERRAJES",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f86-flat-oro-de-malla-con-2-herrajes/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2026-02-06-at-12.07.19-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f87-flat-de-malla-negro-con-herrajes-pequenos",
+      "nombre": "F87 FLAT DE MALLA NEGRO CON HERRAJES PEQUEÑOS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f87-flat-de-malla-negro-con-herrajes-pequenos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/09/HERRAJE-NEGRO-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f94-flat-estampado-vaca-cafe-y-blanco",
+      "nombre": "F94 FLAT ESTAMPADO VACA CAFE Y LATTE",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f94-flat-estampado-vaca-cafe-y-blanco/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-09-at-5.51.35-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f96-flat-estampado-vaca-cafe-y-blanco",
+      "nombre": "F96 FLAT ESTAMPADO VACA CAFE Y BLANCO",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 549,
+      "url": "https://cocoa-store.com/producto/f96-flat-estampado-vaca-cafe-y-blanco/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-20-at-5.56.43-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f98-flat-latte-de-red-con-hebillas-cruzadas",
+      "nombre": "F98 FLAT LATTE DE RED CON HEBILLAS CRUZADAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f98-flat-latte-de-red-con-hebillas-cruzadas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-28-at-5.47.50-PM-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "f99-flat-negro-de-red-con-hebillas-cruzadas",
+      "nombre": "F99 FLAT NEGRO DE RED CON HEBILLAS CRUZADAS",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f99-flat-negro-de-red-con-hebillas-cruzadas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-28-at-5.47.51-PM-1-300x300.jpeg"
+      ],
+      "tallas": []
+    },
+    {
+      "id": "m8030",
+      "nombre": "M8030",
+      "sku": "",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/m8030/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-17-at-15.16.45_5b94f3ba-300x300.jpg"
       ],
       "tallas": []
     }
