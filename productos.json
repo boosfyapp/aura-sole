@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-04-30 08:04 UTC",
+  "actualizado": "2026-05-01 08:03 UTC",
   "total": 597,
   "productos": [
     {
@@ -97,7 +97,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -178,7 +178,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -221,7 +221,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -307,7 +307,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -2404,11 +2404,12 @@
         {
           "numero": "3-5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4-5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5-5",
@@ -2436,7 +2437,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -2997,17 +2998,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -3030,22 +3031,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -3093,22 +3094,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -3223,8 +3224,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5735,8 +5735,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5854,18 +5853,16 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -6008,7 +6005,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -6120,7 +6117,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -6587,8 +6584,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -6626,7 +6622,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -7076,7 +7072,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -7498,7 +7494,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -7531,7 +7527,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -7772,7 +7768,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -7932,7 +7928,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -7956,12 +7952,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -8061,7 +8057,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -8087,8 +8083,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -8111,17 +8106,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -8158,7 +8153,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         }
       ]
     },
@@ -8191,7 +8186,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -8245,8 +8240,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -8459,7 +8453,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -8522,8 +8516,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -8783,7 +8776,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -8805,7 +8798,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -8838,22 +8831,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -9426,17 +9419,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -9650,7 +9643,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -9754,7 +9747,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -10028,22 +10021,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -10167,18 +10160,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -10514,7 +10506,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -10695,7 +10687,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -10908,8 +10900,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -10919,7 +10910,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -11002,7 +10993,7 @@
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s1042-sandalia-oro-rosado-serpiente-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.08-AM-e1777563275203.jpeg"
       ],
       "tallas": [
         {
@@ -11040,7 +11031,7 @@
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s1043-sandalia-negra-serpiente-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.08-AM-1-e1777563346146.jpeg"
       ],
       "tallas": [
         {
@@ -11078,7 +11069,7 @@
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s1044-sandalia-oro-serpiente-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.08-AM-2-e1777563426875.jpeg"
       ],
       "tallas": [
         {
@@ -11248,8 +11239,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -11279,12 +11269,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "7",
@@ -11345,13 +11335,11 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -12158,18 +12146,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -12230,22 +12217,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -13705,7 +13692,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -14182,7 +14169,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -14863,8 +14850,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -15154,7 +15140,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -15220,7 +15206,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -15526,8 +15512,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
@@ -15595,7 +15580,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -15605,7 +15590,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -16324,22 +16309,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 9
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 39
+          "cantidad": 36
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 37
+          "cantidad": 34
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 14
         },
         {
           "numero": "7",
@@ -16657,8 +16642,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -16666,8 +16650,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -16693,22 +16676,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 22
+          "cantidad": 20
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 21
+          "cantidad": 19
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 13
         },
         {
           "numero": "7",
@@ -17616,7 +17599,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -18799,7 +18782,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -18808,12 +18791,12 @@
         {
           "numero": "3-5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4-5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5-5",
@@ -18845,12 +18828,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "3-5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4-5",
@@ -19178,7 +19161,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -19219,7 +19202,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -19241,28 +19224,26 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -19323,22 +19304,22 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -19350,33 +19331,32 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t152-tacon-latte-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-e1777563489528.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.08-AM-3.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 9
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 1
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 2
         }
       ]
     },
@@ -19388,33 +19368,33 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t153-tacon-negro-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-2-e1777563594586.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 6
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 3
         }
       ]
     },
@@ -20662,7 +20642,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
