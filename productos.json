@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-24 08:19 UTC",
+  "actualizado": "2026-05-25 09:48 UTC",
   "total": 598,
   "productos": [
     {
@@ -3051,7 +3051,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -3363,8 +3363,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -6093,7 +6092,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -6116,7 +6115,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -6583,8 +6582,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -7511,7 +7509,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -11227,7 +11225,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -13382,7 +13380,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "4",
@@ -14901,7 +14899,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -18863,8 +18861,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
