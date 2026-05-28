@@ -1,2946 +1,7 @@
 {
-  "actualizado": "2026-05-27 09:02 UTC",
-  "total": 606,
+  "actualizado": "2026-05-28 09:46 UTC",
+  "total": 536,
   "productos": [
-    {
-      "id": "p002",
-      "nombre": "P002 PLATAFORMA DE YUTE METEDERA",
-      "sku": "P002",
-      "categoria": "ALPARGATAS",
-      "precio": 619,
-      "url": "https://cocoa-store.com/producto/p002/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2022/03/P002.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0100-plataforma-negra-de-dos-tiras-con-diseno",
-      "nombre": "P0100 PLATAFORMA NEGRA DE DOS TIRAS CON DISEÑO",
-      "sku": "P0100",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0100-plataforma-negra-de-dos-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.42-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0101-plataforma-cafe-de-dos-tiras-con-diseno",
-      "nombre": "P0101 PLATAFORMA CAFE DE DOS TIRAS CON DISEÑO",
-      "sku": "P0101",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0101-plataforma-cafe-de-dos-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.42-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0102-plataforma-khaki-de-dos-tiras-con-diseno",
-      "nombre": "P0102 PLATAFORMA KHAKI DE DOS TIRAS CON DISEÑO",
-      "sku": "P0102",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0102-plataforma-khaki-de-dos-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.43-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0103-plataforma-blanca-de-tiras-con-brillos",
-      "nombre": "P0103 PLATAFORMA BLANCA DE TIRAS CON BRILLOS",
-      "sku": "P0103",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0103-plataforma-blanca-de-tiras-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.43-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0104-plataforma-dorada-de-tiras-con-brillos",
-      "nombre": "P0104 PLATAFORMA DORADA DE TIRAS CON BRILLOS",
-      "sku": "P0104",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0104-plataforma-dorada-de-tiras-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0105-plataforma-plateada-de-tiras-con-brillos",
-      "nombre": "P0105 PLATAFORMA PLATEADA DE TIRAS CON BRILLOS",
-      "sku": "P0105",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0105-plataforma-plateada-de-tiras-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.44-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0106-plataforma-negra-de-tiras-con-brillos",
-      "nombre": "P0106 PLATAFORMA NEGRA DE TIRAS CON BRILLOS",
-      "sku": "P0106",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0106-plataforma-negra-de-tiras-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.57-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "p0107-plataforma-negra-de-tiras-con-pedreria",
-      "nombre": "P0107 PLATAFORMA NEGRA DE TIRAS CON PEDRERIA",
-      "sku": "P0107",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0107-plataforma-negra-de-tiras-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.58-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "p0108-plataforma-cafe-de-tiras-con-pedreria",
-      "nombre": "P0108 PLATAFORMA CAFE DE TIRAS CON PEDRERIA",
-      "sku": "P0108",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0108-plataforma-cafe-de-tiras-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.59-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0109-plataforma-camel-de-tiras-con-pedreria",
-      "nombre": "P0109 PLATAFORMA CAMEL DE TIRAS CON PEDRERIA",
-      "sku": "P0109",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0109-plataforma-camel-de-tiras-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.38.59-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0110-plataforma-blanca-de-tiras-con-pedreria",
-      "nombre": "P0110 PLATAFORMA BLANCA DE TIRAS CON PEDRERIA",
-      "sku": "P0110",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0110-plataforma-blanca-de-tiras-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-2.39.00-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0111-plataforma-rosa-doble-hebilla",
-      "nombre": "P0111 PLATAFORMA ROSA DOBLE HEBILLA",
-      "sku": "P0111",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0111-plataforma-rosa-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0112-plataforma-khaki-doble-hebilla",
-      "nombre": "P0112 PLATAFORMA KHAKI DOBLE HEBILLA",
-      "sku": "P0112",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0112-plataforma-khaki-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.57-PM-2.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": false
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0113-plataforma-negra-doble-hebilla",
-      "nombre": "P0113 PLATAFORMA NEGRA DOBLE HEBILLA",
-      "sku": "P0113",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0113-plataforma-negra-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.58-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0114-plataforma-cafe-doble-hebilla",
-      "nombre": "P0114 PLATAFORMA CAFE DOBLE HEBILLA",
-      "sku": "P0114",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0114-plataforma-cafe-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.59-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0115-plataforma-negra-con-dedal-de-pedreria",
-      "nombre": "P0115 PLATAFORMA NEGRA CON DEDAL DE PEDRERIA",
-      "sku": "P0115",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0115-plataforma-negra-con-dedal-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.36.59-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "p0116-plataforma-champagne-con-dedal-de-pedreria",
-      "nombre": "P0116 PLATAFORMA CHAMPAGNE CON DEDAL DE PEDRERIA",
-      "sku": "P0116",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0116-plataforma-champagne-con-dedal-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.00-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0117-plataforma-dorada-con-dedal-de-pedreria",
-      "nombre": "P0117 PLATAFORMA DORADA CON DEDAL DE PEDRERIA",
-      "sku": "P0117",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0117-plataforma-dorada-con-dedal-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.01-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0118-plataforma-plateada-con-dedal-de-pedreria",
-      "nombre": "P0118 PLATAFORMA PLATEADA CON DEDAL DE PEDRERIA",
-      "sku": "P0118",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0118-plataforma-plateada-con-dedal-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.01-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0119-plataforma-negra-con-diseno-de-pedreria",
-      "nombre": "P0119 PLATAFORMA NEGRA CON DISEÑO DE PEDRERIA",
-      "sku": "P0119",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0119-plataforma-negra-con-diseno-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.02-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "p0120-plataforma-camel-con-diseno-de-pedreria",
-      "nombre": "P0120 PLATAFORMA CAMEL CON DISEÑO DE PEDRERIA",
-      "sku": "P0120",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0120-plataforma-camel-con-diseno-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.02-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0121-plataforma-blanca-con-diseno-de-pedreria",
-      "nombre": "P0121 PLATAFORMA BLANCA CON DISEÑO DE PEDRERIA",
-      "sku": "P0121",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0121-plataforma-blanca-con-diseno-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-3.37.02-PM-2.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0122-plataforma-cafe-con-diseno-de-pedreria",
-      "nombre": "P0122 PLATAFORMA CAFE CON DISEÑO DE PEDRERIA",
-      "sku": "P0122",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0122-plataforma-cafe-con-diseno-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-11.27.19-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0123-plataforma-blanca-con-pedreria",
-      "nombre": "P0123 PLATAFORMA BLANCA CON PEDRERIA",
-      "sku": "P0123",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0123-plataforma-blanca-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.38-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.38-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0124-plataforma-camel-con-pedreria",
-      "nombre": "P0124 PLATAFORMA CAMEL CON PEDRERIA",
-      "sku": "P0124",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0124-plataforma-camel-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.39-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.39-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0125-plataforma-cafe-con-pedreria",
-      "nombre": "P0125 PLATAFORMA CAFE CON PEDRERIA",
-      "sku": "P0125",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0125-plataforma-cafe-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.40-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.40-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0126-plataforma-negra-con-pedreria",
-      "nombre": "P0126 PLATAFORMA NEGRA CON PEDRERIA",
-      "sku": "P0126",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0126-plataforma-negra-con-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.41-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.42-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
-    },
-    {
-      "id": "p0127-plataforma-negra-con-doble-broche-de-velcro",
-      "nombre": "P0127 PLATAFORMA NEGRA CON DOBLE BROCHE DE VELCRO",
-      "sku": "P0127",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0127-plataforma-negra-con-doble-broche-de-velcro/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.43-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.42-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0128-plataforma-blanca-con-doble-broche-de-velcro",
-      "nombre": "P0128 PLATAFORMA BLANCA CON DOBLE BROCHE DE VELCRO",
-      "sku": "P0128",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0128-plataforma-blanca-con-doble-broche-de-velcro/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.44-PM-2.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.44-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0129-plataforma-cafe-con-doble-broche-de-velcro",
-      "nombre": "P0129 PLATAFORMA CAFE CON DOBLE BROCHE DE VELCRO",
-      "sku": "P0129",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0129-plataforma-cafe-con-doble-broche-de-velcro/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.45-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.45-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0130-plataforma-camel-con-doble-broche-de-velcro",
-      "nombre": "P0130 PLATAFORMA CAMEL CON DOBLE BROCHE DE VELCRO",
-      "sku": "P0130",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0130-plataforma-camel-con-doble-broche-de-velcro/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.46-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-4.34.46-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0131-plataforma-negra-con-doble-hebilla",
-      "nombre": "P0131 PLATAFORMA NEGRA CON DOBLE HEBILLA",
-      "sku": "P0131",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0131-plataforma-negra-con-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.19-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.18-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "p0132-plataforma-cafe-con-doble-hebilla",
-      "nombre": "P0132 PLATAFORMA CAFE CON DOBLE HEBILLA",
-      "sku": "P0132",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0132-plataforma-cafe-con-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.20-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.20-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0133-plataforma-camel-con-doble-hebilla",
-      "nombre": "P0133 PLATAFORMA CAMEL CON DOBLE HEBILLA",
-      "sku": "P0133",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0133-plataforma-camel-con-doble-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.21-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.21-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0134-plataforma-negra-con-hebilla",
-      "nombre": "P0134 PLATAFORMA NEGRA CON HEBILLA",
-      "sku": "P0134",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0134-plataforma-negra-con-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.23-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 5
-        }
-      ]
-    },
-    {
-      "id": "p0135-plataforma-camel-con-hebilla",
-      "nombre": "P0135 PLATAFORMA CAMEL CON HEBILLA",
-      "sku": "P0135",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0135-plataforma-camel-con-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.23-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0136-plataforma-blanca-con-hebilla",
-      "nombre": "P0136 PLATAFORMA BLANCA CON HEBILLA",
-      "sku": "P0136",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0136-plataforma-blanca-con-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0137-plataforma-cafe-con-hebilla",
-      "nombre": "P0137 PLATAFORMA CAFE CON HEBILLA",
-      "sku": "P0137",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0137-plataforma-cafe-con-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0138-plataforma-beige-con-broche-de-velcro-y-diseno",
-      "nombre": "P0138 PLATAFORMA BEIGE CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "P0138",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0138-plataforma-beige-con-broche-de-velcro-y-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.24-PM-2.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0139-plataforma-negra-con-broche-de-velcro-y-diseno",
-      "nombre": "P0139 PLATAFORMA NEGRA CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "P0139",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0139-plataforma-negra-con-broche-de-velcro-y-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.25-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0140-plataforma-cafe-con-broche-de-velcro-y-diseno",
-      "nombre": "P0140 PLATAFORMA CAFE CON BROCHE DE VELCRO Y DISEÑO",
-      "sku": "P0140",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0140-plataforma-cafe-con-broche-de-velcro-y-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-12.04.26-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0141-plataforma-cafe-con-diseno-de-estrellas",
-      "nombre": "P0141 PLATAFORMA CAFE CON DISEÑO DE ESTRELLAS",
-      "sku": "P0141",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0141-plataforma-cafe-con-diseno-de-estrellas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.33-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.33-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0142-plataforma-blanca-con-diseno-de-estrellas",
-      "nombre": "P0142 PLATAFORMA BLANCA CON DISEÑO DE ESTRELLAS",
-      "sku": "P0142",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0142-plataforma-blanca-con-diseno-de-estrellas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.34-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.34-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0143-plataforma-negra-con-diseno-de-estrellas",
-      "nombre": "P0143 PLATAFORMA NEGRA CON DISEÑO DE ESTRELLAS",
-      "sku": "P0143",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0143-plataforma-negra-con-diseno-de-estrellas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.35-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.35-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0144-plataforma-beige-con-diseno-de-estrellas",
-      "nombre": "P0144 PLATAFORMA BEIGE CON DISEÑO DE ESTRELLAS",
-      "sku": "P0144",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0144-plataforma-beige-con-diseno-de-estrellas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.34-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.34-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0145-plataforma-gladeador-de-leopardo-con-placa-de-leon",
-      "nombre": "P0145 PLATAFORMA GLADEADOR DE LEOPARDO CON PLACA DE LEON",
-      "sku": "P0145",
-      "categoria": "ALPARGATAS",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/p0145-plataforma-gladeador-de-leopardo-con-placa-de-leon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.37-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.37-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0146-plataforma-gladeador-dorada-con-placa-de-leon",
-      "nombre": "P0146 PLATAFORMA GLADEADOR DORADA CON PLACA DE LEON",
-      "sku": "P0146",
-      "categoria": "ALPARGATAS",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/p0146-plataforma-gladeador-dorada-con-placa-de-leon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.38-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.38-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0147-plataforma-gladeador-negra-con-placa-de-leon",
-      "nombre": "P0147 PLATAFORMA GLADEADOR NEGRA CON PLACA DE LEON",
-      "sku": "P0147",
-      "categoria": "ALPARGATAS",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/p0147-plataforma-gladeador-negra-con-placa-de-leon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.39-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.39-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0148-plataforma-gladeador-beige-con-placa-de-leon",
-      "nombre": "P0148 PLATAFORMA GLADEADOR BEIGE CON PLACA DE LEON",
-      "sku": "P0148",
-      "categoria": "ALPARGATAS",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/p0148-plataforma-gladeador-beige-con-placa-de-leon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.40-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.40-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0149-plataforma-cafe-con-tiras-cruzadas-de-brillos",
-      "nombre": "P0149 PLATAFORMA CAFE CON TIRAS CRUZADAS DE BRILLOS",
-      "sku": "P0149",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0149-plataforma-cafe-con-tiras-cruzadas-de-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.41-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0150-plataforma-blanca-con-tiras-cruzadas-de-brillos",
-      "nombre": "P0150 PLATAFORMA BLANCA CON TIRAS CRUZADAS DE BRILLOS",
-      "sku": "P0150",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0150-plataforma-blanca-con-tiras-cruzadas-de-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.42-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0151-plataforma-negra-con-tiras-cruzadas-de-brillos",
-      "nombre": "P0151 PLATAFORMA NEGRA CON TIRAS CRUZADAS DE BRILLOS",
-      "sku": "P0151",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0151-plataforma-negra-con-tiras-cruzadas-de-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.42-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "p0152-plataforma-camel-con-tiras-cruzadas-de-brillos",
-      "nombre": "P0152 PLATAFORMA CAMEL CON TIRAS CRUZADAS DE BRILLOS",
-      "sku": "P0152",
-      "categoria": "ALPARGATAS",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/p0152-plataforma-camel-con-tiras-cruzadas-de-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-3.24.43-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0153-plataforma-plateada-de-tiras-brillantes-de-pedreria",
-      "nombre": "P0153 PLATAFORMA PLATEADA DE TIRAS BRILLANTES DE PEDRERIA",
-      "sku": "P0153",
-      "categoria": "ALPARGATAS",
-      "precio": 479,
-      "url": "https://cocoa-store.com/producto/p0153-plataforma-plateada-de-tiras-brillantes-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.52.59-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0154-plataforma-negra-de-tiras-brillantes-de-pedreria",
-      "nombre": "P0154 PLATAFORMA NEGRA DE TIRAS BRILLANTES DE PEDRERIA",
-      "sku": "P0154",
-      "categoria": "ALPARGATAS",
-      "precio": 479,
-      "url": "https://cocoa-store.com/producto/p0154-plataforma-negra-de-tiras-brillantes-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.52.58-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "p0155-plataforma-dorada-de-tiras-brillantes-de-pedreria",
-      "nombre": "P0155 PLATAFORMA DORADA DE TIRAS BRILLANTES DE PEDRERIA",
-      "sku": "P0155",
-      "categoria": "ALPARGATAS",
-      "precio": 479,
-      "url": "https://cocoa-store.com/producto/p0155-plataforma-dorada-de-tiras-brillantes-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.52.58-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0156-plataforma-oro-rosado-de-tiras-brillantes-de-pedreria",
-      "nombre": "P0156 PLATAFORMA ORO ROSADO DE TIRAS BRILLANTES DE PEDRERIA",
-      "sku": "P0156",
-      "categoria": "ALPARGATAS",
-      "precio": 479,
-      "url": "https://cocoa-store.com/producto/p0156-plataforma-oro-rosado-de-tiras-brillantes-de-pedreria/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.52.59-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0157-plataforma-negra-de-dos-tiras-dobles-con-brillos",
-      "nombre": "P0157 PLATAFORMA NEGRA DE DOS TIRAS DOBLES CON BRILLOS",
-      "sku": "P0157",
-      "categoria": "ALPARGATAS",
-      "precio": 489,
-      "url": "https://cocoa-store.com/producto/p0157-plataforma-negra-de-dos-tiras-dobles-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.00-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.00-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
-    },
-    {
-      "id": "p0158-plataforma-cafe-de-dos-tiras-dobles-con-brillos",
-      "nombre": "P0158 PLATAFORMA CAFE DE DOS TIRAS DOBLES CON BRILLOS",
-      "sku": "P0158",
-      "categoria": "ALPARGATAS",
-      "precio": 489,
-      "url": "https://cocoa-store.com/producto/p0158-plataforma-cafe-de-dos-tiras-dobles-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.01-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.01-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0159-plataforma-beige-de-dos-tiras-dobles-con-brillos",
-      "nombre": "P0159 PLATAFORMA BEIGE DE DOS TIRAS DOBLES CON BRILLOS",
-      "sku": "P0159",
-      "categoria": "ALPARGATAS",
-      "precio": 489,
-      "url": "https://cocoa-store.com/producto/p0159-plataforma-beige-de-dos-tiras-dobles-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.02-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.02-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0160-plataforma-blanca-de-dos-tiras-dobles-con-brillos",
-      "nombre": "P0160 PLATAFORMA BLANCA DE DOS TIRAS DOBLES CON BRILLOS",
-      "sku": "P0160",
-      "categoria": "ALPARGATAS",
-      "precio": 489,
-      "url": "https://cocoa-store.com/producto/p0160-plataforma-blanca-de-dos-tiras-dobles-con-brillos/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.03-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.53.03-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0161-plataforma-negra-cristales-de-tres-tiras",
-      "nombre": "P0161 PLATAFORMA NEGRA CRISTALES DE TRES TIRAS",
-      "sku": "P0161",
-      "categoria": "ALPARGATAS",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/p0161-plataforma-negra-cristales-de-tres-tiras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.45.44-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p0162-plataforma-cafe-cristales-de-tres-tiras",
-      "nombre": "P0162 PLATAFORMA CAFE CRISTALES DE TRES TIRAS",
-      "sku": "P0162",
-      "categoria": "ALPARGATAS",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/p0162-plataforma-cafe-cristales-de-tres-tiras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.49.49-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0163-plataforma-oro-rosado-cristales-de-tres-tiras",
-      "nombre": "P0163 PLATAFORMA ORO ROSADO CRISTALES DE TRES TIRAS",
-      "sku": "P0163",
-      "categoria": "ALPARGATAS",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/p0163-plataforma-oro-rosado-cristales-de-tres-tiras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.50.20-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0164-plataforma-plateada-cristales-de-tres-tiras",
-      "nombre": "P0164 PLATAFORMA PLATEADA CRISTALES DE TRES TIRAS",
-      "sku": "P0164",
-      "categoria": "ALPARGATAS",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/p0164-plataforma-plateada-cristales-de-tres-tiras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-28-at-4.50.46-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p0165-alpargata-cafe-suela-de-yute",
-      "nombre": "P0165 ALPARGATA CAFE SUELA DE YUTE",
-      "sku": "P0165",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0165-alpargata-cafe-suela-de-yute/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.19-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0166-alpargata-negra-suela-de-yute",
-      "nombre": "P0166 ALPARGATA NEGRA SUELA DE YUTE",
-      "sku": "P0166",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0166-alpargata-negra-suela-de-yute/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.19-AM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p0167-alpargata-latte-suela-de-yute",
-      "nombre": "P0167 ALPARGATA LATTE SUELA DE YUTE",
-      "sku": "P0167",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p0167-alpargata-latte-suela-de-yute/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.20-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p050",
-      "nombre": "P050 PLATAFORMA DE YUTE Y MICA",
-      "sku": "P050",
-      "categoria": "ALPARGATAS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/p050/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2022/05/p050-1.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
     {
       "id": "p084-plataforma-yute-hueso-mono",
       "nombre": "P084 PLATAFORMA YUTE HUESO MOÑO",
@@ -3027,8 +88,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -3116,7 +176,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -3253,178 +313,6 @@
         {
           "numero": "6",
           "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p096-plataforma-camel-de-tiras-con-diseno",
-      "nombre": "P096 PLATAFORMA CAMEL DE TIRAS CON DISEÑO",
-      "sku": "P096",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p096-plataforma-camel-de-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.38-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.38-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "p097-plataforma-cafe-de-tiras-con-diseno",
-      "nombre": "P097 PLATAFORMA CAFE DE TIRAS CON DISEÑO",
-      "sku": "P097",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p097-plataforma-cafe-de-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.39-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.39-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "p098-plataforma-blanca-de-tiras-con-diseno",
-      "nombre": "P098 PLATAFORMA BLANCA DE TIRAS CON DISEÑO",
-      "sku": "P098",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p098-plataforma-blanca-de-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.40-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.40-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4-5",
-          "disponible": false
-        },
-        {
-          "numero": "5-5",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "p099-plataforma-negra-de-tiras-con-diseno",
-      "nombre": "P099 PLATAFORMA NEGRA DE TIRAS CON DISEÑO",
-      "sku": "P099",
-      "categoria": "ALPARGATAS",
-      "precio": 459,
-      "url": "https://cocoa-store.com/producto/p099-plataforma-negra-de-tiras-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.41-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-27-at-12.45.41-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "3-5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4-5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5-5",
-          "disponible": true,
-          "cantidad": 4
         }
       ]
     },
@@ -5181,7 +2069,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -5241,7 +2129,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -6122,7 +3010,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -6147,23 +3035,21 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -6359,13 +3245,11 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -6520,7 +3404,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -6542,12 +3426,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -6557,7 +3441,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -6607,22 +3491,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -6650,7 +3534,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -6711,12 +3595,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -6738,17 +3622,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -6795,17 +3679,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 16
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 16
         },
         {
           "numero": "6",
@@ -7024,7 +3908,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -7269,17 +4153,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -7360,18 +4244,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -7392,8 +4273,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -7403,7 +4283,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -7496,12 +4376,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -7529,12 +4409,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -7852,17 +4732,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 22
+          "cantidad": 21
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -7918,7 +4798,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -8055,7 +4935,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -8176,8 +5056,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -8186,13 +5065,11 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -8213,8 +5090,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -8223,7 +5099,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -8240,18 +5116,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -8366,28 +5239,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f228-flat-oro-con-suela-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.39.38-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.39.38-AM-2.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         }
       ]
     },
@@ -8399,28 +5273,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f229-flat-latte-de-flores-con-suela-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.39.39-AM-e1779900362399.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.39.39-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         }
       ]
     },
@@ -8432,28 +5307,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f230-flat-negra-de-flores-con-suela-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.52-AM-e1779900496626.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.54-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -8465,28 +5341,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f231-flat-celeste-de-flores-con-suela-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.56-AM-e1779900585878.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.56-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -8498,28 +5375,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f232-flat-negro-de-gamuza-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.58-AM-e1779900672223.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.57-AM.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         }
       ]
     },
@@ -8531,28 +5409,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f233-flat-cafe-de-gamuza-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.59-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.42.59-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         }
       ]
     },
@@ -8564,28 +5443,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f234-flat-latte-de-gamuza-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.01-AM-e1779900906841.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.00-AM.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         }
       ]
     },
@@ -8597,28 +5477,165 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f235-flat-plata-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.02-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.01-AM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f236-flat-oro-con-hebilla",
+      "nombre": "F236 FLAT ORO CON HEBILLA",
+      "sku": "F236",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f236-flat-oro-con-hebilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.03-AM-e1779901336226.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.02-AM-1-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f237-flat-negro-tipo-charol-con-hebilla",
+      "nombre": "F237 FLAT NEGRO TIPO CHAROL CON HEBILLA",
+      "sku": "F237",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f237-flat-negro-tipo-charol-con-hebilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.04-AM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.04-AM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f238-flat-negro-liso-con-hebilla",
+      "nombre": "F238 FLAT NEGRO LISO CON HEBILLA",
+      "sku": "F238",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f238-flat-negro-liso-con-hebilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.06-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.05-AM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "id": "f239-flat-latte-liso-con-hebilla",
+      "nombre": "F239 FLAT LATTE LISO CON HEBILLA",
+      "sku": "F239",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f239-flat-latte-liso-con-hebilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.07-AM-1-e1779902983756.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-27-at-10.43.06-AM-3.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
         }
       ]
     },
@@ -9139,8 +6156,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -9284,8 +6300,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -9588,7 +6603,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -9644,12 +6659,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -10169,7 +7184,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -10338,7 +7353,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "5",
@@ -10398,8 +7413,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -10515,7 +7529,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -10896,12 +7910,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -10961,7 +7975,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -11271,17 +8285,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -11375,7 +8389,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -11469,22 +8483,21 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 10
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -11506,17 +8519,16 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -11534,22 +8546,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -12189,8 +9201,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -13242,7 +10253,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -16436,8 +13447,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -16461,7 +13471,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -19487,7 +16497,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -19538,8 +16548,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -19567,17 +16576,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -19951,7 +16960,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -20556,7 +17565,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
