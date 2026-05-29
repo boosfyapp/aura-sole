@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-05-28 09:46 UTC",
+  "actualizado": "2026-05-29 09:33 UTC",
   "total": 536,
   "productos": [
     {
@@ -57,7 +57,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -144,8 +144,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -646,7 +645,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -3010,7 +3009,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -3426,7 +3425,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -3463,17 +3462,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -3534,7 +3533,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -3595,7 +3594,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -4157,8 +4156,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4441,13 +4439,12 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -4872,8 +4869,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5031,7 +5027,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -5060,8 +5056,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5098,8 +5093,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5562,7 +5556,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -6185,8 +6179,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "5",
@@ -6659,12 +6652,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -6828,7 +6821,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -7085,7 +7078,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "5",
@@ -7128,7 +7121,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         }
       ]
     },
@@ -7146,12 +7139,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -7160,8 +7153,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -7283,7 +7275,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "5",
@@ -7320,7 +7312,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -7391,7 +7383,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -7845,7 +7837,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -7910,12 +7902,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -8119,7 +8111,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -8129,7 +8121,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "7",
@@ -8157,7 +8149,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -8238,7 +8230,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -8450,12 +8442,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -8493,7 +8485,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -8523,8 +8515,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -10051,7 +10042,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -10253,7 +10244,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -11336,7 +11327,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -11876,7 +11867,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 30
+          "cantidad": 29
         },
         {
           "numero": "5",
@@ -12175,7 +12166,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 19
         },
         {
           "numero": "5",
@@ -12606,7 +12597,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -12849,7 +12840,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -12901,7 +12892,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 22
+          "cantidad": 21
         },
         {
           "numero": "5",
@@ -13102,7 +13093,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "4",
@@ -13112,7 +13103,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "6",
@@ -13405,7 +13396,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -13415,7 +13406,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         }
       ]
     },
@@ -13476,7 +13467,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -13510,7 +13501,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -15262,7 +15253,7 @@
       "nombre": "T107 TACON PICUDO CHAROL ROJO",
       "sku": "T107",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t107-tacon-picudo-charol-rojo/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/01/a168b694-4d12-49a0-8c0a-1365b2ce6a26.jpg",
@@ -15284,7 +15275,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -15297,7 +15288,7 @@
       "nombre": "T112 TACON VINO DOBLE CORREA",
       "sku": "T112",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t112-tacon-vino-doble-correa/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/01/T112.jpg",
@@ -15317,7 +15308,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -15336,7 +15327,7 @@
       "nombre": "T113 TACON PARIS CHAROL TINTO",
       "sku": "T113",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t113-tacon-paris-charol-tinto/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/02/70b2f043-1715-439c-b888-67965e95a10f.jpg"
@@ -15370,7 +15361,7 @@
       "nombre": "T114 TACON PARIS CHAROL NEGRO",
       "sku": "T114",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t114-tacon-paris-charol-negro/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/02/ecc9ad56-f26b-4801-95b5-0f0b6818dc2d.jpg"
@@ -15379,7 +15370,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -15387,8 +15378,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -15439,7 +15429,7 @@
       "nombre": "T122 TACON DUPE STEVE ROJO HEBILLA",
       "sku": "T122",
       "categoria": "TACONES",
-      "precio": 629,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t122-tacon-dupe-steve-rojo-hebilla/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/03/62683d85-36ec-46d2-9637-e0af8c7c2b57.jpg",
@@ -15468,8 +15458,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -15478,7 +15467,7 @@
       "nombre": "T123 TACON DUPE STEVE NEGRO HEBILLA",
       "sku": "T123",
       "categoria": "TACONES",
-      "precio": 629,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t123-tacon-dupe-steve-negro-hebilla/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/03/72561d2b-239c-4baa-b933-54f3d1e8fd0a.jpg",
@@ -15516,7 +15505,7 @@
       "nombre": "T124 TACON NEGRO DOBLE CORREA",
       "sku": "T124",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t124-tacon-negro-doble-correa/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-10-28-at-5.47.51-PM.jpeg"
@@ -15540,7 +15529,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -15554,7 +15543,7 @@
       "nombre": "T125 TACON MAQUILLAJE, FLOR MAQUILLAJE.",
       "sku": "T125",
       "categoria": "TACONES",
-      "precio": 599,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t125-tacon-maquillaje-flor-maquillaje/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/06/aaf15ce0-b44f-4531-bc03-bab4e9707c01.jpeg"
@@ -15563,7 +15552,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -15589,7 +15578,7 @@
       "nombre": "T126 TACON BLANCA, FLOR BLANCA.",
       "sku": "T126",
       "categoria": "TACONES",
-      "precio": 599,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t126-tacon-blanca-flor-blanca/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/06/2f291a94-eb78-4e7b-b62e-78c0ffcd4527.jpeg"
@@ -15624,7 +15613,7 @@
       "nombre": "T127 TACON FUCSIA, FLOR FUCSIA.",
       "sku": "T127",
       "categoria": "TACONES",
-      "precio": 599,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t127-tacon-fucsia-flor-fucsia/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/06/001dd0dd-927d-4762-890b-fb79b921e181.jpeg"
@@ -15661,7 +15650,7 @@
       "nombre": "T128 TACON NEGRO,FLOR NEGRA.",
       "sku": "T128",
       "categoria": "TACONES",
-      "precio": 599,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t128-tacon-negroflor-negra/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/06/de4f9c41-50ef-4b1c-a819-d59d63d1a8f4.jpeg"
@@ -15698,7 +15687,7 @@
       "nombre": "T130 TACON CHAROL CACAHUATE CON HEBILLA",
       "sku": "T130",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t130-tacon-charol-cacahuate-con-hebilla/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-09-09-at-11.53.58-scaled.jpeg"
@@ -15732,7 +15721,7 @@
       "nombre": "T131 TACON LEOPARDO CON HEBILLA",
       "sku": "T131",
       "categoria": "TACONES",
-      "precio": 649,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t131-tacon-leopardo-con-hebilla/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-09-09-at-11.53.57-scaled.jpeg"
@@ -15935,7 +15924,7 @@
       "nombre": "T137 TACON NEGRO CHAROL DE PUNTA",
       "sku": "T137",
       "categoria": "TACONES",
-      "precio": 549,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t137-tacon-negro-charol-de-punta/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-8.03.41-PM.jpeg"
@@ -15948,8 +15937,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -15976,7 +15964,7 @@
       "nombre": "T138 TACON ROJO CHAROL DE PUNTA",
       "sku": "T138",
       "categoria": "TACONES",
-      "precio": 549,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t138-tacon-rojo-charol-de-punta/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-26-at-3.44.58-PM.jpeg"
@@ -16017,7 +16005,7 @@
       "nombre": "T139 TACON KHAKI CHAROL DE PUNTA",
       "sku": "T139",
       "categoria": "TACONES",
-      "precio": 549,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t139-tacon-khaki-charol-de-punta/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-29-at-8.03.41-.jpeg"
@@ -16057,7 +16045,7 @@
       "nombre": "T140 TACON NEGRO DE CHAROL DE PUNTA CON TACON ANCHO",
       "sku": "T140",
       "categoria": "TACONES",
-      "precio": 549,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t140-tacon-negro-de-charol-de-punta-con-tacon-ancho/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.20-AM-2.jpeg"
@@ -16096,7 +16084,7 @@
       "nombre": "T142 TACON MAQUILLAJE DE CHAROL DE PUNTA CON TACON ANCHO",
       "sku": "T142",
       "categoria": "TACONES",
-      "precio": 549,
+      "precio": 399,
       "url": "https://cocoa-store.com/producto/t142-tacon-maquillaje-de-charol-de-punta-con-tacon-ancho/",
       "imagenes": [
         "https://cocoa-store.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-04-at-9.38.21-AM-1.jpeg"
@@ -16158,8 +16146,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -16408,8 +16395,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -16496,18 +16482,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -16538,17 +16521,16 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -16576,17 +16558,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "7",
@@ -17907,7 +17889,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
