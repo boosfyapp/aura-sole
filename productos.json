@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-05 09:28 UTC",
-  "total": 495,
+  "actualizado": "2026-06-06 08:24 UTC",
+  "total": 458,
   "productos": [
     {
       "id": "p084-plataforma-yute-hueso-mono",
@@ -87,8 +87,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -564,132 +563,6 @@
       ]
     },
     {
-      "id": "bn244-bota-latte-modelo-arizona",
-      "nombre": "BN244 BOTA LATTE MODELO ARIZONA",
-      "sku": "BN244",
-      "categoria": "BOTA ALTA",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn244-bota-latte-modelo-arizona/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/7.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "bn245-bota-negro-modelo-arizona",
-      "nombre": "BN245 BOTA NEGRO MODELO ARIZONA",
-      "sku": "BN245",
-      "categoria": "BOTA ALTA",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn245-bota-negro-modelo-arizona/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/6.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn246-bota-negra-modelo-arkansas",
-      "nombre": "BN246 BOTA NEGRA MODELO ARKANSAS",
-      "sku": "BN246",
-      "categoria": "BOTA ALTA",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn246-bota-negra-modelo-arkansas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-09-05-at-12.27.53.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "bn247-bota-color-arena-modelo-arkansas",
-      "nombre": "BN247 BOTA COLOR ARENA MODELO ARKANSAS",
-      "sku": "BN247",
-      "categoria": "BOTA ALTA",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn247-bota-color-arena-modelo-arkansas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-26-at-16.13.16.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "bn250-bota-vino-charol",
       "nombre": "BN250 BOTA VINO CHAROL",
       "sku": "BN250",
@@ -914,39 +787,6 @@
         {
           "numero": "7",
           "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn273-cowboyboot-cafe-2",
-      "nombre": "BN273 COWBOYBOOT CAFE",
-      "sku": "BN273",
-      "categoria": "BOTA ALTA",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn273-cowboyboot-cafe-2/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/8.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
         }
       ]
     },
@@ -1729,786 +1569,6 @@
       ]
     },
     {
-      "id": "ame60-cowboyboot-negra-larga",
-      "nombre": "AME60 COWBOYBOOT NEGRA LARGA/TALLA AMERICANA",
-      "sku": "AME60",
-      "categoria": "COWBOY BOOTS",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/ame60-cowboyboot-negra-larga/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/09/d8c9d720-25f6-4106-81cd-7f1da860313c.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        },
-        {
-          "numero": "8",
-          "disponible": false
-        },
-        {
-          "numero": "8-5",
-          "disponible": false
-        },
-        {
-          "numero": "9",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn101-bota-vaquera-latte-bordada",
-      "nombre": "BN101 BOTA VAQUERA LATTE BORDADA",
-      "sku": "BN101",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn101-bota-vaquera-latte-bordada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2022/10/fb33f8f6-1c35-4c15-a562-d52c0e9b8635-1.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn103-bota-vaquera-negra-bordada",
-      "nombre": "BN103 BOTA VAQUERA NEGRA BORDADA",
-      "sku": "BN103",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn103-bota-vaquera-negra-bordada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2022/10/0c9582a5-d932-4374-9bac-334fe4952f9d-1.jpg",
-        "https://cocoa-store.com/wp-content/uploads/2022/10/WhatsApp-Image-2023-07-25-at-14.21.31-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn125-botin-latte-flecos-latte",
-      "nombre": "BN125 BOTIN LATTE/ FLECOS LATTE",
-      "sku": "BN125",
-      "categoria": "COWBOY BOOTS",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/bn125-botin-latte-flecos-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/08/1fb3f354-1af8-4323-9e5e-aca0798a1f6e.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn169-cowboyboot-flamas-negras-con-estoperol",
-      "nombre": "BN169 COWBOYBOOT FLAMAS NEGRAS CON ESTOPEROL",
-      "sku": "BN169",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn169-cowboyboot-flamas-negras-con-estoperol/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/01/7bd3346f-bcbb-4818-a5f6-fb603a106947.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn200-cowboyboot-negra-new",
-      "nombre": "BN200 COWBOYBOOT NEGRA NEW",
-      "sku": "BN200",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn200-cowboyboot-negra-new/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2024/07/fb5e32c0-1a5a-4b3e-9e5e-640e9a07ea7c.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn201-cowboyboot-cafe-new-copia",
-      "nombre": "BN201 COWBOYBOOT CAFE NEW",
-      "sku": "BN201",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn201-cowboyboot-cafe-new-copia/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-10-20-at-5.46.44-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn202-cowboyboot-late-new",
-      "nombre": "BN202 COWBOYBOOT LATE NEW",
-      "sku": "BN202",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn202-cowboyboot-late-new/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2024/07/4081d193-793a-4de5-bf90-083af45c83b4.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn225-bota-negra-vaquera-larga",
-      "nombre": "BN225 BOTA NEGRA VAQUERA LARGA",
-      "sku": "BN225",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn225-bota-negra-vaquera-larga/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.31.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn226-bota-latte-vaquera-larga",
-      "nombre": "BN226 BOTA LATTE VAQUERA LARGA",
-      "sku": "BN226",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn226-bota-latte-vaquera-larga/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.32.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn227-bota-cafe-vaquera-larga",
-      "nombre": "BN227 BOTA CAFE VAQUERA LARGA",
-      "sku": "BN227",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn227-bota-cafe-vaquera-larga/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-12.35.31-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn228-cowboyboot-flamas-negras-negras",
-      "nombre": "BN228 COWBOYBOOT FLAMAS NEGRAS/NEGRAS",
-      "sku": "BN228",
-      "categoria": "COWBOY BOOTS",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/bn228-cowboyboot-flamas-negras-negras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/bota2.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn229-cowboyboot-latte-bordada",
-      "nombre": "BN229 COWBOYBOOT LATTE BORDADA",
-      "sku": "BN229",
-      "categoria": "COWBOY BOOTS",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/bn229-cowboyboot-latte-bordada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.04-2.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn230-cowboyboot-cafe-bordada",
-      "nombre": "BN230 COWBOYBOOT CAFE BORDADA",
-      "sku": "BN230",
-      "categoria": "COWBOY BOOTS",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/bn230-cowboyboot-cafe-bordada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.03-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn231-cowboybootnegra-bordada",
-      "nombre": "BN231 COWBOYBOOTNEGRA BORDADA",
-      "sku": "BN231",
-      "categoria": "COWBOY BOOTS",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/bn231-cowboybootnegra-bordada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-08-05-at-17.07.03-2.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn249-cowboyboot-negra-con-tinto",
-      "nombre": "BN249 COWBOYBOOT NEGRA CON TINTO",
-      "sku": "BN249",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn249-cowboyboot-negra-con-tinto/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/12.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "bn254-cowboyboot-negra-con-barbitas",
-      "nombre": "BN254 COWBOYBOOT NEGRA CON BARBITAS",
-      "sku": "BN254",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn254-cowboyboot-negra-con-barbitas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/11.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn255-cowboyboot-cafe-con-barbitas",
-      "nombre": "BN255 COWBOYBOOT CAFE CON BARBITAS",
-      "sku": "BN255",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn255-cowboyboot-cafe-con-barbitas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/10.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn256-cowboyboot-tan-con-barbitas",
-      "nombre": "BN256 COWBOYBOOT TAN CON BARBITAS",
-      "sku": "BN256",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn256-cowboyboot-tan-con-barbitas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/9.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn257-cowboyboot-negra-alta-con-diseno",
-      "nombre": "BN257 COWBOYBOOT NEGRA ALTA CON DISEÑO",
-      "sku": "BN257",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn257-cowboyboot-negra-alta-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-14.41.03-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn258-cowboyboot-latte-alta-con-diseno",
-      "nombre": "BN258 COWBOYBOOT LATTE ALTA CON DISEÑO",
-      "sku": "BN258",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn258-cowboyboot-latte-alta-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-14.41.03.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn259-cowboyboot-latte-alta-con-diseno",
-      "nombre": "BN259 COWBOYBOOT CAFE ALTA CON DISEÑO",
-      "sku": "BN259",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn259-cowboyboot-latte-alta-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-07-at-18.17.19.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn262-cowboyboot-madera-alta-con-diseno",
-      "nombre": "BN262 COWBOYBOOT MADERA ALTA CON DISEÑO",
-      "sku": "BN262",
-      "categoria": "COWBOY BOOTS",
-      "precio": 849,
-      "url": "https://cocoa-store.com/producto/bn262-cowboyboot-madera-alta-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-20-at-5.44.28-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 16
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 15
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "bn265-bota-negra-con-diseno",
-      "nombre": "BN265 BOTA NEGRA CON DISEÑO",
-      "sku": "BN265",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn265-bota-negra-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-04-at-3.57.50-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "bn266-bota-color-merlot-con-diseno",
-      "nombre": "BN266 BOTA COLOR MERLOT CON DISEÑO",
-      "sku": "BN266",
-      "categoria": "COWBOY BOOTS",
-      "precio": 749,
-      "url": "https://cocoa-store.com/producto/bn266-bota-color-merlot-con-diseno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-04-at-11.30.56-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f100-flat-maquillaje-tipo-ballerina",
       "nombre": "F100 FLAT MAQUILLAJE TIPO BALLERINA",
       "sku": "F100",
@@ -2550,23 +1610,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         }
       ]
     },
@@ -2651,8 +1707,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -2687,23 +1742,22 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -2806,17 +1860,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -2834,22 +1888,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 26
+          "cantidad": 24
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 27
+          "cantidad": 25
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         }
       ]
     },
@@ -2867,22 +1921,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -2965,8 +2019,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3153,68 +2206,6 @@
       ]
     },
     {
-      "id": "f153-flat-maquillaje-con-estoperales",
-      "nombre": "F153 FLAT MAQUILLAJE CON ESTOPERALES",
-      "sku": "F153",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f153-flat-maquillaje-con-estoperales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/estoperol-maquillaje.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f154-flat-vino-con-estoperales",
-      "nombre": "F154 FLAT VINO CON ESTOPERALES",
-      "sku": "F154",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f154-flat-vino-con-estoperales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/estoperol-vino.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
       "id": "f156-flat-negro-tipo-ballerina",
       "nombre": "F156 FLAT NEGRO TIPO BALLERINA",
       "sku": "F156",
@@ -3227,19 +2218,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -3260,16 +2255,18 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -3287,179 +2284,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
           "disponible": true,
           "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "f160-flat-maquillaje-sencillo-con-hebilla-ovalada",
-      "nombre": "F160 FLAT MAQUILLAJE SENCILLO CON HEBILLA OVALADA",
-      "sku": "F160",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f160-flat-maquillaje-sencillo-con-hebilla-ovalada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.15.59-PM-1-e1772746552979.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "f162-flat-plata-sencillo-con-hebilla-ovalada",
-      "nombre": "F162 FLAT PLATA SENCILLO CON HEBILLA OVALADA",
-      "sku": "F162",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f162-flat-plata-sencillo-con-hebilla-ovalada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-5.44.14-PM-e1772746630797.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "f163-flat-latte-con-estoperoles",
-      "nombre": "F163 FLAT LATTE CON ESTOPEROLES",
-      "sku": "F163",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f163-flat-latte-con-estoperoles/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-03-at-2.13.57-PM-e1772746676193.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f170-flat-negro-tipo-corrugado-hebilla-ovalada",
-      "nombre": "F170 FLAT NEGRO TIPO CORRUGADO HEBILLA OVALADA",
-      "sku": "F170",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f170-flat-negro-tipo-corrugado-hebilla-ovalada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.41.47-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "f171-flat-oro-tipo-corrugado-hebilla-ovalada",
-      "nombre": "F171 FLAT ORO TIPO CORRUGADO HEBILLA OVALADA",
-      "sku": "F171",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f171-flat-oro-tipo-corrugado-hebilla-ovalada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.41.47-AM-1-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -3482,7 +2322,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -3792,22 +2632,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -3932,68 +2772,6 @@
       ]
     },
     {
-      "id": "f191-flat-negro-con-elastico-corrugado",
-      "nombre": "F191 FLAT NEGRO CON ELASTICO CORRUGADO",
-      "sku": "F191",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f191-flat-negro-con-elastico-corrugado/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-31-at-2.50.50-PM-e1774991067642.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-31-at-2.50.50-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "f193-flat-maquillaje-con-herrajes-ovalados",
-      "nombre": "F193 FLAT MAQUILLAJE CON HERRAJES OVALADOS",
-      "sku": "F193",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f193-flat-maquillaje-con-herrajes-ovalados/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.26.59-PM-2-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f195-flat-rojo-negro-medio-talon",
       "nombre": "F195 FLAT ROJO/NEGRO MEDIO TALON",
       "sku": "F195",
@@ -4013,138 +2791,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f198-flat-latte-c-cinta-cerrado",
-      "nombre": "F198 FLAT LATTE C/CINTA CERRADO",
-      "sku": "F198",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f198-flat-latte-c-cinta-cerrado/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.15.05-PM-e1775673403374.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "f199-flat-vino-c-cinta-cerrado",
-      "nombre": "F199 FLAT VINO C/CINTA CERRADO",
-      "sku": "F199",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f199-flat-vino-c-cinta-cerrado/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.12.13-PM-e1775673524558.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f200-flat-animal-print-c-cinta-cerrado",
-      "nombre": "F200 FLAT ANIMAL PRINT C/CINTA CERRADO",
-      "sku": "F200",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f200-flat-animal-print-c-cinta-cerrado/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.09.19-PM-e1775673591363.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
           "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "f201-flat-negro-charol-c-herrajes",
-      "nombre": "F201 FLAT NEGRO CHAROL C/HERRAJES",
-      "sku": "F201",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f201-flat-negro-charol-c-herrajes/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-4.01.59-PM-e1775673665317.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -4197,22 +2849,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -4230,22 +2882,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -4312,38 +2964,6 @@
       ]
     },
     {
-      "id": "f209-flat-negro-charol-con-mono",
-      "nombre": "F209 FLAT NEGRO CHAROL CON MOÑO",
-      "sku": "F209",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f209-flat-negro-charol-con-mono/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-25-at-2.23.28-PM-e1777148687809.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-25-at-2.23.29-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f210-flat-latte-con-estoperoles-plateados",
       "nombre": "F210 FLAT LATTE CON ESTOPEROLES PLATEADOS",
       "sku": "F210",
@@ -4357,7 +2977,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -4400,7 +3020,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -4423,7 +3043,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -4439,71 +3059,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "f213-flat-negro-drilo-medio-talon",
-      "nombre": "F213 FLAT NEGRO DRILO MEDIO TALON",
-      "sku": "F213",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f213-flat-negro-drilo-medio-talon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-4.22.03-PM-3.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-4.22.04-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "f214-flat-beige-drilo-medio-talon",
-      "nombre": "F214 FLAT BEIGE DRILO MEDIO TALON",
-      "sku": "F214",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f214-flat-beige-drilo-medio-talon/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-4.22.06-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-4.22.06-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -4663,7 +3218,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -4684,18 +3239,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4745,19 +3297,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -4774,20 +3330,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 4
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -4837,22 +3396,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 3
         }
       ]
     },
@@ -4904,22 +3464,20 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 8
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 8
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 1
         }
       ]
     },
@@ -4938,22 +3496,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 3
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         }
       ]
     },
@@ -4972,22 +3530,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -5006,22 +3564,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -5040,22 +3598,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 12
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -5074,22 +3632,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -5108,22 +3666,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -5142,22 +3700,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 14
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -5176,22 +3734,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 13
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -5210,22 +3768,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -5244,7 +3802,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -5277,57 +3835,55 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
     {
-      "id": "f31-malla-roja-flat",
-      "nombre": "F31 MALLA ROJA FLAT",
-      "sku": "F31",
+      "id": "f242-flat-negro-con-hebilla-de-sujetador",
+      "nombre": "F242 FLAT NEGRO CON HEBILLA DE SUJETADOR",
+      "sku": "F242",
       "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/f31-malla-roja-flat/",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f242-flat-negro-con-hebilla-de-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2024/08/64a84801-19b7-4872-951d-3095152fab71.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 11
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         },
         {
           "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -5917,36 +4473,6 @@
       ]
     },
     {
-      "id": "f98-flat-latte-de-red-con-hebillas-cruzadas",
-      "nombre": "F98 FLAT LATTE DE RED CON HEBILLAS CRUZADAS",
-      "sku": "F98",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f98-flat-latte-de-red-con-hebillas-cruzadas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-28-at-5.47.50-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "m8030",
       "nombre": "M8030",
       "sku": "M8030",
@@ -6228,7 +4754,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -6927,7 +5453,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -7125,12 +5651,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -7269,8 +5795,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -7311,8 +5836,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -7506,7 +6030,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -7833,8 +6357,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -7870,13 +6393,12 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -7902,7 +6424,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -7927,18 +6449,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -8007,6 +6528,105 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 5
+        }
+      ]
+    },
+    {
+      "id": "s1062-sandalia-maquillaje-de-dos-tiras-sencillas",
+      "nombre": "S1062 SANDALIA MAQUILLAJE DE DOS TIRAS SENCILLAS",
+      "sku": "S1062",
+      "categoria": "SANDALIAS \"S\"",
+      "precio": 399,
+      "url": "https://cocoa-store.com/producto/s1062-sandalia-maquillaje-de-dos-tiras-sencillas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "s1063-sandalia-negra-de-dos-tiras-sencillas",
+      "nombre": "S1063 SANDALIA NEGRA DE DOS TIRAS SENCILLAS",
+      "sku": "S1063",
+      "categoria": "SANDALIAS \"S\"",
+      "precio": 399,
+      "url": "https://cocoa-store.com/producto/s1063-sandalia-negra-de-dos-tiras-sencillas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "s1065-sandalia-oro-con-pedreria-de-colores",
+      "nombre": "S1065 SANDALIA ORO CON PEDRERIA DE COLORES",
+      "sku": "S1065",
+      "categoria": "SANDALIAS \"S\"",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1065-sandalia-oro-con-pedreria-de-colores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 10
         }
       ]
     },
@@ -10847,12 +9467,12 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -12011,7 +10631,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -12278,7 +10898,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -12312,12 +10932,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -12370,7 +10990,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -12642,7 +11262,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 25
+          "cantidad": 24
         },
         {
           "numero": "6",
@@ -13241,7 +11861,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -13551,7 +12171,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -13761,7 +12381,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -13822,22 +12442,22 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -13999,7 +12619,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -14095,23 +12715,28 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 11
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         }
       ]
     },
@@ -14243,7 +12868,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -14285,7 +12910,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -14354,7 +12979,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -14760,7 +13385,7 @@
         {
           "numero": "4-5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5-5",
@@ -15004,8 +13629,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -15070,7 +13694,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -15260,6 +13884,271 @@
           "numero": "7",
           "disponible": true,
           "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "t157-tacon-negro-de-doble-tira-6cm",
+      "nombre": "T157 TACON NEGRO DE DOBLE TIRA 6CM",
+      "sku": "T157",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t157-tacon-negro-de-doble-tira-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "t158-tacon-cafe-de-doble-tira-6cm",
+      "nombre": "T158 TACON CAFE DE DOBLE TIRA 6CM",
+      "sku": "T158",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t158-tacon-cafe-de-doble-tira-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "t159-tacon-latte-de-doble-tira-6cm",
+      "nombre": "T159 TACON LATTE DE DOBLE TIRA 6CM",
+      "sku": "T159",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t159-tacon-latte-de-doble-tira-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "t160-tacon-negro-punta-abierta-6cm",
+      "nombre": "T160 TACON NEGRO PUNTA ABIERTA 6CM",
+      "sku": "T160",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t160-tacon-negro-punta-abierta-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "t161-tacon-cafe-punta-abierta-6cm",
+      "nombre": "T161 TACON CAFE PUNTA ABIERTA 6CM",
+      "sku": "T161",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t161-tacon-cafe-punta-abierta-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "t162-tacon-latte-punta-abierta-6cm",
+      "nombre": "T162 TACON LATTE PUNTA ABIERTA 6CM",
+      "sku": "T162",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t162-tacon-latte-punta-abierta-6cm/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "t163-tacon-maquillaje-picudo-con-mono-tacon-6cms",
+      "nombre": "T163 TACON MAQUILLAJE PICUDO CON MOÑO TACON 6CMS",
+      "sku": "T163",
+      "categoria": "TACONES",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/t163-tacon-maquillaje-picudo-con-mono-tacon-6cms/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -16349,8 +15238,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
