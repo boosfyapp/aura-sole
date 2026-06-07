@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-06 08:24 UTC",
-  "total": 458,
+  "actualizado": "2026-06-07 08:45 UTC",
+  "total": 462,
   "productos": [
     {
       "id": "p084-plataforma-yute-hueso-mono",
@@ -52,7 +52,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -174,7 +174,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -614,7 +614,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "5",
@@ -1581,19 +1581,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         }
       ]
     },
@@ -1827,12 +1831,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -2293,8 +2297,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "6",
@@ -2772,6 +2775,38 @@
       ]
     },
     {
+      "id": "f193-flat-maquillaje-con-herrajes-ovalados",
+      "nombre": "F193 FLAT MAQUILLAJE CON HERRAJES OVALADOS",
+      "sku": "F193",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f193-flat-maquillaje-con-herrajes-ovalados/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.26.59-PM-2-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
       "id": "f195-flat-rojo-negro-medio-talon",
       "nombre": "F195 FLAT ROJO/NEGRO MEDIO TALON",
       "sku": "F195",
@@ -2882,22 +2917,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 13
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 12
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 7
         }
       ]
     },
@@ -3180,7 +3215,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -3268,19 +3303,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -3303,7 +3342,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -3501,7 +3540,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -3510,8 +3549,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3563,13 +3601,11 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3578,8 +3614,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3637,7 +3672,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -3676,7 +3711,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -3705,7 +3740,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -3715,7 +3750,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -3811,7 +3846,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -3855,6 +3890,72 @@
       ]
     },
     {
+      "id": "f240-flat-colores-diseno-tejido",
+      "nombre": "F240 FLAT COLORES DISEÑO TEJIDO",
+      "sku": "F240",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f240-flat-colores-diseno-tejido/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.23-PM-e1780783213353.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 10
+        }
+      ]
+    },
+    {
+      "id": "f241-flat-color-arena-diseno-tejido",
+      "nombre": "F241 FLAT COLOR ARENA DISEÑO TEJIDO",
+      "sku": "F241",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f241-flat-color-arena-diseno-tejido/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.24-PM-e1780783278660.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
       "id": "f242-flat-negro-con-hebilla-de-sujetador",
       "nombre": "F242 FLAT NEGRO CON HEBILLA DE SUJETADOR",
       "sku": "F242",
@@ -3862,28 +3963,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f242-flat-negro-con-hebilla-de-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.24-PM-2.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.24-PM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 14
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         }
       ]
     },
@@ -4799,7 +4901,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "7",
@@ -4905,7 +5007,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -5109,7 +5211,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -5703,7 +5805,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -6066,7 +6168,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -6198,7 +6300,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -6423,8 +6525,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -6506,7 +6607,7 @@
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1061-sandalia-dos-tiras-con-concha-grande/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-06-06-at-3.45.20-PM-e1780782435371.jpeg"
       ],
       "tallas": [
         {
@@ -6517,7 +6618,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -6539,28 +6640,28 @@
       "precio": 399,
       "url": "https://cocoa-store.com/producto/s1062-sandalia-maquillaje-de-dos-tiras-sencillas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.20-PM-1-e1780782543652.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -6572,7 +6673,7 @@
       "precio": 399,
       "url": "https://cocoa-store.com/producto/s1063-sandalia-negra-de-dos-tiras-sencillas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.21-PM-e1780782627308.jpeg"
       ],
       "tallas": [
         {
@@ -6583,17 +6684,49 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "s1064-sandalia-latte-con-pedreria-de-colores",
+      "nombre": "S1064 SANDALIA LATTE CON PEDRERIA DE COLORES",
+      "sku": "S1064",
+      "categoria": "SANDALIAS \"S\"",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1064-sandalia-latte-con-pedreria-de-colores/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.22-PM-e1780783072801.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 10
         }
       ]
     },
@@ -6605,28 +6738,28 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s1065-sandalia-oro-con-pedreria-de-colores/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-3.45.22-PM-1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         }
       ]
     },
@@ -8499,7 +8632,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "7",
@@ -9239,7 +9372,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "4",
@@ -9762,7 +9895,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -10592,7 +10725,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -10926,8 +11059,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -11044,7 +11176,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -11463,7 +11595,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -11561,7 +11693,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -11626,7 +11758,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -12716,27 +12848,27 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -13385,7 +13517,7 @@
         {
           "numero": "4-5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5-5",
@@ -13833,8 +13965,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -13895,28 +14026,28 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t157-tacon-negro-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconnegro1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 14
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "7",
@@ -13933,28 +14064,28 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t158-tacon-cafe-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconcafe1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 15
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "7",
@@ -13971,28 +14102,28 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t159-tacon-latte-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconlate1.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 15
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "7",
@@ -14009,7 +14140,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t160-tacon-negro-punta-abierta-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconnegro2.jpeg"
       ],
       "tallas": [
         {
@@ -14020,7 +14151,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "5",
@@ -14047,7 +14178,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t161-tacon-cafe-punta-abierta-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconcafe2.jpeg"
       ],
       "tallas": [
         {
@@ -14084,7 +14215,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t162-tacon-latte-punta-abierta-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconlate2.jpeg"
       ],
       "tallas": [
         {
@@ -14122,7 +14253,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t163-tacon-maquillaje-picudo-con-mono-tacon-6cms/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-06-at-4.07.46-PM.jpeg"
       ],
       "tallas": [
         {
@@ -14180,7 +14311,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -14269,13 +14400,11 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 12
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 7
+          "disponible": false
         },
         {
           "numero": "6",
@@ -14311,7 +14440,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -14341,7 +14470,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         }
       ]
     },
@@ -14371,7 +14500,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -14389,7 +14518,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -14738,7 +14867,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -14954,7 +15083,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -15023,7 +15152,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
