@@ -1,7 +1,118 @@
 {
-  "actualizado": "2026-06-08 10:17 UTC",
-  "total": 462,
+  "actualizado": "2026-06-09 08:59 UTC",
+  "total": 439,
   "productos": [
+    {
+      "id": "p0168-plataforma-yute-negra-punta-abierta",
+      "nombre": "P0168 PLATAFORMA YUTE NEGRA PUNTA ABIERTA",
+      "sku": "P0168",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p0168-plataforma-yute-negra-punta-abierta/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "p0169-plataforma-yute-latte-punta-abierta",
+      "nombre": "P0169 PLATAFORMA YUTE LATTE PUNTA ABIERTA",
+      "sku": "P0169",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p0169-plataforma-yute-latte-punta-abierta/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "p0170-plataforma-yute-latte-punta-cerrada",
+      "nombre": "P0170 PLATAFORMA YUTE LATTE PUNTA CERRADA",
+      "sku": "P0170",
+      "categoria": "ALPARGATAS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/p0170-plataforma-yute-latte-punta-cerrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
     {
       "id": "p084-plataforma-yute-hueso-mono",
       "nombre": "P084 PLATAFORMA YUTE HUESO MOÑO",
@@ -1659,8 +1770,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -1685,8 +1795,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -1968,7 +2077,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -2826,12 +2935,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2889,12 +2998,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2917,22 +3026,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 9
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 16
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         }
       ]
     },
@@ -3012,7 +3121,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -3045,12 +3154,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "5",
@@ -3060,7 +3169,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -3116,12 +3225,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -3148,8 +3257,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3176,13 +3284,12 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -3247,7 +3354,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -3340,8 +3447,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -3367,12 +3473,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -3394,7 +3499,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -3432,12 +3537,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -3465,7 +3570,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -3530,12 +3635,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -3568,7 +3673,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -3656,7 +3761,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -3700,7 +3805,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -3763,7 +3868,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -3874,7 +3979,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -3892,22 +3997,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 15
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 9
         }
       ]
     },
@@ -3924,19 +4029,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 9
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         }
       ]
     },
@@ -3973,6 +4082,39 @@
       ]
     },
     {
+      "id": "f243-flat-cafe-con-diseno",
+      "nombre": "F243 FLAT CAFE CON DISEÑO",
+      "sku": "F243",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f243-flat-cafe-con-diseno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 9
+        }
+      ]
+    },
+    {
       "id": "f35-flat-hueso-basica",
       "nombre": "F35 FLAT HUESO BASICA",
       "sku": "F35",
@@ -3985,13 +4127,11 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 7
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3999,8 +4139,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4021,8 +4160,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
@@ -4055,8 +4193,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "4",
@@ -4068,8 +4205,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 8
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4130,8 +4266,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4160,13 +4295,11 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4195,18 +4328,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 7
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4231,23 +4361,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 13
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 12
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4268,23 +4394,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 7
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 15
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 14
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4305,23 +4427,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 15
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 15
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4342,18 +4460,15 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 9
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4378,23 +4493,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 13
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -4641,8 +4752,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4710,8 +4820,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5092,7 +5201,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -5357,7 +5466,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "5",
@@ -5743,7 +5852,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -6148,7 +6257,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -6202,22 +6311,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -6263,18 +6372,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -6307,7 +6415,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -6463,7 +6571,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -6523,7 +6631,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -6676,7 +6784,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "5",
@@ -6724,6 +6832,39 @@
       ]
     },
     {
+      "id": "s1066-sandalia-latte-de-dos-tiras-sencillas",
+      "nombre": "S1066 SANDALIA LATTE DE DOS TIRAS SENCILLAS",
+      "sku": "S1066",
+      "categoria": "SANDALIAS \"S\"",
+      "precio": 399,
+      "url": "https://cocoa-store.com/producto/s1066-sandalia-latte-de-dos-tiras-sencillas/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
       "id": "s391-sandalia-maquillaje-de-tiras",
       "nombre": "S391 SANDALIA MAQUILLAJE DE TIRAS",
       "sku": "S391",
@@ -6741,7 +6882,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -7374,7 +7515,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -7408,7 +7549,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -8757,7 +8898,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -9582,7 +9723,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 29
+          "cantidad": 28
         },
         {
           "numero": "5",
@@ -10050,7 +10191,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -10671,22 +10812,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -10754,7 +10895,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -12311,7 +12452,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -12591,8 +12732,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -12659,7 +12799,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -12719,8 +12859,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -12828,7 +12967,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -12949,7 +13088,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -13096,7 +13236,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -13729,7 +13869,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -13950,7 +14090,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -13983,7 +14123,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -14102,7 +14242,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "7",
@@ -14476,539 +14616,6 @@
       ]
     },
     {
-      "id": "tp1000",
-      "nombre": "TP1000  BLANCO",
-      "sku": "T1000",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1000/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/04/d68c0c7a-febd-4d46-b92b-0260f1f427b5.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1040-tenis-tornasol-blanco-cristales",
-      "nombre": "TP1040 TENIS TORNASOL/BLANCO CRISTALES.",
-      "sku": "TP1040",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1040-tenis-tornasol-blanco-cristales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/tenioferta.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 16
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "tp1050-tenis-rosa-rich-cristales",
-      "nombre": "TP1050 TENIS ROSA RICH/CRISTALES.",
-      "sku": "TP1050",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1050-tenis-rosa-rich-cristales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/cristal-rosa.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 15
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
-    },
-    {
-      "id": "tp1060-tenis-negros-cristales",
-      "nombre": "TP1060 TENIS NEGROS/CRISTALES.",
-      "sku": "TP1060",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1060-tenis-negros-cristales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-01-22-at-4.05.23-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 11
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "tp1070-tenis-plata-cristales",
-      "nombre": "TP1070 TENIS PLATA/CRISTALES",
-      "sku": "TP1070",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1070-tenis-plata-cristales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-10-28-at-5.47.52-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 11
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "tp1120-tenis-blanco-golden-goose-estrella-plateada",
-      "nombre": "TP1120 TENIS BLANCO GOLDEN GOOSE ESTRELLA PLATEADA",
-      "sku": "TP1120",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1120-tenis-blanco-golden-goose-estrella-plateada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-25-at-16.17.36.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1150-tenis-negro-golden-goose-con-estrella-plateada",
-      "nombre": "TP1150 TENIS NEGRO GOLDEN GOOSE CON ESTRELLA PLATEADA",
-      "sku": "TP1150",
-      "categoria": "TENIS DAMA",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/tp1150-tenis-negro-golden-goose-con-estrella-plateada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-25-at-16.17.38-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1180-tenis-cafe-con-lineas-latte",
-      "nombre": "TP1180 TENIS CAFE CON LINEAS LATTE",
-      "sku": "TP1180",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1180-tenis-cafe-con-lineas-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-11.27.53-AM-4.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1181-tenis-blanco-con-lineas",
-      "nombre": "TP1181 TENIS BLANCO CON LINEAS",
-      "sku": "TP1181",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1181-tenis-blanco-con-lineas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-5.03.06-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1182-tenis-camel-blanco",
-      "nombre": "TP1182 TENIS CAMEL/BLANCO",
-      "sku": "TP1182",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1182-tenis-camel-blanco/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-5.03.06-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1183-tenis-latte-vino",
-      "nombre": "TP1183 TENIS LATTE/VINO",
-      "sku": "TP1183",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1183-tenis-latte-vino/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-5.03.07-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-5.03.07-PM-1-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "tp1184-tenis-ferrero-latte",
-      "nombre": "TP1184 TENIS FERRERO/LATTE",
-      "sku": "TP1184",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1184-tenis-ferrero-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.17-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1185-tenis-blanco-con-tipo-gamuza-negra-atras",
-      "nombre": "TP1185 TENIS BLANCO CON TIPO GAMUZA NEGRA ATRAS",
-      "sku": "TP1185",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1185-tenis-blanco-con-tipo-gamuza-negra-atras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.18-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.17-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1186-tenis-blanco-sencillo",
-      "nombre": "TP1186 TENIS BLANCO SENCILLO",
-      "sku": "TP1186",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1186-tenis-blanco-sencillo/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.19-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1187-tenis-negro-latte",
-      "nombre": "TP1187 TENIS NEGRO/LATTE",
-      "sku": "TP1187",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1187-tenis-negro-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.19-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1188-tenis-blanco-rojo-con-cerezas",
-      "nombre": "TP1188 TENIS BLANCO/ROJO CON CEREZAS",
-      "sku": "TP1188",
-      "categoria": "TENIS DAMA",
-      "precio": 569,
-      "url": "https://cocoa-store.com/producto/tp1188-tenis-blanco-rojo-con-cerezas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-05-at-1.28.27-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1189-tenis-samba-jane-vino-latte",
-      "nombre": "TP1189 TENIS SAMBA JANE VINO/LATTE",
-      "sku": "TP1189",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1189-tenis-samba-jane-vino-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.31-AM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.32-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "tp1190-tenis-samba-jane-blanco-negro",
       "nombre": "TP1190 TENIS SAMBA JANE BLANCO/NEGRO",
       "sku": "TP1190",
@@ -15039,37 +14646,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "tp1191-tenis-samba-jane-negro-blanco",
-      "nombre": "TP1191 TENIS SAMBA JANE NEGRO/BLANCO",
-      "sku": "TP1191",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1191-tenis-samba-jane-negro-blanco/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.34-AM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.35-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -15138,35 +14714,6 @@
       ]
     },
     {
-      "id": "tp1194-tenis-latte-leopardo-suela-cafe",
-      "nombre": "TP1194 TENIS LATTE/LEOPARDO SUELA CAFE",
-      "sku": "TP1194",
-      "categoria": "TENIS DAMA",
-      "precio": 569,
-      "url": "https://cocoa-store.com/producto/tp1194-tenis-latte-leopardo-suela-cafe/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-4.29.45-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "tp1195-tenis-latte-leopardo-con-naranja",
       "nombre": "TP1195 TENIS LATTE/LEOPARDO CON NARANJA",
       "sku": "TP1195",
@@ -15185,67 +14732,6 @@
         {
           "numero": "4",
           "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1196-tenis-blanco-negro-suela-cafe",
-      "nombre": "TP1196 TENIS BLANCO/NEGRO SUELA CAFE",
-      "sku": "TP1196",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1196-tenis-blanco-negro-suela-cafe/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.36-AM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1197-tenis-azul-marino-latte-suela-cafe",
-      "nombre": "TP1197 TENIS AZUL MARINO/LATTE SUELA CAFE",
-      "sku": "TP1197",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1197-tenis-azul-marino-latte-suela-cafe/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-10.36.37-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
         },
         {
           "numero": "5",
@@ -15287,216 +14773,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "tp1199-tenis-samba-jane-cafe-latte",
-      "nombre": "TP1199 TENIS SAMBA JANE CAFE/LATTE",
-      "sku": "TP1199",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1199-tenis-samba-jane-cafe-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-10.16.17-AM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp1200-tenis-samba-jane-rojo-blanco",
-      "nombre": "TP1200 TENIS SAMBA JANE ROJO/BLANCO",
-      "sku": "TP1200",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp1200-tenis-samba-jane-rojo-blanco/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-10.16.19-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp840-tenis",
-      "nombre": "TP840 TENIS LEOPARDO LINEAS BLANCAS",
-      "sku": "TP840",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp840-tenis/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/01/4859f513-f65a-4903-8e37-f5966fbae457.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp850-tenis",
-      "nombre": "TP850 TENIS LINEAS LEOPARDO",
-      "sku": "TP850",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp850-tenis/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/01/d997eb7b-52b2-4bc9-babe-5fa3f6842f30.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "tp860-tenis-vino-lineas-blancas",
-      "nombre": "TP860 TENIS VINO LINEAS BLANCAS",
-      "sku": "TP860",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp860-tenis-vino-lineas-blancas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/01/8fc455cd-ac39-4f9f-a639-eaaa1f849ce7.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "tp870-tenis-latte-lineas-negras",
-      "nombre": "TP870 TENIS LATTE LINEAS  NEGRAS",
-      "sku": "TP870",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp870-tenis-latte-lineas-negras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/01/92ec217b-76bb-4adb-9171-858699ed7531.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "tp880-tenis-madera-latte",
-      "nombre": "TP880 TENIS MADERA/LATTE",
-      "sku": "TP880",
-      "categoria": "TENIS DAMA",
-      "precio": 549,
-      "url": "https://cocoa-store.com/producto/tp880-tenis-madera-latte/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/02/CHOCOLATE.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
