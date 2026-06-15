@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-13 08:47 UTC",
-  "total": 401,
+  "actualizado": "2026-06-15 11:44 UTC",
+  "total": 402,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -69,7 +69,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -1701,7 +1701,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -2709,8 +2709,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -2834,22 +2833,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 13
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 24
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 24
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 11
         }
       ]
     },
@@ -3378,7 +3377,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         }
       ]
     },
@@ -3656,7 +3655,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -3806,7 +3805,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -3854,21 +3853,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -3892,17 +3892,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 14
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         }
       ]
     },
@@ -3960,7 +3960,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -3970,7 +3970,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -3989,22 +3989,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 12
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -4028,7 +4028,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "5",
@@ -4068,6 +4068,39 @@
           "numero": "5",
           "disponible": true,
           "cantidad": 17
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        }
+      ]
+    },
+    {
+      "id": "f249-flat-plata-diseno-tejido",
+      "nombre": "F249 FLAT PLATA DISEÑO TEJIDO",
+      "sku": "F249",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f249-flat-plata-diseno-tejido/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -4310,7 +4343,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -4668,12 +4701,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "7",
@@ -4863,7 +4896,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -4901,12 +4934,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "7",
@@ -5710,18 +5743,15 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 6
+          "disponible": false
         },
         {
           "numero": "7",
@@ -5750,13 +5780,11 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 8
+          "disponible": false
         },
         {
           "numero": "7",
@@ -6040,7 +6068,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -6125,7 +6153,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -6215,20 +6243,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 11
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -6245,21 +6276,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 13
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 14
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         }
       ]
     },
@@ -6287,12 +6320,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -6325,7 +6358,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -6343,22 +6376,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         }
       ]
     },
@@ -6379,23 +6413,20 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -6447,23 +6478,22 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -7284,8 +7314,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -10386,8 +10415,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -10450,7 +10478,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -10704,13 +10732,11 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -10719,12 +10745,11 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -10965,22 +10990,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 21
+          "cantidad": 19
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "7",
@@ -11211,7 +11236,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         }
       ]
     },
@@ -11474,8 +11499,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -11539,7 +11563,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -11839,8 +11863,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -11874,13 +11897,11 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -12279,27 +12300,26 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -12328,8 +12348,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -12362,8 +12381,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -12417,28 +12435,26 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -12472,8 +12488,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -12575,7 +12590,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -12774,18 +12789,17 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -12808,17 +12822,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -12828,7 +12842,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -12846,12 +12860,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -12866,7 +12880,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -12884,12 +12898,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -12899,12 +12913,11 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -12922,7 +12935,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -12932,7 +12945,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -12964,7 +12977,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 14
         },
         {
           "numero": "5",
@@ -12996,12 +13009,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "5",
