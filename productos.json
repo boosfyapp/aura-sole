@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-18 10:05 UTC",
-  "total": 405,
+  "actualizado": "2026-06-19 10:11 UTC",
+  "total": 407,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -59,7 +59,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -164,12 +164,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -354,7 +353,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -596,7 +595,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 37
+          "cantidad": 36
         },
         {
           "numero": "5",
@@ -1840,7 +1839,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -2133,7 +2132,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -2612,8 +2611,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
@@ -2623,7 +2621,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -3622,7 +3620,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -3690,7 +3688,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -3817,8 +3815,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -3888,7 +3885,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -4087,22 +4084,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -4114,28 +4111,29 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f250-flat-dorado-diseno-tejido/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.27-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.28-AM.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 14
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         }
       ]
     },
@@ -6322,8 +6320,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -6366,7 +6363,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -6410,6 +6407,40 @@
       ]
     },
     {
+      "id": "s1068-sandalia-roja-semi-cerrada-copia",
+      "nombre": "S1067 SANDALIA ARENA SEMI CERRADA",
+      "sku": "S1067",
+      "categoria": "SANDALIAS",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/s1068-sandalia-roja-semi-cerrada-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.29-AM-e1781802079918.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.28-AM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
       "id": "s1067-sandalia-arena-semi-cerrada",
       "nombre": "S1068 SANDALIA ROJA SEMI CERRADA",
       "sku": "S1068",
@@ -6417,7 +6448,7 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/s1067-sandalia-arena-semi-cerrada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.29-AM-1-e1781802146817.jpeg"
       ],
       "tallas": [
         {
@@ -6433,7 +6464,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -6450,7 +6481,7 @@
       "precio": 499,
       "url": "https://cocoa-store.com/producto/s1069-sandalia-cafe-semi-cerrada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.30-AM-e1781802205322.jpeg"
       ],
       "tallas": [
         {
@@ -6471,7 +6502,40 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "s1070-sandalia-negra-dedal-dorado",
+      "nombre": "S1070 SANDALIA NEGRA DEDAL DORADO",
+      "sku": "S1070",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1070-sandalia-negra-dedal-dorado/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-18-at-10.56.30-AM-1-e1781802264811.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
         }
       ]
     },
@@ -6535,7 +6599,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "7",
@@ -11379,7 +11443,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -12357,12 +12421,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "6",
@@ -12592,7 +12655,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -12884,7 +12947,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -12921,7 +12984,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -12954,7 +13017,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
