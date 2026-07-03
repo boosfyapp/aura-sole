@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-02 08:41 UTC",
-  "total": 372,
+  "actualizado": "2026-07-03 08:47 UTC",
+  "total": 382,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -89,7 +89,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -98,7 +98,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -1015,7 +1015,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -2010,17 +2010,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -2081,12 +2081,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2561,7 +2561,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -3008,7 +3008,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -3425,7 +3425,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -3525,7 +3525,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -3592,7 +3592,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -4196,6 +4196,340 @@
       ]
     },
     {
+      "id": "f262-flat-maquillaje-estoperoles-hebilla-redonda",
+      "nombre": "F262 FLAT MAQUILLAJE ESTOPEROLES HEBILLA REDONDA",
+      "sku": "F262",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f262-flat-maquillaje-estoperoles-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.46-PM-e1783018406241.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f263-flat-negro-estoperoles-hebilla-redonda",
+      "nombre": "F263 FLAT NEGRO ESTOPEROLES HEBILLA REDONDA",
+      "sku": "F263",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f263-flat-negro-estoperoles-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.47-PM-e1783018479777.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f264-flat-latte-estoperoles-hebilla-redonda",
+      "nombre": "F264 FLAT LATTE ESTOPEROLES HEBILLA REDONDA",
+      "sku": "F264",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f264-flat-latte-estoperoles-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.47-PM-1-e1783018533930.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f265-flat-vino-estoperoles-hebilla-redonda",
+      "nombre": "F265 FLAT VINO ESTOPEROLES HEBILLA REDONDA",
+      "sku": "F265",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f265-flat-vino-estoperoles-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.48-PM-e1783018593894.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.48-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f266-flat-moka-estoperoles-hebilla-redonda",
+      "nombre": "F266 FLAT MOKA ESTOPEROLES HEBILLA REDONDA",
+      "sku": "F266",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f266-flat-moka-estoperoles-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.49-PM-e1783018711968.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.51-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f267-flat-rojo-piel-de-durazno-hebilla-cuadrada",
+      "nombre": "F267 FLAT ROJO PIEL DE DURAZNO HEBILLA CUADRADA",
+      "sku": "F267",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f267-flat-rojo-piel-de-durazno-hebilla-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.51-PM-2-e1783018790379.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.51-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 30
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 28
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 14
+        }
+      ]
+    },
+    {
+      "id": "f268-flat-latte-piel-de-durazno-hebilla-cuadrada",
+      "nombre": "F268 FLAT LATTE PIEL DE DURAZNO HEBILLA CUADRADA",
+      "sku": "F268",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f268-flat-latte-piel-de-durazno-hebilla-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.52-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-12.50.51-PM-3.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 30
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f269-flat-negro-malla-de-bolitas-con-hebilla",
+      "nombre": "F269 FLAT NEGRO MALLA DE BOLITAS CON HEBILLA",
+      "sku": "F269",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f269-flat-negro-malla-de-bolitas-con-hebilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-1-e1783031165495.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-e1783031149593.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f270-flat-maquillaje-malla-de-bolitas-negras",
+      "nombre": "F270 FLAT MAQUILLAJE MALLA DE BOLITAS NEGRAS",
+      "sku": "F270",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f270-flat-maquillaje-malla-de-bolitas-negras/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-3-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-2-e1783031278108.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "id": "f271-flat-maquillaje-malla-de-bolitas-negras-correa-terciopelo",
+      "nombre": "F271 FLAT MAQUILLAJE MALLA DE BOLITAS NEGRAS CORREA TERCIOPELO",
+      "sku": "F271",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f271-flat-maquillaje-malla-de-bolitas-negras-correa-terciopelo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-5-e1783031421340.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-4.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
       "id": "f85-flat-plateado-de-malla-con-tira-de-brillos",
       "nombre": "F85 FLAT PLATEADO DE MALLA CON TIRA DE BRILLOS",
       "sku": "F85",
@@ -4301,7 +4635,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -4372,7 +4706,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -4763,12 +5097,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -4796,7 +5130,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -5208,7 +5542,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -5400,8 +5734,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -5779,7 +6112,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -5969,8 +6302,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -6011,7 +6343,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -6354,7 +6686,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -6560,7 +6892,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -6629,7 +6961,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "6",
@@ -6661,7 +6993,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -6731,22 +7063,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "7",
@@ -7547,8 +7879,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -7912,7 +8243,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -8014,7 +8345,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -9511,7 +9842,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -11801,12 +12132,12 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -11860,12 +12191,13 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -11874,7 +12206,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "7",
@@ -11938,7 +12270,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "5",
@@ -12027,8 +12359,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
