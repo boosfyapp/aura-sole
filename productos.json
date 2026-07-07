@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-06 09:54 UTC",
-  "total": 391,
+  "actualizado": "2026-07-07 09:22 UTC",
+  "total": 394,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -89,7 +89,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -2566,7 +2566,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -2584,8 +2584,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -3528,7 +3527,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -3585,12 +3584,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -3618,7 +3617,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -3688,8 +3687,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -3818,8 +3816,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4729,6 +4726,108 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 13
+        }
+      ]
+    },
+    {
+      "id": "f278-flat-camel-piel-de-durazno-hebilla-cuadrada",
+      "nombre": "F278 FLAT CAMEL PIEL DE DURAZNO HEBILLA CUADRADA",
+      "sku": "F278",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f278-flat-camel-piel-de-durazno-hebilla-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.32-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.32-PM-e1783373018809.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 30
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 31
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 16
+        }
+      ]
+    },
+    {
+      "id": "f279-flat-negro-piel-de-durazno-hebilla-cuadrada",
+      "nombre": "F279 FLAT NEGRO PIEL DE DURAZNO HEBILLA CUADRADA",
+      "sku": "F279",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f279-flat-negro-piel-de-durazno-hebilla-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.35-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.33-PM-e1783373095365.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 30
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 30
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 15
+        }
+      ]
+    },
+    {
+      "id": "f280-flat-cinnamon-piel-de-durazno-hebilla-cuadrada",
+      "nombre": "F280 FLAT CINNAMON PIEL DE DURAZNO HEBILLA CUADRADA",
+      "sku": "F280",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f280-flat-cinnamon-piel-de-durazno-hebilla-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.36-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-3.21.35-PM-1-e1783373183246.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 16
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 32
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 32
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 15
         }
       ]
     },
@@ -6574,12 +6673,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -6812,8 +6910,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -10095,7 +10192,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -11110,7 +11207,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -12652,8 +12749,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -13147,7 +13243,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
