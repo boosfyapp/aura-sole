@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27 09:32 UTC",
-  "total": 437,
+  "actualizado": "2026-07-28 08:13 UTC",
+  "total": 440,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -256,12 +256,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         }
       ]
     },
@@ -1684,7 +1684,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -1694,7 +1694,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "6",
@@ -1881,12 +1881,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2009,17 +2009,16 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -2042,17 +2041,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -2070,11 +2069,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -2135,12 +2135,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -2163,12 +2163,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -2204,7 +2204,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2238,7 +2239,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         }
       ]
     },
@@ -2264,7 +2265,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2295,7 +2297,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2355,7 +2357,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -2389,7 +2391,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2421,7 +2424,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2552,7 +2555,8 @@
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -2760,16 +2764,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2953,7 +2958,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -3270,7 +3275,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -3298,7 +3303,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -3437,7 +3442,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -3562,7 +3567,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -3625,12 +3630,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -3724,7 +3729,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -3846,7 +3851,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -4100,22 +4105,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -4164,22 +4169,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -4197,22 +4202,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -4230,22 +4235,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         }
       ]
     },
@@ -4264,22 +4269,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -4371,7 +4376,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 28
+          "cantidad": 27
         },
         {
           "numero": "5",
@@ -4469,11 +4474,13 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -4587,12 +4594,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -4645,7 +4652,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -4747,7 +4754,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "4",
@@ -4820,11 +4827,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -4848,12 +4856,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4875,18 +4882,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -4908,13 +4914,12 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -4946,7 +4951,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -5006,7 +5011,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -5202,7 +5208,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -5359,12 +5365,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -5799,7 +5805,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -5840,7 +5846,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -5867,12 +5873,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -6129,7 +6135,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -6412,7 +6418,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -7056,7 +7063,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -7071,7 +7079,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -7104,12 +7112,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -7137,12 +7145,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -7175,12 +7183,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 13
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -7347,7 +7355,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -7603,7 +7611,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -7674,7 +7682,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 22
         },
         {
           "numero": "5",
@@ -7986,7 +7994,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -8025,12 +8034,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -8062,7 +8071,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -8094,7 +8104,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -8130,7 +8140,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -8171,12 +8181,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -8319,7 +8329,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -8347,7 +8357,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -8380,12 +8390,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -8813,6 +8823,134 @@
       ]
     },
     {
+      "id": "s1121-sandalia-negra-con-3-piedras-y-sujetador",
+      "nombre": "S1121 SANDALIA NEGRA CON 3 PIEDRAS Y SUJETADOR",
+      "sku": "S1121",
+      "categoria": "SANDALIAS",
+      "precio": 429,
+      "url": "https://cocoa-store.com/producto/s1121-sandalia-negra-con-3-piedras-y-sujetador/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "s1122-sandalia-oro-con-3-piedras-y-sujetado2",
+      "nombre": "S1122 SANDALIA ORO CON 3 PIEDRAS Y SUJETADOR",
+      "sku": "S1122",
+      "categoria": "SANDALIAS",
+      "precio": 429,
+      "url": "https://cocoa-store.com/producto/s1122-sandalia-oro-con-3-piedras-y-sujetado2/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "s1123-sandalia-plateada-con-3-piedras-y-sujetador",
+      "nombre": "S1123 SANDALIA PLATEADA CON 3 PIEDRAS Y SUJETADOR",
+      "sku": "S1123",
+      "categoria": "SANDALIAS",
+      "precio": 429,
+      "url": "https://cocoa-store.com/producto/s1123-sandalia-plateada-con-3-piedras-y-sujetador/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
       "id": "s391-sandalia-maquillaje-de-tiras",
       "nombre": "S391 SANDALIA MAQUILLAJE DE TIRAS",
       "sku": "S391",
@@ -8899,7 +9037,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -11213,12 +11351,13 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -12359,7 +12498,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -12588,7 +12727,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -12699,290 +12838,817 @@
     {
       "id": "s973-sandalia-cafe-dos-tiras-herrajes-de-mar",
       "nombre": "S973 SANDALIA CAFE DOS TIRAS HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S973",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s973-sandalia-cafe-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.35-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.35-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
     },
     {
       "id": "s974-sandalia-latte-dos-tiras-herrajes-de-mar",
       "nombre": "S974 SANDALIA LATTE DOS TIRAS HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S974",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s974-sandalia-latte-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.36-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.36-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s976-sandlia-menta-hermes-suela-negra",
       "nombre": "S976 SANDLIA MENTA HERMES SUELA CAFE",
-      "sku": "",
+      "sku": "S976",
       "categoria": "SANDALIAS \"S\"",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s976-sandlia-menta-hermes-suela-negra/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.33.59-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.33.59-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s977-sandalia-latte-basica-herrajes-de-mar",
       "nombre": "S977 SANDALIA LATTE BASICA HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S977",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s977-sandalia-latte-basica-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.00-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.00-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "s978-sandalia-maquillaje-herrajes-de-mar-tiras-cruzadas-con-dedal",
       "nombre": "S978 SANDALIA MAQUILLAJE HERRAJES DE MAR TIRAS CRUZADAS CON DEDAL",
-      "sku": "",
+      "sku": "S978",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s978-sandalia-maquillaje-herrajes-de-mar-tiras-cruzadas-con-dedal/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.01-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.01-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s979-sandalia-latte-herrajes-de-mar-tiras-cruzadas-con-dedal",
       "nombre": "S979 SANDALIA LATTE HERRAJES DE MAR TIRAS CRUZADAS CON DEDAL",
-      "sku": "",
+      "sku": "S979",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s979-sandalia-latte-herrajes-de-mar-tiras-cruzadas-con-dedal/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.01-PM-1-2-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.01-PM-1-2.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s980-sandalia-celeste-dos-tiras-herrajes-de-mar",
       "nombre": "S980 SANDALIA CELESTE DOS TIRAS HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S980",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s980-sandalia-celeste-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.02-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.02-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s981-sandalia-rosa-pastel-dos-tiras-herrajes-de-mar",
       "nombre": "S981 SANDALIA ROSA PASTEL  DOS TIRAS HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S981",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s981-sandalia-rosa-pastel-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.03-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.03-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
     },
     {
       "id": "s982-sandalia-maquillaje-guees-de-charol",
       "nombre": "S982 SANDALIA MAQUILLAJE GUEES DE CHAROL",
-      "sku": "",
+      "sku": "S982",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s982-sandalia-maquillaje-guees-de-charol/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.03-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.03-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "s983-sandalia-cafe-dos-tiras-onduladas-con-herrajes-de-mar",
       "nombre": "S983 SANDALIA CAFE DOS TIRAS ONDULADAS CON HERRAJES DE MAR",
-      "sku": "",
+      "sku": "S983",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s983-sandalia-cafe-dos-tiras-onduladas-con-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.04-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.04-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
     },
     {
       "id": "s986-sandalia-latte-con-dos-herrajes-dorados",
       "nombre": "S986 SANDALIA LATTE CON DOS HERRAJES DORADOS",
-      "sku": "",
+      "sku": "S986",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s986-sandalia-latte-con-dos-herrajes-dorados/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.06-PM-1-e1774302802359-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.06-PM-1-e1774302802359.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s987-sandalia-maquillaje-con-dos-herrajes-dorados",
       "nombre": "S987 SANDALIA MAQUILLAJE CON DOS HERRAJES DORADOS",
-      "sku": "",
+      "sku": "S987",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s987-sandalia-maquillaje-con-dos-herrajes-dorados/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.07-PM-1-e1774302893343-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-23-at-3.34.07-PM-1-e1774302893343.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s990-sandalia-amarilla-dos-tiras-herraje-de-mar",
       "nombre": "S990 SANDALIA AMARILLA DOS TIRAS HERRAJE DE MAR",
-      "sku": "",
+      "sku": "S990",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s990-sandalia-amarilla-dos-tiras-herraje-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.19-PM-e1774723891827-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.19-PM-e1774723891827.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s992-sandalia-negra-basica-con-dijes-marinos",
       "nombre": "S992 SANDALIA NEGRA BASICA CON DIJES MARINOS",
-      "sku": "",
+      "sku": "S992",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s992-sandalia-negra-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-e1774724034382-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-e1774724034382.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
     },
     {
       "id": "s993-sandalia-maquillaje-basica-con-dijes-marinos",
       "nombre": "S993 SANDALIA MAQUILLAJE BASICA CON DIJES MARINOS",
-      "sku": "",
+      "sku": "S993",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s993-sandalia-maquillaje-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-1-e1774724087142-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-1-e1774724087142.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 17
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
     },
     {
       "id": "s994-sandalia-celeste-basica-con-dijes-marinos",
       "nombre": "S994 SANDALIA CELESTE BASICA CON DIJES MARINOS",
-      "sku": "",
+      "sku": "S994",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s994-sandalia-celeste-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.21-PM-e1774724140376-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.21-PM-e1774724140376.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
     },
     {
       "id": "s995-sandalia-blanco-basica-con-dijes-marinos",
       "nombre": "S995 SANDALIA BLANCO BASICA CON DIJES MARINOS",
-      "sku": "",
+      "sku": "S995",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s995-sandalia-blanco-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.22-PM-e1774724187675-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.22-PM-e1774724187675.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s997-sandalia-blanca-cruzada-con-dedal-y-herraje",
       "nombre": "S997 SANDALIA BLANCA CRUZADA CON DEDAL Y HERRAJE",
-      "sku": "",
+      "sku": "S997",
       "categoria": "SANDALIAS \"S\"",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s997-sandalia-blanca-cruzada-con-dedal-y-herraje/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-e1774737132605-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-e1774737132605.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s999-sandalia-maquillaje-cruzada-con-dedal-y-herraje",
       "nombre": "S999 SANDALIA MAQUILLAJE CRUZADA CON DEDAL Y HERRAJE",
-      "sku": "",
+      "sku": "S999",
       "categoria": "SANDALIAS \"S\"",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s999-sandalia-maquillaje-cruzada-con-dedal-y-herraje/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-4-e1774895833665-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-4-e1774895833665.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t116-tacon-pico-charol-negro",
       "nombre": "T116 TACON PICO CHAROL NEGRO",
-      "sku": "",
+      "sku": "T116",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t116-tacon-pico-charol-negro/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/08/T3-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/08/T3.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2025/02/6becf3fd-eaac-4fd5-b5fa-9b017cc8258c.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t144-tacon-negro-sintetico-de-punta-con-sujetador",
       "nombre": "T144 TACON NEGRO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "",
+      "sku": "T144",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t144-tacon-negro-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-02-at-4.14.42-PM-1-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-02-at-4.14.42-PM-1-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t145-tacon-cafe-sintetico-de-punta-con-sujetador",
       "nombre": "T145 TACON CAFE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "",
+      "sku": "T145",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t145-tacon-cafe-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t146-tacon-maquillaje-sintetico-de-punta-con-sujetador",
       "nombre": "T146 TACON MAQUILLAJE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "",
+      "sku": "T146",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t146-tacon-maquillaje-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t147-tacon-rojo-sintetico-de-punta-con-sujetador",
       "nombre": "T147 TACON ROJO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "",
+      "sku": "T147",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t147-tacon-rojo-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.01-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.01-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "t148-tacon-negro-de-punta-con-el-tacon-ancho",
@@ -13069,8 +13735,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -13175,7 +13840,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -13208,7 +13874,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -13243,7 +13910,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -13313,16 +13980,16 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -13343,23 +14010,22 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -13418,17 +14084,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -13454,22 +14120,22 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 6
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         }
       ]
     },
@@ -13491,17 +14157,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -13527,17 +14193,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -13559,27 +14225,27 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 7
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -13640,17 +14306,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "7",
