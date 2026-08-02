@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01 08:01 UTC",
+  "actualizado": "2026-08-02 08:09 UTC",
   "total": 466,
   "productos": [
     {
@@ -186,17 +186,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 4
         }
       ]
     },
@@ -218,17 +218,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 10
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 6
         }
       ]
     },
@@ -250,17 +250,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         }
       ]
     },
@@ -1506,7 +1506,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "4",
@@ -3387,7 +3387,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -4568,7 +4568,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -4670,7 +4670,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 23
+          "cantidad": 22
         },
         {
           "numero": "6",
@@ -4727,7 +4727,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -6034,8 +6034,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -6956,23 +6955,21 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -6995,22 +6992,21 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -7033,22 +7029,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -7828,7 +7824,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "7",
@@ -8915,7 +8911,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -9191,33 +9187,31 @@
       "tallas": [
         {
           "numero": "2",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -9238,13 +9232,11 @@
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -9253,12 +9245,11 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -9279,28 +9270,24 @@
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -9752,8 +9739,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": true
         },
         {
           "numero": "5",
@@ -10921,7 +10907,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -11339,7 +11325,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -14214,837 +14200,290 @@
     {
       "id": "s990-sandalia-amarilla-dos-tiras-herraje-de-mar",
       "nombre": "S990 SANDALIA AMARILLA DOS TIRAS HERRAJE DE MAR",
-      "sku": "S990",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 439,
       "url": "https://cocoa-store.com/producto/s990-sandalia-amarilla-dos-tiras-herraje-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.19-PM-e1774723891827.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.19-PM-e1774723891827-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s992-sandalia-negra-basica-con-dijes-marinos",
       "nombre": "S992 SANDALIA NEGRA BASICA CON DIJES MARINOS",
-      "sku": "S992",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s992-sandalia-negra-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-e1774724034382.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-e1774724034382-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 11
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s993-sandalia-maquillaje-basica-con-dijes-marinos",
       "nombre": "S993 SANDALIA MAQUILLAJE BASICA CON DIJES MARINOS",
-      "sku": "S993",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s993-sandalia-maquillaje-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-1-e1774724087142.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.20-PM-1-e1774724087142-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 15
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 17
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s994-sandalia-celeste-basica-con-dijes-marinos",
       "nombre": "S994 SANDALIA CELESTE BASICA CON DIJES MARINOS",
-      "sku": "S994",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s994-sandalia-celeste-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.21-PM-e1774724140376.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.21-PM-e1774724140376-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s995-sandalia-blanco-basica-con-dijes-marinos",
       "nombre": "S995 SANDALIA BLANCO BASICA CON DIJES MARINOS",
-      "sku": "S995",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s995-sandalia-blanco-basica-con-dijes-marinos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.22-PM-e1774724187675.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-12.12.22-PM-e1774724187675-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 11
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s997-sandalia-blanca-cruzada-con-dedal-y-herraje",
       "nombre": "S997 SANDALIA BLANCA CRUZADA CON DEDAL Y HERRAJE",
-      "sku": "S997",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s997-sandalia-blanca-cruzada-con-dedal-y-herraje/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-e1774737132605.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-e1774737132605-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s999-sandalia-maquillaje-cruzada-con-dedal-y-herraje",
       "nombre": "S999 SANDALIA MAQUILLAJE CRUZADA CON DEDAL Y HERRAJE",
-      "sku": "S999",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s999-sandalia-maquillaje-cruzada-con-dedal-y-herraje/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-4-e1774895833665.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-28-at-4.03.46-PM-4-e1774895833665-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t116-tacon-pico-charol-negro",
       "nombre": "T116 TACON PICO CHAROL NEGRO",
-      "sku": "T116",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t116-tacon-pico-charol-negro/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/08/T3.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2025/02/6becf3fd-eaac-4fd5-b5fa-9b017cc8258c.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/08/T3-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t144-tacon-negro-sintetico-de-punta-con-sujetador",
       "nombre": "T144 TACON NEGRO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T144",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t144-tacon-negro-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-02-at-4.14.42-PM-1-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-02-at-4.14.42-PM-1-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t145-tacon-cafe-sintetico-de-punta-con-sujetador",
       "nombre": "T145 TACON CAFE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T145",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t145-tacon-cafe-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t146-tacon-maquillaje-sintetico-de-punta-con-sujetador",
       "nombre": "T146 TACON MAQUILLAJE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T146",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t146-tacon-maquillaje-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t147-tacon-rojo-sintetico-de-punta-con-sujetador",
       "nombre": "T147 TACON ROJO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T147",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t147-tacon-rojo-sintetico-de-punta-con-sujetador/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.01-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.01-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t148-tacon-negro-de-punta-con-el-tacon-ancho",
       "nombre": "T148 TACON MAQUILLAJE DE PUNTA CON EL TACON ANCHO",
-      "sku": "T148",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t148-tacon-negro-de-punta-con-el-tacon-ancho/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.08.46-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.08.46-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t149-tacon-latte-picudo-tacon-6-cm",
       "nombre": "T149 TACON LATTE PICUDO TACON 6 CM",
-      "sku": "T149",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t149-tacon-latte-picudo-tacon-6-cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.56.06-PM-e1775674766919.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.56.06-PM-e1775674766919-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t150-tacon-blanco-picudo-con-correas-laterales-6-cm",
       "nombre": "T150 TACON BLANCO PICUDO CON CORREAS LATERALES 6 CM",
-      "sku": "T150",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t150-tacon-blanco-picudo-con-correas-laterales-6-cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.55.54-PM-e1775674900618.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-08-at-12.55.54-PM-e1775674900618-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t151-tacon-negro-picudo-con-mono-tacon-6cms",
       "nombre": "T151 TACON NEGRO PICUDO CON MOÑO TACON 6CMS",
-      "sku": "T151",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t151-tacon-negro-picudo-con-mono-tacon-6cms/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-1.05.25-PM-1-e1776459684854.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-1.05.25-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-1.05.25-PM-1-e1776459684854-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t152-tacon-latte-abierto",
       "nombre": "T152 TACON LATTE ABIERTO",
-      "sku": "T152",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t152-tacon-latte-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-e1777563489528.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.08-AM-3.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-e1777563489528-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t153-tacon-negro-abierto",
       "nombre": "T153 TACON NEGRO ABIERTO",
-      "sku": "T153",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t153-tacon-negro-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-2-e1777563594586.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-2-e1777563594586-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t154-tacon-vino-abierto",
       "nombre": "T154 TACON VINO ABIERTO",
-      "sku": "T154",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t154-tacon-vino-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.58-AM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.58-AM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t155-tacon-maquillaje-abierto",
       "nombre": "T155 TACON MAQUILLAJE ABIERTO",
-      "sku": "T155",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t155-tacon-maquillaje-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.59-AM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.59-AM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t156-tacon-cafe-abierto",
       "nombre": "T156 TACON CAFE ABIERTO",
-      "sku": "T156",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t156-tacon-cafe-abierto/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.36.00-AM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.36.00-AM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t157-tacon-negro-de-doble-tira-6cm",
       "nombre": "T157 TACON NEGRO DE DOBLE TIRA 6CM",
-      "sku": "T157",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t157-tacon-negro-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/taconnegro1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconnegro1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t158-tacon-cafe-de-doble-tira-6cm",
       "nombre": "T158 TACON CAFE DE DOBLE TIRA 6CM",
-      "sku": "T158",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t158-tacon-cafe-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/taconcafe1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconcafe1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t159-tacon-latte-de-doble-tira-6cm",
       "nombre": "T159 TACON LATTE DE DOBLE TIRA 6CM",
-      "sku": "T159",
+      "sku": "",
       "categoria": "TACONES",
       "precio": 649,
       "url": "https://cocoa-store.com/producto/t159-tacon-latte-de-doble-tira-6cm/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/taconlate1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/06/taconlate1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "t160-tacon-negro-punta-abierta-6cm",
@@ -15253,7 +14692,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
