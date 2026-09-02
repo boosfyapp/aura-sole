@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01 10:47 UTC",
+  "actualizado": "2026-09-02 10:24 UTC",
   "total": 464,
   "productos": [
     {
@@ -752,8 +752,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -2085,22 +2084,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -2878,8 +2877,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3813,12 +3811,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -3881,12 +3879,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -3914,12 +3912,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 19
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 22
+          "cantidad": 21
         },
         {
           "numero": "6",
@@ -4086,759 +4084,290 @@
     {
       "id": "f286-flat-negro-de-yute",
       "nombre": "F286 FLAT NEGRO DE YUTE",
-      "sku": "F286",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f286-flat-negro-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.13-PM-2-e1784401175467.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.13-PM-2-e1784401175467-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f287-flat-beige-de-yute",
       "nombre": "F287 FLAT BEIGE DE YUTE",
-      "sku": "F287",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f287-flat-beige-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.13-PM-3-e1784401214771.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.13-PM-3-e1784401214771-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f288-flat-latte-de-yute",
       "nombre": "F288 FLAT LATTE DE YUTE",
-      "sku": "F288",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f288-flat-latte-de-yute/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.14-PM-e1784405275733.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.14-PM-e1784405275733-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f289-flat-negro-piel-de-durazno-con-cinta",
       "nombre": "F289 FLAT NEGRO PIEL DE DURAZNO CON CINTA",
-      "sku": "F289",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f289-flat-negro-piel-de-durazno-con-cinta/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.16-PM-e1784405322339.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.17-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.16-PM-e1784405322339-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f290-flat-cafe-piel-de-durazno-con-cinta",
       "nombre": "F290 FLAT CAFE PIEL DE DURAZNO CON CINTA",
-      "sku": "F290",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f290-flat-cafe-piel-de-durazno-con-cinta/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.18-PM-e1784414311770.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.18-PM-e1784414311770-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f291-flat-camel-piel-de-durazno-con-cinta",
       "nombre": "F291 FLAT CAMEL PIEL DE DURAZNO CON CINTA",
-      "sku": "F291",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f291-flat-camel-piel-de-durazno-con-cinta/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.57-PM-1-1-scaled-e1784413166241.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.57-PM-1-1-scaled-e1784413166241-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f292-flat-vino-piel-de-durazno-con-cinta",
       "nombre": "F292 FLAT VINO PIEL DE DURAZNO CON CINTA",
-      "sku": "F292",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f292-flat-vino-piel-de-durazno-con-cinta/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.57-PM-scaled-e1784413104318.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.57-PM-scaled-e1784413104318-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f293-flat-arena-piel-de-durazno-con-cinta",
       "nombre": "F293 FLAT ARENA PIEL DE DURAZNO CON CINTA",
-      "sku": "F293",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f293-flat-arena-piel-de-durazno-con-cinta/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.58-PM-scaled-e1784413022723.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-3.06.58-PM-scaled-e1784413022723-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f294-flat-latte-diseno-tejido",
       "nombre": "F294 FLAT LATTE DISEÑO TEJIDO",
-      "sku": "F294",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f294-flat-latte-diseno-tejido/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.51-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.51-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f295-flat-negro-diseno-tejido",
       "nombre": "F295 FLAT NEGRO DISEÑO TEJIDO",
-      "sku": "F295",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f295-flat-negro-diseno-tejido/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.52-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.52-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f296-flat-oro-diseno-tejido",
       "nombre": "F296 FLAT ORO DISEÑO TEJIDO",
-      "sku": "F296",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f296-flat-oro-diseno-tejido/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.52-PM-2.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-4.37.52-PM-2-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f297-flat-negro-de-malla-con-flores",
       "nombre": "F297 FLAT NEGRO DE MALLA CON FLORES",
-      "sku": "F297",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f297-flat-negro-de-malla-con-flores/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-5.22.08-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-5.22.08-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-5.22.08-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f298-flat-negro-picudo-de-malla-con-flores-2",
       "nombre": "F298 FLAT NEGRO PICUDO DE MALLA CON FLORES",
-      "sku": "F298",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f298-flat-negro-picudo-de-malla-con-flores-2/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-5.40.34-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-5.40.34-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f299-flat-latte-de-malla-con-flores",
       "nombre": "F299 FLAT LATTE DE MALLA CON FLORES",
-      "sku": "F299",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f299-flat-latte-de-malla-con-flores/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.38-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.37-PM-e1786128557631.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.38-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f300-flat-oro-con-brillos-de-malla",
       "nombre": "F300 FLAT ORO CON BRILLOS DE MALLA",
-      "sku": "F300",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f300-flat-oro-con-brillos-de-malla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.39-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.39-PM-e1786128772634.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.39-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f301-flat-negro-de-malla-con-flores",
       "nombre": "F301 FLAT NEGRO DE MALLA CON FLORES",
-      "sku": "F301",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 499,
       "url": "https://cocoa-store.com/producto/f301-flat-negro-de-malla-con-flores/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.41-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.40-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-12.44.41-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f302-flat-plata-con-brillos-de-malla",
       "nombre": "F302 FLAT PLATA CON BRILLOS DE MALLA",
-      "sku": "F302",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f302-flat-plata-con-brillos-de-malla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.51-PM-e1786398361161.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.50-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.51-PM-e1786398361161-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f298-flat-negro-picudo-de-malla-con-flores",
       "nombre": "F303 FLAT LATTE PICUDO DE MALLA CON FLORES",
-      "sku": "F303",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f298-flat-negro-picudo-de-malla-con-flores/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.51-PM-1-e1786398477492.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.51-PM-1-e1786398477492-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 5
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f304-flat-negro-de-malla",
       "nombre": "F304 FLAT NEGRO DE MALLA",
-      "sku": "F304",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f304-flat-negro-de-malla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.09-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.09-PM-1-e1787174393470.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.09-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f305-flat-vino-de-malla",
       "nombre": "F305 FLAT VINO DE MALLA",
-      "sku": "F305",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f305-flat-vino-de-malla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.06-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.06-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f306-flat-cafe-de-malla",
       "nombre": "F306 FLAT CAFE DE MALLA",
-      "sku": "F306",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f306-flat-cafe-de-malla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.08-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.08-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f307-flat-latte-de-malla-diseno-de-rosas",
       "nombre": "F307 FLAT LATTE DE MALLA DISEÑO DE ROSAS",
-      "sku": "F307",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f307-flat-latte-de-malla-diseno-de-rosas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.08-PM-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.09-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.08-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f308-flat-rosa-de-malla-diseno-de-rosas",
       "nombre": "F308 FLAT ROSA DE MALLA DISEÑO DE ROSAS",
-      "sku": "F308",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f308-flat-rosa-de-malla-diseno-de-rosas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.47-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.46-PM-e1787694584922.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.47-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f309-flat-negro-de-malla-diseno-de-rosas",
       "nombre": "F309 FLAT NEGRO DE MALLA DISEÑO DE ROSAS",
-      "sku": "F309",
+      "sku": "",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f309-flat-negro-de-malla-diseno-de-rosas/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.47-PM-2.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.47-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.47-PM-2-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "f310-flat-latte-de-malla",
@@ -5406,12 +4935,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -5501,12 +5030,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -6053,12 +5582,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -6238,7 +5767,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -6248,7 +5777,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -8271,7 +7800,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -8411,7 +7940,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -8487,12 +8016,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -8567,7 +8096,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -8640,861 +8169,288 @@
     {
       "id": "s1161-sandalia-oro-rosado-con-pedreria-diseno-entrelazado",
       "nombre": "S1161 SANDALIA ORO ROSADO CON PEDRERIA DISEÑO ENTRELAZADO",
-      "sku": "S1161",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s1161-sandalia-oro-rosado-con-pedreria-diseno-entrelazado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.53-PM-1-e1786398759268.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-10-at-3.29.53-PM-1-e1786398759268-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1162-sandalia-camel-hermes",
       "nombre": "S1162 SANDALIA CAMEL HERMES",
-      "sku": "S1162",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s1162-sandalia-camel-hermes/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-e1786739354111.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-e1786739354111-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 16
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1163-sandalia-negra-de-4-tiras",
       "nombre": "S1163 SANDALIA NEGRA DE 4 TIRAS",
-      "sku": "S1163",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 409,
       "url": "https://cocoa-store.com/producto/s1163-sandalia-negra-de-4-tiras/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-1-e1786739494949.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-1-e1786739494949-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 18
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 17
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1164-sandalia-negra-dos-herrajes",
       "nombre": "S1164 SANDALIA NEGRA DOS HERRAJES",
-      "sku": "S1164",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1164-sandalia-negra-dos-herrajes/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-2-e1786739655191.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.30-PM-2-e1786739655191-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 17
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 17
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1165-sandalia-maquillaje-charol-guess",
       "nombre": "S1165 SANDALIA MAQUILLAJE CHAROL GUESS",
-      "sku": "S1165",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1165-sandalia-maquillaje-charol-guess/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.31-PM-e1786739850831.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.31-PM-e1786739850831-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 18
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 16
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1166-sandalia-roja-charol-guess",
       "nombre": "S1166 SANDALIA ROJA CHAROL GUESS",
-      "sku": "S1166",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1166-sandalia-roja-charol-guess/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.33-PM-e1786739926490.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.33-PM-e1786739926490-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 18
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 17
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1167-sandalia-maquillaje-de-4-tiras",
       "nombre": "S1167 SANDALIA MAQUILLAJE DE 4 TIRAS",
-      "sku": "S1167",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 409,
       "url": "https://cocoa-store.com/producto/s1167-sandalia-maquillaje-de-4-tiras/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.33-PM-1-e1786739986239.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.18.33-PM-1-e1786739986239-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 18
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 8
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1168-sandalia-blanca-dedal-dorado",
       "nombre": "S1168 SANDALIA BLANCA DEDAL DORADO",
-      "sku": "S1168",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s1168-sandalia-blanca-dedal-dorado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.44.30-PM-e1786740330385.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-14-at-2.44.30-PM-e1786740330385-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1169-sandalia-cafe-dos-herrajes",
       "nombre": "S1169 SANDALIA CAFE DOS HERRAJES",
-      "sku": "S1169",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1169-sandalia-cafe-dos-herrajes/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-e1787174511697.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-e1787174511697-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 20
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 20
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 6
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1170-sandalia-camel-dior",
       "nombre": "S1170 SANDALIA CAMEL DIOR",
-      "sku": "S1170",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1170-sandalia-camel-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-1-e1787174617847.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-1-e1787174617847-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1171-sandalia-latte-dior",
       "nombre": "S1171 SANDALIA LATTE DIOR",
-      "sku": "S1171",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1171-sandalia-latte-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-2-e1787174724552.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.10-PM-2-e1787174724552-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1172-sandalia-roja-dior",
       "nombre": "S1172 SANDALIA ROJA DIOR",
-      "sku": "S1172",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1172-sandalia-roja-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.11-PM-e1787174840843.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.11.11-PM-e1787174840843-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1173-sandalia-maquillaje-dior",
       "nombre": "S1173 SANDALIA MAQUILLAJE DIOR",
-      "sku": "S1173",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1173-sandalia-maquillaje-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.14.25-PM-e1787174915216.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.14.25-PM-e1787174915216-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1174-sandalia-latte-yute-dior",
       "nombre": "S1174 SANDALIA LATTE YUTE DIOR",
-      "sku": "S1174",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 429,
       "url": "https://cocoa-store.com/producto/s1174-sandalia-latte-yute-dior/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.14.25-PM-1-e1787174982638.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-3.14.25-PM-1-e1787174982638-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1175-sandalia-maquillaje-semi-cerrada-con-estoperoles",
       "nombre": "S1175 SANDALIA MAQUILLAJE SEMI CERRADA CON ESTOPEROLES",
-      "sku": "S1175",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s1175-sandalia-maquillaje-semi-cerrada-con-estoperoles/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.05-PM-e1787694157752.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.05-PM-e1787694157752-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1176-sandalia-negra-semi-cerrada-con-estoperoles",
       "nombre": "S1176 SANDALIA NEGRA SEMI CERRADA CON ESTOPEROLES",
-      "sku": "S1176",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s1176-sandalia-negra-semi-cerrada-con-estoperoles/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.05-PM-1-e1787694232466.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-3.27.05-PM-1-e1787694232466-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s1177-sandalia-maquillaje-claro-drilo",
       "nombre": "S1177 SANDALIA MAQUILLAJE CLARO DRILO",
-      "sku": "S1177",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s1177-sandalia-maquillaje-claro-drilo/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 19
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 19
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 5
-        }
-      ]
+      "imagenes": [],
+      "tallas": []
     },
     {
       "id": "s391-sandalia-maquillaje-de-tiras",
       "nombre": "S391 SANDALIA MAQUILLAJE DE TIRAS",
-      "sku": "S391",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s391-sandalia-maquillaje-de-tiras/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-12.30.07.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-12.30.07-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s392-sandalia-negra-de-tiras",
       "nombre": "S392 SANDALIA NEGRA DE TIRAS",
-      "sku": "S392",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s392-sandalia-negra-de-tiras/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-12.30.27.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-12.30.27-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s393-sandalia-blanca-de-tiras",
       "nombre": "S393 SANDALIA BLANCA DE TIRAS",
-      "sku": "S393",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 419,
       "url": "https://cocoa-store.com/producto/s393-sandalia-blanca-de-tiras/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-3.45.54-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/6.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-09-at-3.45.54-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s883-sandalia-latte-doble-tira-de-velcro",
       "nombre": "S883 SANDALIA LATTE DOBLE TIRA DE VELCRO",
-      "sku": "S883",
+      "sku": "",
       "categoria": "SANDALIAS",
       "precio": 549,
       "url": "https://cocoa-store.com/producto/s883-sandalia-latte-doble-tira-de-velcro/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.36-PM-3.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.36-PM-3-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 21
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 15
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s884-sandalia-negra-doble-tira-de-velcro",
       "nombre": "S884 SANDALIA NEGRA DOBLE TIRA DE VELCRO",
-      "sku": "S884",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 549,
       "url": "https://cocoa-store.com/producto/s884-sandalia-negra-doble-tira-de-velcro/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.37-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.37-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s887-sandalia-blanca-tiras-drilo-con-hebilla-coach",
       "nombre": "S887 SANDALIA BLANCA TIRAS DRILO CON HEBILLA COACH",
-      "sku": "S887",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 549,
       "url": "https://cocoa-store.com/producto/s887-sandalia-blanca-tiras-drilo-con-hebilla-coach/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.47.10-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.47.10-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s925-sandalia-cafe-de-malla-con-cristales",
       "nombre": "S925 SANDALIA CAFE DE MALLA CON CRISTALES",
-      "sku": "S925",
+      "sku": "",
       "categoria": "SANDALIAS \"S\"",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/s925-sandalia-cafe-de-malla-con-cristales/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.14-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.14-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s940-sandalia-plateada-de-lentejuela",
@@ -9653,12 +8609,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -9915,7 +8871,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -10876,8 +9832,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -12228,7 +11183,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -12474,8 +11429,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -12983,206 +11937,624 @@
     {
       "id": "s821-sandalia-con-tejido-charol-blanco",
       "nombre": "S821 SANDALIA CON TEJIDO, CHAROL BLANCO.",
-      "sku": "",
+      "sku": "S821",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s821-sandalia-con-tejido-charol-blanco/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/04/WhatsApp-Image-2026-03-18-at-2.59.11-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/04/WhatsApp-Image-2026-03-18-at-2.59.11-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
     },
     {
       "id": "s822-sandalia-con-tejido-charol-chocolate",
       "nombre": "S822 SANDALIA CON TEJIDO, CHAROL CHOCOLATE",
-      "sku": "",
+      "sku": "S822",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s822-sandalia-con-tejido-charol-chocolate/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/04/WhatsApp-Image-2026-03-18-at-2.59.11-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/04/WhatsApp-Image-2026-03-18-at-2.59.11-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
     },
     {
       "id": "s827-sandalia-con-dedal-y-herrajes",
       "nombre": "S827 SANDALIA TAN CON DEDAL Y HERRAJES",
-      "sku": "",
+      "sku": "S827",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s827-sandalia-con-dedal-y-herrajes/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-2.59.12-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-2.59.12-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-2.59.13-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-2.59.13-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s830-sandalia-con-flor-amarilla-y-perla",
       "nombre": "S830 SANDALIA CON FLOR AMARILLA Y PERLA",
-      "sku": "",
+      "sku": "S830",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s830-sandalia-con-flor-amarilla-y-perla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.35-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.35-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s833-sandalia-con-flor-naranja-y-perla-en-la-flor",
       "nombre": "S832 SANDALIA CON FLOR NARANJA Y PERLA EN LA FLOR",
-      "sku": "",
+      "sku": "S832",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s833-sandalia-con-flor-naranja-y-perla-en-la-flor/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.36-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.36-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s833-sandalia-blanca-dedal-de-herraje-dorado",
       "nombre": "S833 SANDALIA BLANCA DEDAL DE HERRAJE DORADO",
-      "sku": "",
+      "sku": "S833",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s833-sandalia-blanca-dedal-de-herraje-dorado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.37-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.37-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s834-sandalia-tan-dedal-de-herraje-dorado",
       "nombre": "S834 SANDALIA TAN DEDAL DE HERRAJE DORADO GRANDE",
-      "sku": "",
+      "sku": "S834",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s834-sandalia-tan-dedal-de-herraje-dorado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.37-PM-1-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.37-PM-1-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s835-sandalia-h-con-perlas-de-colores-mezclilla",
       "nombre": "S835 SANDALIA H CON PERLAS DE COLORES, MEZCLILLA",
-      "sku": "",
+      "sku": "S835",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s835-sandalia-h-con-perlas-de-colores-mezclilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.38-PM-1-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.38-PM-1-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-3.19.38-PM-2.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "s838-sandalia-charol-negro-con-herrajes-una-sola-chinela",
       "nombre": "S838 SANDALIA CHAROL NEGRO CON HERRAJES, UNA SOLA CHINELA.",
-      "sku": "",
+      "sku": "S838",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s838-sandalia-charol-negro-con-herrajes-una-sola-chinela/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.40-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.40-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 23
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 5
+        }
+      ]
     },
     {
       "id": "s841-sandalia-charol-maquillaje-con-herrajes-una-sola-chinela",
       "nombre": "S841 SANDALIA CHAROL MAQUILLAJE CON HERRAJES, UNA SOLA CHINELA.",
-      "sku": "",
+      "sku": "S841",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s841-sandalia-charol-maquillaje-con-herrajes-una-sola-chinela/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.42-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.42-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 14
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 25
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 25
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
     },
     {
       "id": "s845-sandalia-con-tiras-rojas-y-dedal-de-metal",
       "nombre": "S845 SANDALIA CON TIRAS ROJAS Y DEDAL DE METAL",
-      "sku": "",
+      "sku": "S845",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s845-sandalia-con-tiras-rojas-y-dedal-de-metal/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.43-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.43-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
     },
     {
       "id": "s846-sandalia-con-tiras-rosas-y-dedal-de-metal",
       "nombre": "S846 SANDALIA CON TIRAS ROSAS Y DEDAL DE METAL",
-      "sku": "",
+      "sku": "S846",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s846-sandalia-con-tiras-rosas-y-dedal-de-metal/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.43-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.43-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
     },
     {
       "id": "s848-sandalia-de-corazones-blanca",
       "nombre": "S848 SANDALIA DE CORAZONES, BLANCA.",
-      "sku": "",
+      "sku": "S848",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s848-sandalia-de-corazones-blanca/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.44-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.44-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s849-sandalia-de-corazones-negra",
       "nombre": "S849 SANDALIA DE CORAZONES, NEGRA",
-      "sku": "",
+      "sku": "S849",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s849-sandalia-de-corazones-negra/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.44-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/05/WhatsApp-Image-2026-03-18-at-4.29.44-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s850-sandalia-charol-fucsia-con-hebilla",
       "nombre": "S850 SANDALIA CHAROL FUCSIA CON HEBILLA",
-      "sku": "",
+      "sku": "S850",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s850-sandalia-charol-fucsia-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.29.45-PM-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.29.45-PM.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s852-sandalia-playera-de-yute-negra",
       "nombre": "S852 SANDALIA PLAYERA DE YUTE NEGRA",
-      "sku": "",
+      "sku": "S852",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s852-sandalia-playera-de-yute-negra/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.43.08-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.43.08-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s853-sandalia-de-corazones-oro-rosado",
       "nombre": "S853 SANDALIA DE CORAZONES, ORO ROSADO",
-      "sku": "",
+      "sku": "S853",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s853-sandalia-de-corazones-oro-rosado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.43.09-PM-1-300x300.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/06/WhatsApp-Image-2026-03-18-at-4.43.09-PM-1.jpeg"
       ],
-      "tallas": []
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
     },
     {
       "id": "s859-sandalia-negra-herraje-redondo",
@@ -13271,557 +12643,206 @@
     {
       "id": "s885-sandalia-plata-con-doble-tira-diseno-trenzado",
       "nombre": "S885 SANDALIA PLATA CON DOBLE TIRA DISEÑO TRENZADO",
-      "sku": "S885",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s885-sandalia-plata-con-doble-tira-diseno-trenzado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.39-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.39-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s886-sandalia-negra-con-doble-tira-diseno-trenzado",
       "nombre": "S886 SANDALIA NEGRA CON DOBLE TIRA DISEÑO TRENZADO",
-      "sku": "S886",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s886-sandalia-negra-con-doble-tira-diseno-trenzado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.39-PM-1-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.39-PM-1-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s889-sandalia-negra-charol-con-hebilla",
       "nombre": "S889 SANDALIA NEGRA CHAROL CON HEBILLA",
-      "sku": "S889",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s889-sandalia-negra-charol-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2026-03-19-at-3.47.11-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2026-03-19-at-3.47.11-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s890-sandalia-maquillaje-charol-con-hebilla",
       "nombre": "S890 SANDALIA MAQUILLAJE CHAROL CON HEBILLA",
-      "sku": "S890",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s890-sandalia-maquillaje-charol-con-hebilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2026-03-19-at-3.47.11-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2026-03-19-at-3.47.11-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 13
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s936-sandalia-beige-barbitas-con-herrajes-de-mar",
       "nombre": "S936 SANDALIA BEIGE BARBITAS CON HERRAJES DE MAR",
-      "sku": "S936",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s936-sandalia-beige-barbitas-con-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.39.59-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/3.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.39.59-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s937-sandalia-latte-tres-tiras-herrajes-de-mar",
       "nombre": "S937 SANDALIA LATTE TRES TIRAS HERRAJES DE MAR",
-      "sku": "S937",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s937-sandalia-latte-tres-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.41.18-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/2.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.41.18-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s939-sandalia-negra-tres-tiras-herrajes-de-mar",
       "nombre": "S939 SANDALIA NEGRA TRES TIRAS HERRAJES DE MAR",
-      "sku": "S939",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s939-sandalia-negra-tres-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.42.29-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/03/4.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-03-at-2.42.29-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 6
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 4
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s943-sandalia-maquillaje-tres-tiras-herrajes-de-mar",
       "nombre": "S943 SANDALIA MAQUILLAJE TRES TIRAS HERRAJES DE MAR",
-      "sku": "S943",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s943-sandalia-maquillaje-tres-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.32.25-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.32.25-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 12
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s952-sandalia-negra-dos-tiras-herrajes-de-mar",
       "nombre": "S952 SANDALIA NEGRA DOS TIRAS HERRAJES DE MAR",
-      "sku": "S952",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s952-sandalia-negra-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.17-AM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.17-AM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s953-sandalia-maquillaje-dos-tiras-herrajes-de-mar",
       "nombre": "S953 SANDALIA MAQUILLAJE DOS TIRAS HERRAJES DE MAR",
-      "sku": "S953",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s953-sandalia-maquillaje-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.18-AM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.18-AM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s955-sandalia-cafe-herrajes-de-mar-tiras-cruzadas-con-dedal",
       "nombre": "S955 SANDALIA CAFE HERRAJES DE MAR TIRAS CRUZADAS CON DEDAL",
-      "sku": "S955",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s955-sandalia-cafe-herrajes-de-mar-tiras-cruzadas-con-dedal/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.19-AM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-12-at-9.43.19-AM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s959-sandalia-negra-dos-tiras-onduladas-con-herrajes-de-mar",
       "nombre": "S959 SANDALIA NEGRA DOS TIRAS ONDULADAS CON HERRAJES DE MAR",
-      "sku": "S959",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s959-sandalia-negra-dos-tiras-onduladas-con-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.27-PM-1-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.27-PM-1-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s960-sandalia-maquillaje-dos-tiras-onduladas-con-herrajes-de-mar",
       "nombre": "S960 SANDALIA MAQUILLAJE DOS TIRAS ONDULADAS CON HERRAJES DE MAR",
-      "sku": "S960",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s960-sandalia-maquillaje-dos-tiras-onduladas-con-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.29-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.29-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 7
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s961-sandalia-blanca-dos-tiras-onduladas-con-herrajes-de-mar",
       "nombre": "S961 SANDALIA BLANCA DOS TIRAS ONDULADAS CON HERRAJES DE MAR",
-      "sku": "S961",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s961-sandalia-blanca-dos-tiras-onduladas-con-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.29-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.29-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 2
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s969-sandalia-maquillaje-basica-herrajes-de-mar",
       "nombre": "S969 SANDALIA MAQUILLAJE BASICA HERRAJES DE MAR",
-      "sku": "S969",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s969-sandalia-maquillaje-basica-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.33-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.33-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s970-sandalia-maquillaje-basica-herrajes-de-mar-copia",
       "nombre": "S970 SANDALIA CAFE BASICA HERRAJES DE MAR",
-      "sku": "S970",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s970-sandalia-maquillaje-basica-herrajes-de-mar-copia/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.34-PM.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.34-PM-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s973-sandalia-cafe-dos-tiras-herrajes-de-mar",
       "nombre": "S973 SANDALIA CAFE DOS TIRAS HERRAJES DE MAR",
-      "sku": "S973",
+      "sku": "",
       "categoria": "SANDALIAS SALE!!!!",
       "precio": 350,
       "url": "https://cocoa-store.com/producto/s973-sandalia-cafe-dos-tiras-herrajes-de-mar/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.35-PM-1.jpeg"
+        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-14-at-4.24.35-PM-1-300x300.jpeg"
       ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 16
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 19
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 7
-        }
-      ]
+      "tallas": []
     },
     {
       "id": "s974-sandalia-latte-dos-tiras-herrajes-de-mar",
@@ -13984,7 +13005,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
