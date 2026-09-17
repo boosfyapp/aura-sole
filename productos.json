@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16 10:27 UTC",
-  "total": 353,
+  "actualizado": "2026-09-17 10:37 UTC",
+  "total": 358,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -1287,7 +1287,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -4269,7 +4269,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -4397,8 +4397,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4865,7 +4864,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -5197,7 +5196,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "5",
@@ -5645,8 +5644,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5654,18 +5652,15 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 5
+          "disponible": false
         }
       ]
     },
@@ -5754,28 +5749,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -5824,23 +5814,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -5900,7 +5886,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 28
+          "cantidad": 27
         },
         {
           "numero": "5",
@@ -5986,7 +5972,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "7",
@@ -6199,7 +6185,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -6209,7 +6195,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "7",
@@ -6307,28 +6293,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -6458,7 +6439,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -6731,7 +6712,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -7438,8 +7419,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -8160,7 +8140,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -8465,27 +8445,27 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 11
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         }
       ]
     },
@@ -8539,23 +8519,19 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -8577,27 +8553,27 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         }
       ]
     },
@@ -8618,18 +8594,15 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -9014,7 +8987,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 32
+          "cantidad": 31
         },
         {
           "numero": "6",
@@ -9179,28 +9152,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -9217,28 +9185,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 4
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -9255,28 +9218,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 3
+          "disponible": false
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -9304,7 +9262,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "6",
@@ -9341,7 +9299,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 16
         },
         {
           "numero": "6",
@@ -9485,7 +9443,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -9633,12 +9591,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 18
         },
         {
           "numero": "6",
@@ -9676,7 +9634,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 19
         },
         {
           "numero": "6",
@@ -9686,7 +9644,170 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
+        }
+      ]
+    },
+    {
+      "id": "f338-flat-vino-de-terciopelo-copia",
+      "nombre": "S1186 SANDALIA NEGRA DE TIRAS SUJETADOR EN TOBILLO",
+      "sku": "S1186",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f338-flat-vino-de-terciopelo-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.23.16-AM-e1789403051488.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "id": "s1187-sandalia-latte-de-tiras-sujetador-en-tobillo",
+      "nombre": "S1187 SANDALIA LATTE DE TIRAS SUJETADOR EN TOBILLO",
+      "sku": "S1187",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1187-sandalia-latte-de-tiras-sujetador-en-tobillo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.23.16-AM-1-e1789403214654.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "s1188-sandalia-cafe-moka-de-tiras-sujetador-en-tobillo",
+      "nombre": "S1188 SANDALIA CAFE MOKA DE TIRAS SUJETADOR EN TOBILLO",
+      "sku": "S1188",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1188-sandalia-cafe-moka-de-tiras-sujetador-en-tobillo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.23.17-AM-e1789403273891.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 19
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "s1189-sandalia-plata-de-tiras-sujetador-en-tobillo",
+      "nombre": "S1189 SANDALIA PLATA DE TIRAS SUJETADOR EN TOBILLO",
+      "sku": "S1189",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1189-sandalia-plata-de-tiras-sujetador-en-tobillo/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.23.18-AM-e1789403328295.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "s1190-sandalia-oro-de-tiras-sujetador-en-tobillos1189-sandalia-plata-de-tiras-sujetador-en-tobillo-copia",
+      "nombre": "S1190 SANDALIA ORO DE TIRAS SUJETADOR EN TOBILLO",
+      "sku": "S1190",
+      "categoria": "SANDALIAS",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/s1190-sandalia-oro-de-tiras-sujetador-en-tobillos1189-sandalia-plata-de-tiras-sujetador-en-tobillo-copia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-10.23.18-AM-1-e1789403377920.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -9750,7 +9871,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -9908,7 +10029,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -10240,7 +10361,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -11143,7 +11264,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "7",
@@ -11829,7 +11950,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -12015,7 +12136,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
