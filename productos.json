@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18 10:13 UTC",
-  "total": 360,
+  "actualizado": "2026-09-19 09:54 UTC",
+  "total": 362,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -1859,7 +1859,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -4044,7 +4044,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -4239,7 +4239,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         }
       ]
     },
@@ -4297,7 +4297,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -4492,12 +4492,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -5336,6 +5336,74 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f341-flat-cafe-de-malla-con-estoperoles-redondos",
+      "nombre": "F341 FLAT CAFE DE MALLA CON ESTOPEROLES REDONDOS",
+      "sku": "F341",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f341-flat-cafe-de-malla-con-estoperoles-redondos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-11.45.08-AM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-11.45.08-AM-e1789753745466.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f342-flat-vino-de-malla-con-estoperoles-redondos",
+      "nombre": "F342 FLAT VINO DE MALLA CON ESTOPEROLES REDONDOS",
+      "sku": "F342",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f342-flat-vino-de-malla-con-estoperoles-redondos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-11.45.09-AM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-11.45.09-AM-1-e1789753827941.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -6319,7 +6387,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -6818,7 +6886,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 21
+          "cantidad": 20
         },
         {
           "numero": "6",
@@ -9050,7 +9118,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 31
+          "cantidad": 30
         },
         {
           "numero": "6",
@@ -9116,7 +9184,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -9763,7 +9831,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -9791,7 +9859,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "4",
@@ -9855,7 +9923,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -9865,7 +9933,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -11244,13 +11312,12 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -11322,7 +11389,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -11531,7 +11598,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -11883,12 +11950,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -11921,7 +11988,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -12199,7 +12266,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -12227,7 +12294,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -12293,7 +12360,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
