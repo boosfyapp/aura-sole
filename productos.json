@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20 10:15 UTC",
+  "actualizado": "2026-09-21 11:21 UTC",
   "total": 362,
   "productos": [
     {
@@ -8558,7 +8558,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         }
       ]
     },
@@ -9722,7 +9722,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "5",
