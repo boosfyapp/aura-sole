@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22 10:31 UTC",
-  "total": 362,
+  "actualizado": "2026-09-23 10:27 UTC",
+  "total": 338,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -26,7 +26,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -224,7 +224,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -368,7 +368,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -1781,8 +1781,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -1798,40 +1797,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "f114-flat-camel-terciopelo-hebilla-redonda",
-      "nombre": "F114 FLAT CAMEL TERCIOPELO HEBILLA REDONDA",
-      "sku": "F114",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f114-flat-camel-terciopelo-hebilla-redonda/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/11/f114.jpg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 9
-        },
-        {
-          "numero": "7",
-          "disponible": false
         }
       ]
     },
@@ -1934,66 +1899,6 @@
       ]
     },
     {
-      "id": "f203-flat-camel-terciopelo-hebilla-troquelada",
-      "nombre": "F203 FLAT CAMEL TERCIOPELO HEBILLA TROQUELADA",
-      "sku": "F203",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f203-flat-camel-terciopelo-hebilla-troquelada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-3.58.35-PM-e1776206020115.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "f205-flat-rojo-terciopelo-correa-corrugada",
-      "nombre": "F205 FLAT ROJO TERCIOPELO CORREA CORRUGADA",
-      "sku": "F205",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f205-flat-rojo-terciopelo-correa-corrugada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-3.58.37-PM-e1776206222170.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f206-flat-rosa-terciopelo-correa-corrugada",
       "nombre": "F206 FLAT ROSA TERCIOPELO CORREA CORRUGADA",
       "sku": "F206",
@@ -2027,94 +1932,6 @@
       ]
     },
     {
-      "id": "f208-flat-negro-de-red",
-      "nombre": "F208 FLAT NEGRO DE RED",
-      "sku": "F208",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f208-flat-negro-de-red/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-17-at-11.22.58-AM-2-e1776534448245.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f223-flat-plata-de-red",
-      "nombre": "F223 FLAT PLATA DE RED",
-      "sku": "F223",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f223-flat-plata-de-red/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-11.05.07-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 1
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f224-flat-oro-rosado-de-red",
-      "nombre": "F224 FLAT ORO ROSADO DE RED",
-      "sku": "F224",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f224-flat-oro-rosado-de-red/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-11.05.08-AM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f225-flat-leopardo-correa-corrugada-negra",
       "nombre": "F225 FLAT LEOPARDO CORREA CORRUGADA NEGRA",
       "sku": "F225",
@@ -2134,35 +1951,6 @@
           "numero": "4",
           "disponible": true,
           "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f226-flat-negro-terciopelo-correa-corrugada",
-      "nombre": "F226 FLAT NEGRO TERCIOPELO CORREA CORRUGADA",
-      "sku": "F226",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f226-flat-negro-terciopelo-correa-corrugada/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-13-at-11.05.09-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
         },
         {
           "numero": "5",
@@ -2339,7 +2127,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         }
       ]
     },
@@ -2756,7 +2544,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -2828,151 +2616,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 4
-        }
-      ]
-    },
-    {
-      "id": "f256-flat-negro-piel-de-durazno",
-      "nombre": "F256 FLAT NEGRO PIEL DE DURAZNO",
-      "sku": "F256",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f256-flat-negro-piel-de-durazno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-3.35.18-PM-3.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f257-flat-cafe-piel-de-durazno",
-      "nombre": "F257 FLAT CAFE PIEL DE DURAZNO",
-      "sku": "F257",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f257-flat-cafe-piel-de-durazno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-3.35.19-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f258-flat-latte-piel-de-durazno",
-      "nombre": "F258 FLAT LATTE PIEL DE DURAZNO",
-      "sku": "F258",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f258-flat-latte-piel-de-durazno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-3.35.20-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f259-flat-camel-piel-de-durazno",
-      "nombre": "F259 FLAT CAMEL PIEL DE DURAZNO",
-      "sku": "F259",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f259-flat-camel-piel-de-durazno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-3.35.22-PM-e1782251648486.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f260-flat-rojo-piel-de-durazno",
-      "nombre": "F260 FLAT ROJO PIEL DE DURAZNO",
-      "sku": "F260",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f260-flat-rojo-piel-de-durazno/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-3.35.23-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -3066,7 +2709,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "6",
@@ -3208,186 +2851,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 5
-        }
-      ]
-    },
-    {
-      "id": "f269-flat-negro-malla-de-bolitas-con-hebilla",
-      "nombre": "F269 FLAT NEGRO MALLA DE BOLITAS CON HEBILLA",
-      "sku": "F269",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f269-flat-negro-malla-de-bolitas-con-hebilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-1-e1783031165495.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-e1783031149593.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f270-flat-maquillaje-malla-de-bolitas-negras",
-      "nombre": "F270 FLAT MAQUILLAJE MALLA DE BOLITAS NEGRAS",
-      "sku": "F270",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f270-flat-maquillaje-malla-de-bolitas-negras/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-3-1.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-2-e1783031278108.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f271-flat-maquillaje-malla-de-bolitas-negras-correa-terciopelo",
-      "nombre": "F271 FLAT MAQUILLAJE MALLA DE BOLITAS NEGRAS CORREA TERCIOPELO",
-      "sku": "F271",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f271-flat-maquillaje-malla-de-bolitas-negras-correa-terciopelo/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-5-e1783031421340.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-4.24.39-PM-4.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f272-flat-negro-malla-de-bolitas-correa-terciopelo",
-      "nombre": "F272 FLAT NEGRO MALLA DE BOLITAS CORREA TERCIOPELO",
-      "sku": "F272",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f272-flat-negro-malla-de-bolitas-correa-terciopelo/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.52-PM-1-e1783113231596.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.53-PM-e1783113250213.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f273-flat-negro-malla-hebilla-circular",
-      "nombre": "F273 FLAT NEGRO MALLA HEBILLA CIRCULAR",
-      "sku": "F273",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f273-flat-negro-malla-hebilla-circular/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.54-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.54-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f274-flat-maquillaje-malla-bolitas-negras-correa-cruzadas",
-      "nombre": "F274 FLAT MAQUILLAJE MALLA BOLITAS NEGRAS CORREA CRUZADAS",
-      "sku": "F274",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f274-flat-maquillaje-malla-bolitas-negras-correa-cruzadas/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.56-PM.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-3.10.55-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -3593,95 +3056,6 @@
       ]
     },
     {
-      "id": "f282-flat-camel-tipo-tejido",
-      "nombre": "F282 FLAT CAMEL TIPO TEJIDO",
-      "sku": "F282",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f282-flat-camel-tipo-tejido/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.45.42-AM-e1784224173551.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f283-flat-cafe-de-red",
-      "nombre": "F283 FLAT CAFE DE RED",
-      "sku": "F283",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f283-flat-cafe-de-red/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.45.43-AM-1-e1784224240379.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.45.43-AM-e1784224256994.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f284-flat-cafe-de-red",
-      "nombre": "F284 FLAT CAFE DE RED",
-      "sku": "F284",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f284-flat-cafe-de-red/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.45.44-AM-1-e1784224346437.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-16-at-11.45.44-AM-e1784224372288.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "f285-flat-verde-esmeralda-de-yute",
       "nombre": "F285 FLAT VERDE ESMERALDA DE YUTE",
       "sku": "F285",
@@ -3711,94 +3085,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "f288-flat-latte-de-yute",
-      "nombre": "F288 FLAT LATTE DE YUTE",
-      "sku": "F288",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 449,
-      "url": "https://cocoa-store.com/producto/f288-flat-latte-de-yute/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.14-PM-e1784405275733.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f289-flat-negro-piel-de-durazno-con-cinta",
-      "nombre": "F289 FLAT NEGRO PIEL DE DURAZNO CON CINTA",
-      "sku": "F289",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f289-flat-negro-piel-de-durazno-con-cinta/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.16-PM-e1784405322339.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.17-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "f290-flat-cafe-piel-de-durazno-con-cinta",
-      "nombre": "F290 FLAT CAFE PIEL DE DURAZNO CON CINTA",
-      "sku": "F290",
-      "categoria": "MULES , FLATS Y MOCASINES",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/f290-flat-cafe-piel-de-durazno-con-cinta/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-12.51.18-PM-e1784414311770.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -4068,7 +3354,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -4158,12 +3444,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -4191,7 +3477,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -4327,7 +3613,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -4337,7 +3623,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -4661,22 +3947,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 16
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         }
       ]
     },
@@ -4699,7 +3985,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -4765,7 +4051,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -4794,7 +4080,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -4958,8 +4244,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5092,13 +4377,12 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -5129,8 +4413,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5157,22 +4440,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 6
         }
       ]
     },
@@ -5191,22 +4474,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 11
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 16
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 5
         }
       ]
     },
@@ -5257,22 +4540,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 16
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         }
       ]
     },
@@ -5328,12 +4611,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -5357,22 +4640,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         }
       ]
     },
@@ -5424,22 +4707,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 10
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 19
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 20
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 9
         }
       ]
     },
@@ -5460,8 +4743,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5522,12 +4804,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -5553,19 +4835,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -5582,19 +4868,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -5689,7 +4979,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -5828,7 +5118,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -6598,8 +5888,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -6845,7 +6134,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -8507,12 +7796,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 23
+          "cantidad": 21
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 23
+          "cantidad": 22
         },
         {
           "numero": "6",
@@ -8540,7 +7829,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "4",
@@ -8578,17 +7867,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -8616,7 +7905,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -8691,7 +7980,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -9393,7 +8682,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "5",
@@ -9574,12 +8863,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -9722,12 +9011,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "5",
@@ -9813,7 +9102,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -9895,7 +9184,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -9927,18 +9216,17 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -10132,7 +9420,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -11432,7 +10720,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -11598,12 +10886,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -12261,7 +11549,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
