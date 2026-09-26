@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25 10:47 UTC",
-  "total": 340,
+  "actualizado": "2026-09-26 10:28 UTC",
+  "total": 329,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -1107,7 +1107,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -1287,7 +1287,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -1562,7 +1562,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -1755,7 +1755,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -2534,7 +2534,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -3291,8 +3291,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3359,7 +3358,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -3682,7 +3681,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -4010,7 +4009,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "4",
@@ -4731,22 +4730,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -4765,22 +4764,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -5195,7 +5194,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -5855,7 +5854,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "7",
@@ -5953,8 +5952,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5993,7 +5991,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "6",
@@ -6172,7 +6170,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -6238,7 +6236,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -7139,7 +7137,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -7216,7 +7215,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -7849,7 +7849,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "4",
@@ -8269,7 +8269,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -8355,7 +8355,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -9211,12 +9211,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "5",
@@ -10478,171 +10478,6 @@
       ]
     },
     {
-      "id": "t144-tacon-negro-sintetico-de-punta-con-sujetador",
-      "nombre": "T144 TACON NEGRO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T144",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t144-tacon-negro-sintetico-de-punta-con-sujetador/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-03-02-at-4.14.42-PM-1-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t145-tacon-cafe-sintetico-de-punta-con-sujetador",
-      "nombre": "T145 TACON CAFE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T145",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t145-tacon-cafe-sintetico-de-punta-con-sujetador/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t146-tacon-maquillaje-sintetico-de-punta-con-sujetador",
-      "nombre": "T146 TACON MAQUILLAJE SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T146",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t146-tacon-maquillaje-sintetico-de-punta-con-sujetador/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.00-PM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t147-tacon-rojo-sintetico-de-punta-con-sujetador",
-      "nombre": "T147 TACON ROJO SINTETICO DE PUNTA CON SUJETADOR",
-      "sku": "T147",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t147-tacon-rojo-sintetico-de-punta-con-sujetador/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-07-at-4.40.01-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t148-tacon-negro-de-punta-con-el-tacon-ancho",
-      "nombre": "T148 TACON MAQUILLAJE DE PUNTA CON EL TACON ANCHO",
-      "sku": "T148",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t148-tacon-negro-de-punta-con-el-tacon-ancho/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-17-at-3.08.46-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
       "id": "t149-tacon-latte-picudo-tacon-6-cm",
       "nombre": "T149 TACON LATTE PICUDO TACON 6 CM",
       "sku": "T149",
@@ -10771,7 +10606,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -10787,139 +10622,6 @@
           "numero": "7",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "t153-tacon-negro-abierto",
-      "nombre": "T153 TACON NEGRO ABIERTO",
-      "sku": "T153",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t153-tacon-negro-abierto/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-2-e1777563594586.jpeg",
-        "https://cocoa-store.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-9.33.09-AM-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t154-tacon-vino-abierto",
-      "nombre": "T154 TACON VINO ABIERTO",
-      "sku": "T154",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t154-tacon-vino-abierto/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.58-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t155-tacon-maquillaje-abierto",
-      "nombre": "T155 TACON MAQUILLAJE ABIERTO",
-      "sku": "T155",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t155-tacon-maquillaje-abierto/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.35.59-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t156-tacon-cafe-abierto",
-      "nombre": "T156 TACON CAFE ABIERTO",
-      "sku": "T156",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t156-tacon-cafe-abierto/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-11.36.00-AM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
         }
       ]
     },
@@ -10941,8 +10643,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -10953,73 +10654,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 4
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 1
-        }
-      ]
-    },
-    {
-      "id": "t158-tacon-cafe-de-doble-tira-6cm",
-      "nombre": "T158 TACON CAFE DE DOBLE TIRA 6CM",
-      "sku": "T158",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t158-tacon-cafe-de-doble-tira-6cm/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/taconcafe1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
-        },
-        {
-          "numero": "7",
-          "disponible": false
-        }
-      ]
-    },
-    {
-      "id": "t159-tacon-latte-de-doble-tira-6cm",
-      "nombre": "T159 TACON LATTE DE DOBLE TIRA 6CM",
-      "sku": "T159",
-      "categoria": "TACONES",
-      "precio": 649,
-      "url": "https://cocoa-store.com/producto/t159-tacon-latte-de-doble-tira-6cm/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/06/taconlate1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": false
         },
         {
           "numero": "7",
@@ -11048,8 +10682,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -11228,7 +10861,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -11372,7 +11005,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -11569,7 +11202,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -11605,12 +11238,11 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -11643,7 +11275,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -11707,7 +11339,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
