@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02 11:31 UTC",
-  "total": 335,
+  "actualizado": "2026-10-03 10:47 UTC",
+  "total": 333,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -378,7 +378,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -1140,7 +1140,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         }
       ]
     },
@@ -1281,7 +1281,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -3474,7 +3474,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -4353,13 +4353,11 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4608,22 +4606,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -4642,22 +4640,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -7915,7 +7913,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -9470,39 +9468,6 @@
       ]
     },
     {
-      "id": "s883-sandalia-latte-doble-tira-de-velcro",
-      "nombre": "S883 SANDALIA LATTE DOBLE TIRA DE VELCRO",
-      "sku": "S883",
-      "categoria": "SANDALIAS",
-      "precio": 499,
-      "url": "https://cocoa-store.com/producto/s883-sandalia-latte-doble-tira-de-velcro/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/07/WhatsApp-Image-2026-03-19-at-3.31.36-PM-3.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 4
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 20
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 3
-        }
-      ]
-    },
-    {
       "id": "s884-sandalia-negra-doble-tira-de-velcro",
       "nombre": "S884 SANDALIA NEGRA DOBLE TIRA DE VELCRO",
       "sku": "S884",
@@ -9562,38 +9527,6 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 3
-        }
-      ]
-    },
-    {
-      "id": "s925-sandalia-cafe-de-malla-con-cristales",
-      "nombre": "S925 SANDALIA CAFE DE MALLA CON CRISTALES",
-      "sku": "S925",
-      "categoria": "SANDALIAS \"S\"",
-      "precio": 399,
-      "url": "https://cocoa-store.com/producto/s925-sandalia-cafe-de-malla-con-cristales/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-11-at-12.43.14-PM.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 2
-        },
-        {
-          "numero": "5",
-          "disponible": true,
-          "cantidad": 3
-        },
-        {
-          "numero": "6",
-          "disponible": false
         }
       ]
     },
@@ -10469,7 +10402,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
