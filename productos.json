@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04 11:29 UTC",
+  "actualizado": "2026-10-05 12:56 UTC",
   "total": 333,
   "productos": [
     {
@@ -1093,8 +1093,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5671,7 +5670,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -6230,7 +6229,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "4",
@@ -6311,7 +6310,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 18
         },
         {
           "numero": "6",
@@ -7965,8 +7964,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -11401,12 +11399,11 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
