@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07 12:15 UTC",
-  "total": 333,
+  "actualizado": "2026-10-08 12:26 UTC",
+  "total": 336,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -405,7 +405,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 27
+          "cantidad": 26
         },
         {
           "numero": "6",
@@ -438,7 +438,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1092,21 +1092,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 9
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1139,6 +1141,105 @@
           "numero": "6",
           "disponible": true,
           "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "bn297-bota-latte-camel-piel-de-durazno-punta-dorada",
+      "nombre": "BN297 BOTA LATTE CAMEL PIEL DE DURAZNO PUNTA DORADA",
+      "sku": "BN297",
+      "categoria": "BOTA ALTA",
+      "precio": 799,
+      "url": "https://cocoa-store.com/producto/bn297-bota-latte-camel-piel-de-durazno-punta-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "bn298-bota-chocolate-camel-piel-de-durazno-punta-dorada",
+      "nombre": "BN298 BOTA CHOCOLATE CAMEL PIEL DE DURAZNO PUNTA DORADA",
+      "sku": "BN298",
+      "categoria": "BOTA ALTA",
+      "precio": 799,
+      "url": "https://cocoa-store.com/producto/bn298-bota-chocolate-camel-piel-de-durazno-punta-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "bn299-bota-negra-camel-piel-de-durazno-punta-dorada",
+      "nombre": "BN299 BOTA NEGRA CAMEL PIEL DE DURAZNO PUNTA DORADA",
+      "sku": "BN299",
+      "categoria": "BOTA ALTA",
+      "precio": 799,
+      "url": "https://cocoa-store.com/producto/bn299-bota-negra-camel-piel-de-durazno-punta-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1773,8 +1874,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -2066,7 +2166,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -2420,7 +2520,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -2651,7 +2751,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2718,7 +2818,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -2890,7 +2990,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -3423,7 +3523,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -4019,7 +4119,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -4370,8 +4470,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4638,7 +4737,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -9024,7 +9123,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -9310,7 +9409,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -10995,7 +11094,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
