@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08 12:26 UTC",
-  "total": 336,
+  "actualizado": "2026-10-09 12:15 UTC",
+  "total": 358,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -400,12 +400,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 23
+          "cantidad": 22
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 26
+          "cantidad": 25
         },
         {
           "numero": "6",
@@ -529,12 +529,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
@@ -1130,12 +1130,12 @@
         },
         {
           "numero": "4",
-          "disponible": true
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1152,7 +1152,7 @@
       "precio": 799,
       "url": "https://cocoa-store.com/producto/bn297-bota-latte-camel-piel-de-durazno-punta-dorada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-2.42.29-PM.jpeg"
       ],
       "tallas": [
         {
@@ -1185,7 +1185,7 @@
       "precio": 799,
       "url": "https://cocoa-store.com/producto/bn298-bota-chocolate-camel-piel-de-durazno-punta-dorada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-2.42.29-PM-1-e1791492990853.jpeg"
       ],
       "tallas": [
         {
@@ -1218,7 +1218,7 @@
       "precio": 799,
       "url": "https://cocoa-store.com/producto/bn299-bota-negra-camel-piel-de-durazno-punta-dorada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-2.42.29-PM-2.jpeg"
       ],
       "tallas": [
         {
@@ -1443,12 +1443,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -1604,6 +1604,80 @@
       ]
     },
     {
+      "id": "bn302-botin-black-de-punta-con-hebilla-de-k",
+      "nombre": "BN302 BOTIN BLACK DE PUNTA CON HEBILLA DE “K”",
+      "sku": "BN302",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 709,
+      "url": "https://cocoa-store.com/producto/bn302-botin-black-de-punta-con-hebilla-de-k/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-2.52.23-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn303-botin-coffe-de-punta-con-hebilla-de-k",
+      "nombre": "BN303 BOTIN COFFE DE PUNTA CON HEBILLA DE “K”",
+      "sku": "BN303",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 709,
+      "url": "https://cocoa-store.com/producto/bn303-botin-coffe-de-punta-con-hebilla-de-k/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-2.52.23-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
       "id": "bu130-bota-ugg-gris-sencilla",
       "nombre": "BU130 BOTA UGG GRIS SENCILLA",
       "sku": "BU130",
@@ -1742,19 +1816,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1870,7 +1948,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -1879,6 +1957,72 @@
         {
           "numero": "6",
           "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "bn300-bota-color-brandy-con-hebilla-redonda-de-flor",
+      "nombre": "BN300 BOTA COLOR BRANDY CON HEBILLA REDONDA DE FLOR",
+      "sku": "BN300",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn300-bota-color-brandy-con-hebilla-redonda-de-flor/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 15
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bn301-bota-negra-con-hebilla-redonda-de-flor",
+      "nombre": "BN301 BOTA NEGRA CON HEBILLA REDONDA DE FLOR",
+      "sku": "BN301",
+      "categoria": "COWBOY BOOTS",
+      "precio": 649,
+      "url": "https://cocoa-store.com/producto/bn301-bota-negra-con-hebilla-redonda-de-flor/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1969,7 +2113,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -1996,7 +2140,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -2099,7 +2243,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -2132,7 +2276,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -2200,7 +2344,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2525,7 +2669,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -3048,7 +3192,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -3081,7 +3225,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 18
+          "cantidad": 17
         },
         {
           "numero": "5",
@@ -3091,7 +3235,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         }
       ]
     },
@@ -3180,7 +3324,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -3218,7 +3362,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -3518,17 +3662,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -3550,17 +3694,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
@@ -3623,7 +3767,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -3718,8 +3862,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3845,12 +3988,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -4048,7 +4191,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -4335,7 +4478,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -4699,12 +4842,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -4833,12 +4976,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -4868,11 +5011,660 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f347-flat-maquillaje-de-malla-polka-dot-sujetador-de-terciopeloia",
+      "nombre": "F347 FLAT MAQUILLAJE DE MALLA POLKA DOT SUJETADOR DE TERCIOPELO",
+      "sku": "F347",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f347-flat-maquillaje-de-malla-polka-dot-sujetador-de-terciopeloia/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f348-flat-maquillaje-de-malla-polka-dot-hebilla-redonda",
+      "nombre": "F348 FLAT MAQUILLAJE DE MALLA POLKA DOT HEBILLA REDONDA",
+      "sku": "F348",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f348-flat-maquillaje-de-malla-polka-dot-hebilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f350-flat-negro-de-brillos",
+      "nombre": "F350 FLAT NEGRO DE BRILLOS",
+      "sku": "F350",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f350-flat-negro-de-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f351-flat-apricot-de-brillos",
+      "nombre": "F351 FLAT APRICOT DE BRILLOS",
+      "sku": "F351",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f351-flat-apricot-de-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f352-flat-coffe-de-brillos",
+      "nombre": "F352 FLAT COFFE DE BRILLOS",
+      "sku": "F352",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f352-flat-coffe-de-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f353-flat-khaki-de-brillos",
+      "nombre": "F353 FLAT KHAKI DE BRILLOS",
+      "sku": "F353",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f353-flat-khaki-de-brillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f354-zuecos-black-con-diseno-en-la-orilla",
+      "nombre": "F354 ZUECOS BLACK CON DISEÑO EN LA ORILLA",
+      "sku": "F354",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f354-zuecos-black-con-diseno-en-la-orilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f355-zuecos-brown-con-diseno-en-la-orilla",
+      "nombre": "F355 ZUECOS BROWN CON DISEÑO EN LA ORILLA",
+      "sku": "F355",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f355-zuecos-brown-con-diseno-en-la-orilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f356-zuecos-beige-con-diseno-en-la-orilla",
+      "nombre": "F356 ZUECOS BEIGE CON DISEÑO EN LA ORILLA",
+      "sku": "F356",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f356-zuecos-beige-con-diseno-en-la-orilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f357-zuecos-camel-con-diseno-en-la-orilla",
+      "nombre": "F357 ZUECOS CAMEL CON DISEÑO EN LA ORILLA",
+      "sku": "F357",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f357-zuecos-camel-con-diseno-en-la-orilla/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f358-zuecos-black-piel-de-durazno",
+      "nombre": "F358 ZUECOS BLACK PIEL DE DURAZNO",
+      "sku": "F358",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f358-zuecos-black-piel-de-durazno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f359-zuecos-brown-piel-de-durazno",
+      "nombre": "F359 ZUECOS BROWN PIEL DE DURAZNO",
+      "sku": "F359",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f359-zuecos-brown-piel-de-durazno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f360-zuecos-beige-piel-de-durazno",
+      "nombre": "F360 ZUECOS BEIGE PIEL DE DURAZNO",
+      "sku": "F360",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f360-zuecos-beige-piel-de-durazno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f361-zuecos-pink-piel-de-durazno",
+      "nombre": "F361 ZUECOS PINK PIEL DE DURAZNO",
+      "sku": "F361",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f361-zuecos-pink-piel-de-durazno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f362-zuecos-black-sencillos",
+      "nombre": "F362 ZUECOS BLACK SENCILLOS",
+      "sku": "F362",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f362-zuecos-black-sencillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f363-zuecos-brown-sencillos",
+      "nombre": "F363 ZUECOS BROWN SENCILLOS",
+      "sku": "F363",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f363-zuecos-brown-sencillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f364-zuecos-beige-sencillos",
+      "nombre": "F364 ZUECOS BEIGE SENCILLOS",
+      "sku": "F364",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f364-zuecos-beige-sencillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f365-zuecos-camel-sencillos",
+      "nombre": "F365 ZUECOS CAMEL SENCILLOS",
+      "sku": "F365",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/f365-zuecos-camel-sencillos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": false
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        },
+        {
+          "numero": "7",
           "disponible": false
         }
       ]
@@ -4898,8 +5690,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -5640,7 +6431,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -5655,7 +6446,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "7",
@@ -8479,7 +9270,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -9164,7 +9955,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 14
         },
         {
           "numero": "6",
@@ -9235,7 +10026,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -9367,7 +10158,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -10482,8 +11273,7 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -11104,7 +11894,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "7",
