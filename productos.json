@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09 12:15 UTC",
-  "total": 358,
+  "actualizado": "2026-10-10 11:33 UTC",
+  "total": 359,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -329,7 +329,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "4",
@@ -367,17 +367,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -395,7 +395,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -405,7 +405,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 25
+          "cantidad": 24
         },
         {
           "numero": "6",
@@ -502,7 +502,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -756,7 +756,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -1158,22 +1158,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -1191,22 +1191,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -1223,23 +1223,22 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -1443,12 +1442,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1616,27 +1615,33 @@
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -1661,19 +1666,23 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -1721,8 +1730,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -1968,7 +1976,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/bn300-bota-color-brandy-con-hebilla-redonda-de-flor/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.12.25-PM.jpeg"
       ],
       "tallas": [
         {
@@ -2001,7 +2009,7 @@
       "precio": 649,
       "url": "https://cocoa-store.com/producto/bn301-bota-negra-con-hebilla-redonda-de-flor/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.12.25-PM-1.jpeg"
       ],
       "tallas": [
         {
@@ -2659,7 +2667,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -2668,8 +2676,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3796,7 +3803,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
@@ -4364,7 +4371,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -4582,8 +4589,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -4837,17 +4843,15 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
@@ -4869,23 +4873,21 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5027,53 +5029,94 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f347-flat-maquillaje-de-malla-polka-dot-sujetador-de-terciopeloia/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-3.47.57-PM-e1791584353485.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         }
       ]
     },
     {
       "id": "f348-flat-maquillaje-de-malla-polka-dot-hebilla-redonda",
-      "nombre": "F348 FLAT MAQUILLAJE DE MALLA POLKA DOT HEBILLA REDONDA",
+      "nombre": "F348 FLAT MAQUILLAJE DE MALLA POLKA DOT HEBILLA DORADA",
       "sku": "F348",
       "categoria": "MULES , FLATS Y MOCASINES",
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f348-flat-maquillaje-de-malla-polka-dot-hebilla-redonda/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-3.47.58-PM.jpeg"
       ],
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
+        }
+      ]
+    },
+    {
+      "id": "f349-flat-negro-de-malla-polka-dot-hebilla-dorada",
+      "nombre": "F349 FLAT NEGRO DE MALLA POLKA DOT HEBILLA DORADA",
+      "sku": "F349",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 449,
+      "url": "https://cocoa-store.com/producto/f349-flat-negro-de-malla-polka-dot-hebilla-dorada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-3.47.58-PM-1.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 5
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 5
         }
       ]
     },
@@ -5085,32 +5128,38 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f350-flat-negro-de-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-12.27.03-PM.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -5122,16 +5171,18 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f351-flat-apricot-de-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.12-PM.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -5139,15 +5190,18 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5159,16 +5213,18 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f352-flat-coffe-de-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-12.27.29-PM.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -5180,11 +5236,13 @@
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5196,12 +5254,13 @@
       "precio": 449,
       "url": "https://cocoa-store.com/producto/f353-flat-khaki-de-brillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-12.26.43-PM-e1791577190354.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
@@ -5221,7 +5280,8 @@
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5233,32 +5293,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f354-zuecos-black-con-diseno-en-la-orilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.20.59-PM-e1791578308185.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -5270,32 +5336,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f355-zuecos-brown-con-diseno-en-la-orilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.12-PM-1-e1791584674970.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         }
       ]
     },
@@ -5307,32 +5379,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f356-zuecos-beige-con-diseno-en-la-orilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.23.44-PM-e1791578574712.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5344,16 +5422,18 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f357-zuecos-camel-con-diseno-en-la-orilla/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.13-PM-e1791584757566.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -5365,11 +5445,13 @@
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5381,32 +5463,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f358-zuecos-black-piel-de-durazno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.14-PM.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -5418,32 +5506,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f359-zuecos-brown-piel-de-durazno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.58.07-PM-e1791579144718.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -5455,16 +5549,18 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f360-zuecos-beige-piel-de-durazno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.14-PM-1-e1791584923455.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -5480,7 +5576,8 @@
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5492,32 +5589,38 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f361-zuecos-pink-piel-de-durazno/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.58.39-PM-e1791579629921.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         }
       ]
     },
@@ -5529,12 +5632,13 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f362-zuecos-black-sencillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-4.07.14-PM-2-e1791585004876.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
@@ -5542,19 +5646,23 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -5566,12 +5674,13 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f363-zuecos-brown-sencillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.55.55-PM-e1791579982653.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
@@ -5579,19 +5688,23 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 8
         }
       ]
     },
@@ -5603,12 +5716,13 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f364-zuecos-beige-sencillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.55.56-PM-e1791580232148.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
@@ -5640,12 +5754,13 @@
       "precio": 419,
       "url": "https://cocoa-store.com/producto/f365-zuecos-camel-sencillos/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-1.55.56-PM-1-e1791580402351.jpeg"
       ],
       "tallas": [
         {
           "numero": "2",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 2
         },
         {
           "numero": "3",
@@ -5665,7 +5780,8 @@
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -6083,7 +6199,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 10
         },
         {
           "numero": "5",
@@ -8739,7 +8855,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 18
         },
         {
           "numero": "6",
@@ -8814,7 +8930,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -8846,12 +8962,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -9156,7 +9272,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -9351,7 +9467,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "7",
@@ -9621,7 +9737,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -9658,7 +9774,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 16
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -9770,7 +9886,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -9919,7 +10035,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -9950,7 +10066,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 13
+          "cantidad": 12
         },
         {
           "numero": "5",
@@ -10152,8 +10268,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -11340,7 +11455,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -11658,7 +11773,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -11884,7 +11999,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -12152,7 +12267,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -12230,8 +12345,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
