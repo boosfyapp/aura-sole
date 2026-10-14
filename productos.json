@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13 13:07 UTC",
-  "total": 363,
+  "actualizado": "2026-10-14 10:49 UTC",
+  "total": 361,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -398,7 +398,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 22
+          "cantidad": 21
         },
         {
           "numero": "5",
@@ -495,7 +495,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -1133,12 +1133,11 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -1670,7 +1669,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1681,73 +1680,6 @@
           "numero": "7",
           "disponible": true,
           "cantidad": 2
-        }
-      ]
-    },
-    {
-      "id": "bu130-bota-ugg-gris-sencilla",
-      "nombre": "BU130 BOTA UGG GRIS SENCILLA",
-      "sku": "BU130",
-      "categoria": "BOTAS Y PANTUFLA UGG",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/bu130-bota-ugg-gris-sencilla/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-14.27.56-1.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3-4",
-          "disponible": false
-        },
-        {
-          "numero": "5-6",
-          "disponible": false
-        },
-        {
-          "numero": "7-8",
-          "disponible": true,
-          "cantidad": 12
-        }
-      ]
-    },
-    {
-      "id": "bu240-bota-ugg-gris-sencilla-corta",
-      "nombre": "BU240 BOTA UGG GREEN SENCILLA CORTA",
-      "sku": "BU240",
-      "categoria": "BOTAS Y PANTUFLA UGG",
-      "precio": 409,
-      "url": "https://cocoa-store.com/producto/bu240-bota-ugg-gris-sencilla-corta/",
-      "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-29-at-14.30.54.jpeg"
-      ],
-      "tallas": [
-        {
-          "numero": "3",
-          "disponible": true,
-          "cantidad": 14
-        },
-        {
-          "numero": "4",
-          "disponible": false
-        },
-        {
-          "numero": "5",
-          "disponible": false
-        },
-        {
-          "numero": "6",
-          "disponible": true,
-          "cantidad": 15
-        },
-        {
-          "numero": "7",
-          "disponible": true,
-          "cantidad": 10
-        },
-        {
-          "numero": "8",
-          "disponible": true,
-          "cantidad": 15
         }
       ]
     },
@@ -1984,17 +1916,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -2011,8 +1943,7 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
@@ -2050,12 +1981,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2083,12 +2014,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -3192,8 +3123,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3231,7 +3161,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "6",
@@ -3265,7 +3195,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -4949,12 +4879,11 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -5044,8 +4973,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5181,7 +5109,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -5213,8 +5141,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
@@ -5226,8 +5153,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5262,8 +5188,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -5305,8 +5230,7 @@
         },
         {
           "numero": "7",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -5382,7 +5306,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "7",
@@ -5409,8 +5333,7 @@
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5420,7 +5343,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -5540,7 +5463,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -5550,7 +5473,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "7",
@@ -5629,7 +5552,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -5660,8 +5584,7 @@
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5669,13 +5592,11 @@
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "7",
@@ -5707,7 +5628,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -7056,7 +6977,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "7",
@@ -7125,8 +7046,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "7",
@@ -10044,7 +9964,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -10283,7 +10203,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -10470,7 +10390,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
@@ -12399,7 +12319,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         }
       ]
     },
