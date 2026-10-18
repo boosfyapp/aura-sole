@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17 09:53 UTC",
-  "total": 361,
+  "actualizado": "2026-10-18 10:04 UTC",
+  "total": 377,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -265,7 +265,8 @@
         },
         {
           "numero": "4-5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5-5",
@@ -344,7 +345,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         }
       ]
     },
@@ -754,7 +755,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -1091,22 +1092,21 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 7
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -1436,7 +1436,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -1680,6 +1680,317 @@
       ]
     },
     {
+      "id": "bu625-botin-cafe-ugg-con-bordado-artesanal",
+      "nombre": "BU625 BOTIN CAFE UGG CON BORDADO ARTESANAL",
+      "sku": "BU625",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/bu625-botin-cafe-ugg-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.44.05-PM-e1792275053188.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.44.06-PM-1-e1792275315279.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 1
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bu626-botin-negro-ugg-con-bordado-artesanal",
+      "nombre": "BU626 BOTIN NEGRO UGG CON BORDADO ARTESANAL",
+      "sku": "BU626",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/bu626-botin-negro-ugg-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.41.54-PM-e1792275433887.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.41.55-PM-e1792275414110.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 3
+        }
+      ]
+    },
+    {
+      "id": "bu627-botin-camel-ugg-con-bordado-artesanal",
+      "nombre": "BU627 BOTIN CAMEL UGG CON BORDADO ARTESANAL",
+      "sku": "BU627",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/bu627-botin-camel-ugg-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.42.44-PM-e1792275553256.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-2.42.45-PM-e1792275572339.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "2",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "7",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bu628-botin-negro-ugg-nina-con-bordado-artesanal",
+      "nombre": "BU628 BOTIN NEGRO UGG NIÑA CON BORDADO ARTESANAL",
+      "sku": "BU628",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu628-botin-negro-ugg-nina-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-3.02.30-PM-e1792275673974.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "12-13",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "14-15",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "16-17",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "bu629-botin-beige-ugg-nina-con-bordado-artesanal",
+      "nombre": "BU629 BOTIN BEIGE UGG NIÑA CON BORDADO ARTESANAL",
+      "sku": "BU629",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu629-botin-beige-ugg-nina-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-3.02.03-PM-e1792276081635.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "12-13",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "14-15",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "16-17",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "bu630-botin-cafe-ugg-nina-con-bordado-artesanal",
+      "nombre": "BU630 BOTIN CAFE UGG NIÑA CON BORDADO ARTESANAL",
+      "sku": "BU630",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu630-botin-cafe-ugg-nina-con-bordado-artesanal/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-3.03.14-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "12-13",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "14-15",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "16-17",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "bu631-botin-beige-ugg-de-nina",
+      "nombre": "BU631 BOTIN BEIGE UGG DE NIÑA",
+      "sku": "BU631",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu631-botin-beige-ugg-de-nina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-3.02.03-PM-e1792276081635.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "16-17",
+          "disponible": false
+        },
+        {
+          "numero": "17-18",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "19-20",
+          "disponible": true,
+          "cantidad": 9
+        },
+        {
+          "numero": "21-22",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
+      "id": "bu632-botin-negro-ugg-de-nina",
+      "nombre": "BU632 BOTIN NEGRO UGG DE NIÑA",
+      "sku": "BU632",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu632-botin-negro-ugg-de-nina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "16-17",
+          "disponible": false
+        },
+        {
+          "numero": "17-18",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "19-20",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "21-22",
+          "disponible": true,
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "bu633-botin-cafe-ugg-de-nina",
+      "nombre": "BU633 BOTIN CAFE UGG DE NIÑA",
+      "sku": "BU633",
+      "categoria": "BOTAS Y PANTUFLA UGG",
+      "precio": 419,
+      "url": "https://cocoa-store.com/producto/bu633-botin-cafe-ugg-de-nina/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "16-17",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "17-18",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "19-20",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "21-22",
+          "disponible": true,
+          "cantidad": 7
+        }
+      ]
+    },
+    {
       "id": "bn286-bota-negra-con-diseno-en-ambos-lados",
       "nombre": "BN286 BOTA NEGRA CON DISEÑO EN AMBOS LADOS",
       "sku": "BN286",
@@ -1751,7 +2062,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -2111,7 +2422,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -2143,7 +2454,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 13
         },
         {
           "numero": "6",
@@ -2230,7 +2541,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -2499,7 +2810,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2530,7 +2842,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -2655,12 +2968,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -2682,7 +2995,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -3025,7 +3338,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -3049,17 +3362,17 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 20
+          "cantidad": 19
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 17
         },
         {
           "numero": "6",
@@ -3179,17 +3492,16 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "6",
@@ -3212,22 +3524,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 13
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 14
+          "cantidad": 13
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -3311,12 +3623,11 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3654,12 +3965,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -3686,12 +3997,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -4832,19 +5143,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 7
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 12
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         }
       ]
     },
@@ -4862,20 +5176,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 14
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         }
       ]
     },
@@ -4908,7 +5225,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         }
       ]
     },
@@ -4960,19 +5277,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 11
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 5
         }
       ]
     },
@@ -4990,19 +5311,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 15
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 13
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         }
       ]
     },
@@ -5279,7 +5604,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -5315,7 +5640,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -5467,8 +5792,7 @@
         },
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
@@ -5589,7 +5913,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -5664,7 +5988,7 @@
         {
           "numero": "2",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "3",
@@ -5742,22 +6066,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 9
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 18
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 9
         }
       ]
     },
@@ -5776,22 +6100,257 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 9
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 18
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 17
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 8
+        }
+      ]
+    },
+    {
+      "id": "f368-flat-vino-rosa-correa-corrugada",
+      "nombre": "F368 FLAT VINO/ROSA CORREA CORRUGADA",
+      "sku": "F368",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f368-flat-vino-rosa-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.05-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.05-PM-1-e1792277263918.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f369-flat-rosa-gris-correa-corrugada",
+      "nombre": "F369 FLAT ROSA/GRIS CORREA CORRUGADA",
+      "sku": "F369",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f369-flat-rosa-gris-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.07-PM-e1792277383394.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.06-PM-e1792277365690.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f370-flat-azul-lila-correa-corrugada",
+      "nombre": "F370 FLAT AZUL/LILA CORREA CORRUGADA",
+      "sku": "F370",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f370-flat-azul-lila-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.07-PM-1.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.07-PM-3.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f371-flat-negro-beige-correa-corrugada",
+      "nombre": "F371 FLAT NEGRO/BEIGE CORREA CORRUGADA",
+      "sku": "F371",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f371-flat-negro-beige-correa-corrugada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.08-PM.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-4.42.09-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f372-flat-camel-habilla-redonda",
+      "nombre": "F372 FLAT CAMEL HABILLA REDONDA",
+      "sku": "F372",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f372-flat-camel-habilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f373-flat-vino-habilla-redonda",
+      "nombre": "F373 FLAT VINO HABILLA REDONDA",
+      "sku": "F373",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f373-flat-vino-habilla-redonda/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f374-flatnegro-agarradera-en-talon",
+      "nombre": "F374 FLATNEGRO AGARRADERA EN TALON",
+      "sku": "F374",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 499,
+      "url": "https://cocoa-store.com/producto/f374-flatnegro-agarradera-en-talon/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/woocommerce-placeholder.png"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 10
         }
       ]
     },
@@ -5808,19 +6367,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 20
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 20
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 10
         }
       ]
     },
@@ -7316,7 +7879,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 18
         },
         {
           "numero": "6",
@@ -7392,7 +7955,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -8969,7 +9532,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -12011,7 +12575,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -12274,12 +12838,12 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 9
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         }
       ]
     },
