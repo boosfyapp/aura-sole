@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25 10:21 UTC",
+  "actualizado": "2026-10-26 11:47 UTC",
   "total": 382,
   "productos": [
     {
@@ -393,7 +393,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -791,7 +791,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 9
         },
         {
           "numero": "5",
@@ -1095,7 +1095,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -2217,8 +2217,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -2739,7 +2738,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         }
       ]
     },
@@ -2945,12 +2944,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -2982,7 +2981,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -3286,7 +3285,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 1
         }
       ]
     },
@@ -3445,17 +3444,17 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 19
+          "cantidad": 17
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -3536,22 +3535,21 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3574,8 +3572,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -3607,12 +3604,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 11
+          "cantidad": 9
         },
         {
           "numero": "6",
@@ -6304,12 +6301,12 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -13107,7 +13104,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
