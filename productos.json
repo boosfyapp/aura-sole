@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-28 11:47 UTC",
-  "total": 384,
+  "actualizado": "2026-10-29 11:57 UTC",
+  "total": 391,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -463,7 +463,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -522,7 +522,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -1100,7 +1100,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 5
         },
         {
           "numero": "6",
@@ -1697,11 +1697,13 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1741,7 +1743,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1750,7 +1753,7 @@
         {
           "numero": "7",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         }
       ]
     },
@@ -1780,7 +1783,8 @@
         },
         {
           "numero": "5",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "6",
@@ -1971,7 +1975,7 @@
         {
           "numero": "21-22",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 7
         }
       ]
     },
@@ -2116,7 +2120,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
@@ -2177,7 +2181,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -2203,7 +2208,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -2239,7 +2244,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -2267,7 +2272,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -2622,7 +2627,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -2869,7 +2874,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2937,7 +2942,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 17
+          "cantidad": 15
         },
         {
           "numero": "6",
@@ -3095,17 +3100,16 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 3
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -3155,23 +3159,22 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 9
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         }
       ]
     },
@@ -3194,7 +3197,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -3302,8 +3305,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         }
       ]
     },
@@ -4026,7 +4028,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -4091,7 +4093,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 8
         },
         {
           "numero": "5",
@@ -5311,7 +5313,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 12
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -5489,7 +5491,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         }
       ]
     },
@@ -5549,7 +5551,8 @@
         },
         {
           "numero": "4",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "5",
@@ -5711,7 +5714,8 @@
         },
         {
           "numero": "7",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -5849,7 +5853,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -6374,12 +6378,12 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "5",
@@ -6441,22 +6445,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 4
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 9
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 3
         }
       ]
     },
@@ -6474,21 +6478,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 1
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 8
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 7
         }
       ]
     },
@@ -6561,6 +6567,237 @@
       ]
     },
     {
+      "id": "f380-flat-negro-piel-de-durazno-estoperoles-redondos",
+      "nombre": "F380 FLAT NEGRO PIEL DE DURAZNO ESTOPEROLES REDONDOS",
+      "sku": "F380",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f380-flat-negro-piel-de-durazno-estoperoles-redondos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.19-PM-e1793213743465.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.19-PM-1-e1793213731628.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f381-flat-cafe-piel-de-durazno-estoperoles-redondos",
+      "nombre": "F381 FLAT CAFE PIEL DE DURAZNO ESTOPEROLES REDONDOS",
+      "sku": "F381",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f381-flat-cafe-piel-de-durazno-estoperoles-redondos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.20-PM-e1793213847796.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.20-PM-1-e1793213836828.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "f382-flat-arena-piel-de-durazno-estoperoles-redondos",
+      "nombre": "F382 FLAT ARENA PIEL DE DURAZNO ESTOPEROLES REDONDOS",
+      "sku": "F382",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 479,
+      "url": "https://cocoa-store.com/producto/f382-flat-arena-piel-de-durazno-estoperoles-redondos/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.20-PM-2-e1793213993439.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.21-PM-e1793214004990.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 2
+        }
+      ]
+    },
+    {
+      "id": "f383-flat-negro-herraje-pequeno-piel-de-durazno",
+      "nombre": "F383 FLAT NEGRO HERRAJE PEQUEÑO PIEL DE DURAZNO",
+      "sku": "F383",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 469,
+      "url": "https://cocoa-store.com/producto/f383-flat-negro-herraje-pequeno-piel-de-durazno/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.22-PM-1-e1793218100134.jpeg",
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.22-PM-e1793218161764.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 4
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
+        }
+      ]
+    },
+    {
+      "id": "f384-flat-negro-piel-de-durazno-con-estoperoles",
+      "nombre": "F384 FLAT NEGRO PIEL DE DURAZNO CON ESTOPEROLES",
+      "sku": "F384",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 469,
+      "url": "https://cocoa-store.com/producto/f384-flat-negro-piel-de-durazno-con-estoperoles/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.22-PM-2-e1793218248831.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": false
+        },
+        {
+          "numero": "4",
+          "disponible": false
+        },
+        {
+          "numero": "5",
+          "disponible": false
+        },
+        {
+          "numero": "6",
+          "disponible": false
+        }
+      ]
+    },
+    {
+      "id": "f385-flat-burgundi-piel-de-durazno-con-estoperoles",
+      "nombre": "F385 FLAT BURGUNDI PIEL DE DURAZNO CON ESTOPEROLES",
+      "sku": "F385",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 469,
+      "url": "https://cocoa-store.com/producto/f385-flat-burgundi-piel-de-durazno-con-estoperoles/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.23-PM-e1793218356828.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 11
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 12
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 6
+        }
+      ]
+    },
+    {
+      "id": "f386-flat-cafe-piel-de-durazno-con-estoperoles",
+      "nombre": "F386 FLAT CAFE PIEL DE DURAZNO CON ESTOPEROLES",
+      "sku": "F386",
+      "categoria": "MULES , FLATS Y MOCASINES",
+      "precio": 469,
+      "url": "https://cocoa-store.com/producto/f386-flat-cafe-piel-de-durazno-con-estoperoles/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.37.23-PM-1-e1793218443166.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
       "id": "f85-flat-plateado-de-malla-con-tira-de-brillos",
       "nombre": "F85 FLAT PLATEADO DE MALLA CON TIRA DE BRILLOS",
       "sku": "F85",
@@ -6574,22 +6811,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 3
         }
       ]
     },
@@ -6613,7 +6850,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 11
         },
         {
           "numero": "5",
@@ -10954,7 +11191,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -11052,7 +11290,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
