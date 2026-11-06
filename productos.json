@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05 13:41 UTC",
-  "total": 393,
+  "actualizado": "2026-11-06 13:25 UTC",
+  "total": 396,
   "productos": [
     {
       "id": "p0168-plataforma-yute-negra-punta-abierta",
@@ -526,7 +526,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -1089,21 +1089,23 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
-        },
-        {
-          "numero": "4",
-          "disponible": true,
-          "cantidad": 5
-        },
-        {
-          "numero": "5",
           "disponible": true,
           "cantidad": 4
         },
         {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 13
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1232,90 +1234,167 @@
       ]
     },
     {
-      "id": "ame100-botin-negro-textura",
-      "nombre": "AME100 BOTIN NEGRO TEXTURA/TALLA AMERICANA",
-      "sku": "AME100",
-      "categoria": "BOTA/BOTIN 2025",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/ame100-botin-negro-textura/",
+      "id": "bn309-bota-moka-tipo-shark-lock-candado-dorado",
+      "nombre": "BN309 BOTA MOKA TIPO SHARK LOCK CANDADO DORADO",
+      "sku": "BN309",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn309-bota-moka-tipo-shark-lock-candado-dorado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/09/AME100.jpg"
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.39-PM-e1793912002283.jpeg"
       ],
       "tallas": [
         {
-          "numero": "7",
-          "disponible": false
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
         },
         {
-          "numero": "8",
-          "disponible": false
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
     {
-      "id": "ame120-botin-vaquero-casual-negro-marca-dolce-vita",
-      "nombre": "AME120 BOTIN VAQUERO CASUAL NEGRO MARCA DOLCE VITA/ TALLA AMERICANA",
-      "sku": "AME120",
-      "categoria": "BOTA/BOTIN 2025",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/ame120-botin-vaquero-casual-negro-marca-dolce-vita/",
+      "id": "bn310-bota-negra-tipo-shark-lock-candado-dorado",
+      "nombre": "BN310 BOTA NEGRA TIPO SHARK LOCK CANDADO DORADO",
+      "sku": "BN310",
+      "categoria": "BOTA ALTA",
+      "precio": 849,
+      "url": "https://cocoa-store.com/producto/bn310-bota-negra-tipo-shark-lock-candado-dorado/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/09/7074ecc8-a8ff-4020-8368-0fd48d6a81d5.jpg"
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.39-PM-1.jpeg"
       ],
       "tallas": [
         {
-          "numero": "7",
-          "disponible": false
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 1
         },
         {
-          "numero": "6-5",
-          "disponible": false
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 2
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
     {
-      "id": "ame130-botin-negro-casual-picudo-marc-fisher",
-      "nombre": "AME130 BOTIN NEGRO CASUAL PICUDO MARC FISHER/ TALLA AMERICANA",
-      "sku": "AME130",
-      "categoria": "BOTA/BOTIN 2025",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/ame130-botin-negro-casual-picudo-marc-fisher/",
+      "id": "bn311-bota-negra-hebilla-dorada",
+      "nombre": "BN311 BOTA NEGRA HEBILLA DORADA",
+      "sku": "BN311",
+      "categoria": "BOTA ALTA",
+      "precio": 799,
+      "url": "https://cocoa-store.com/producto/bn311-bota-negra-hebilla-dorada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/09/5c4474be-748f-4356-a41b-f85424d7fc98.jpg"
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.40-PM-e1793912093658.jpeg"
       ],
       "tallas": [
         {
-          "numero": "8-5",
-          "disponible": false
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 4
         },
         {
-          "numero": "9-5",
-          "disponible": false
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
     {
-      "id": "ame70-botin-negro-steve-madden",
-      "nombre": "AME70 BOTIN NEGRO STEVE MADDEN/TALLA AMERICANA",
-      "sku": "AME70",
-      "categoria": "BOTA/BOTIN 2025",
-      "precio": 699,
-      "url": "https://cocoa-store.com/producto/ame70-botin-negro-steve-madden/",
+      "id": "bn312-bota-moka-hebilla-dorada",
+      "nombre": "BN312 BOTA MOKA HEBILLA DORADA",
+      "sku": "BN312",
+      "categoria": "BOTA ALTA",
+      "precio": 799,
+      "url": "https://cocoa-store.com/producto/bn312-bota-moka-hebilla-dorada/",
       "imagenes": [
-        "https://cocoa-store.com/wp-content/uploads/2023/09/59d7bb54-129d-4984-a3bf-55a16e15e667.jpg"
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.41-PM-e1793912155158.jpeg"
       ],
       "tallas": [
         {
-          "numero": "7-5",
-          "disponible": false
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 2
         },
         {
-          "numero": "8-5",
-          "disponible": false
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 6
         },
         {
-          "numero": "9-5",
-          "disponible": false
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bn315-bota-negra-vista-plateada",
+      "nombre": "BN315 BOTA NEGRA VISTA PLATEADA",
+      "sku": "BN315",
+      "categoria": "BOTA ALTA",
+      "precio": 749,
+      "url": "https://cocoa-store.com/producto/bn315-bota-negra-vista-plateada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.42-PM.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 10
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 18
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 20
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 10
         }
       ]
     },
@@ -1428,8 +1507,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         },
         {
           "numero": "5",
@@ -1610,7 +1688,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "5",
@@ -1667,6 +1745,72 @@
           "numero": "7",
           "disponible": true,
           "cantidad": 5
+        }
+      ]
+    },
+    {
+      "id": "bn313-botin-negro-punta-cuadrada",
+      "nombre": "BN313 BOTIN NEGRO PUNTA CUADRADA",
+      "sku": "BN313",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/bn313-botin-negro-punta-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.41-PM-1-e1793912218980.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 7
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 6
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
+        }
+      ]
+    },
+    {
+      "id": "bn314-botin-moka-punta-cuadrada",
+      "nombre": "BN314 BOTIN MOKA PUNTA CUADRADA",
+      "sku": "BN314",
+      "categoria": "BOTA/BOTIN 2025",
+      "precio": 699,
+      "url": "https://cocoa-store.com/producto/bn314-botin-moka-punta-cuadrada/",
+      "imagenes": [
+        "https://cocoa-store.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-2.48.41-PM-2-e1793912292655.jpeg"
+      ],
+      "tallas": [
+        {
+          "numero": "3",
+          "disponible": true,
+          "cantidad": 3
+        },
+        {
+          "numero": "4",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "5",
+          "disponible": true,
+          "cantidad": 8
+        },
+        {
+          "numero": "6",
+          "disponible": true,
+          "cantidad": 4
         }
       ]
     },
@@ -1776,7 +1920,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 3
         },
         {
           "numero": "4",
@@ -1786,7 +1930,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -2354,7 +2498,8 @@
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 6
         }
       ]
     },
@@ -2371,7 +2516,8 @@
       "tallas": [
         {
           "numero": "3",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -2383,7 +2529,8 @@
         },
         {
           "numero": "6",
-          "disponible": false
+          "disponible": true,
+          "cantidad": 1
         }
       ]
     },
@@ -2734,7 +2881,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 7
         },
         {
           "numero": "6",
@@ -2927,7 +3074,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 4
         },
         {
           "numero": "4",
@@ -3250,7 +3397,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 2
+          "cantidad": 1
         },
         {
           "numero": "4",
@@ -4588,7 +4735,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 5
+          "cantidad": 6
         }
       ]
     },
@@ -5230,7 +5377,7 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "4",
@@ -5240,7 +5387,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 4
         },
         {
           "numero": "6",
@@ -5695,13 +5842,12 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "6",
@@ -5817,7 +5963,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 6
+          "cantidad": 5
         },
         {
           "numero": "5",
@@ -5865,7 +6011,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -6429,8 +6575,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
@@ -6498,7 +6643,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 7
+          "cantidad": 6
         },
         {
           "numero": "6",
@@ -6605,7 +6750,7 @@
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 2
         }
       ]
     },
@@ -6629,7 +6774,7 @@
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 15
+          "cantidad": 13
         },
         {
           "numero": "5",
@@ -6672,8 +6817,7 @@
         },
         {
           "numero": "6",
-          "disponible": true,
-          "cantidad": 2
+          "disponible": false
         }
       ]
     },
@@ -6825,22 +6969,22 @@
         {
           "numero": "3",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 3
         },
         {
           "numero": "4",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 8
+          "cantidad": 5
         },
         {
           "numero": "6",
           "disponible": true,
-          "cantidad": 4
+          "cantidad": 1
         }
       ]
     },
@@ -6901,7 +7045,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 3
+          "cantidad": 2
         },
         {
           "numero": "6",
@@ -7102,7 +7246,7 @@
         {
           "numero": "5",
           "disponible": true,
-          "cantidad": 10
+          "cantidad": 8
         },
         {
           "numero": "6",
@@ -13406,8 +13550,7 @@
         },
         {
           "numero": "4",
-          "disponible": true,
-          "cantidad": 1
+          "disponible": false
         },
         {
           "numero": "5",
